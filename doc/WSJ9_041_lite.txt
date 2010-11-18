@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> WSJ890728-0079 </DOCNO>
+<DD> = 890728 </DD>
+<AN> 890728-0079. </AN>
+<HL> Major Deficit
+@  Signaled by Sun
+@  Microsystems
+@  ---
+@  Firm to Post Quarterly Loss
+@  As Much as $26 Million;
+@  Deepening Trouble Seen
+@  ----
+@  By Carrie Dolan
+@  Staff Reporter of The Wall Street Journal </HL>
+<DD> 07/28/89 </DD>
+<SO> WALL STREET JOURNAL (J) </SO>
+<CO> SUNW </CO>
+<IN> COMPUTERS AND INFORMATION TECHNOLOGY (CPR) </IN>
+<DATELINE> MOUNTAIN VIEW, Calif.  </DATELINE>
+<TEXT>
+   Sun Microsystems Inc. said it will post a larger-than-expected fourth-quarter loss of as much as $26 million and may show a loss in the current first quarter, raising further troubling questions about the once high-flying computer workstation maker.
+
+   Sun reported last month that management errors, rather than a weakness in the market for computer workstations, would result in lower earnings or a "slight loss" in the quarter ended June 30.
+But the amount cited in yesterday's disclosure was far greater than analysts had suspected, and suggested deepening troubles.
+
+   "It is extremely disconcerting," said Peter Rogers, computer analyst at Robertson Stephens &amp; Co. in San Francisco.
+"Many of us had been led to believe that most (of the management-systems problems) had been put behind them.
+It looks like there is another layer."
+
+   "On the surface, it would lead one to conclude that Sun has at least temporarily completely lost control of its operations," Mr. Rogers added.
+
+   The maker of high-performance desktop computers now says the loss was probably between $20 million and $26 million, compared with year-ago net income of $25.3 million, or 66 cents a share.
+
+   The huge fourth-quarter loss will bring year-end earnings to between $55 million and $61 million, or between 72 cents and 78 cents a share, compared with year-ago net of $66.4 million, or 89 cents a share.
+
+   Sun said it expects to report fourth-quarter revenue of $425 million to $435 million, up 16% to 19% from a year earlier.
+That would contrast sharply with Sun's third quarter, when revenue surged 92%, and would put full-year revenue in the $1.75 billion to $1.77 billion range, up from $1.05 billion a year earlier.
+
+   Sun said the problems that led to the loss have "largely been resolved," and that it received record bookings in its fourth quarter.
+Still, Sun said profitability in the current quarter, ending Sept. 30, can't be assured.
+The company added that a return to profitability will depend on the effectiveness of cost-cutting measures and its ability to obtain parts.
+A spokeswoman said the company still faces a shortage of certain parts.
+
+   In June, Sun said operations were disrupted by a change to a new system for getting information to management.
+The company also cited faulty forecasting of demand, problems in manufacturing new machines and a shortage of certain parts.
+The spokeswoman reiterated that the company sees strong demand for its products, and believes the market for computer workstations remains healthy.
+
+   Sun said it has imposed a hiring freeze in all areas except sales and customer service, postponed moving into new facilities and curtailed other expenses.
+The spokeswoman wouldn't say how much the cost-cutting measures will save.
+
+   The announcement was made after the market closed.
+Sun's stock closed at $16.25, up 62.5 cents, in national over-the-counter trading.
+
+</TEXT>
+</DOC>
