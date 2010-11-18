@@ -2,27 +2,18 @@ require 'rubygems'
 require 'hpricot'
 require "stanfordparser"
 
-#function to grab an entire file as a string
-def get_file_as_string filename
-  data = ''
-  f = File.open(filename, "r")
-  f.each_line do |line|
-    data += line
-  end
-  return data
-end
-
-def lwr_words text
-  text.downcase.scan(/[a-z]+/)
-end
-
 #read in file
-data = "/Users/jameson/Projects/natural/doc/WSJ9_041_lite.txt"
-puts "Reading in file...#{data}"
-doc = Hpricot(get_file_as_string(data))
+#filename = "/Users/jameson/Projects/natural/doc/WSJ9_041_lite.txt"
+filename = "/Users/jameson/Projects/natural/doc/WSJ9_041.txt"
+data = ""
+f = File.open(filename, "r")
+f.each_line do |line|
+  data += line
+end
 
 #grab the stuff in <text/>
 corpus = ""
+doc = Hpricot(data)
 for text in doc.search("//text")
   corpus += text.inner_html
 end
@@ -35,16 +26,25 @@ for sentence in preproc.getSentencesFromString(corpus)
 end
 
 #create n-grams
+uni_grams = Hash.new(0)
 bi_grams = Hash.new(0)
-tri_grams = Hash.new(0)
 
-num = words.length - 2
+num = words.length - 1
 num.times {|i|
-  bi = words[i] + ' ' + words[i+1]
-  tri = bi + ' ' + words[i+2]
+  uni = words[i]
+  bi = uni + ' ' + words[i+1]
+  uni_grams[uni] += 1
   bi_grams[bi] += 1
-  tri_grams[tri] += 1
 }
-puts "bi-grams:"
+
+#write out top ten with probability in each case
+puts "\nuni-grams:"
+uu = uni_grams.sort{|a,b| b[1] <=> a[1]}
+(num/10).times {|i|  puts "#{uu[i][0]} --> #{uu[i][1]} <> #{uu[i][1].to_f/num}"}
+
+puts "\nbi-grams:"
 bb = bi_grams.sort{|a,b| b[1] <=> a[1]}
-(num / 10).times {|i|  puts "#{bb[i][0]} : #{bb[i][1]}"}
+(num/10).times {|i|
+  bw = bb[i][0].split(" ")
+  puts "#{bb[i][0]} --> #{bb[i][1]}, #{uni_grams[bw[0]]}, #{uni_grams[bw[1]]} <> #{(uni_grams[bw[0]].to_f/num)*(bb[i][1].to_f/num)}"
+}
