@@ -1,0 +1,39 @@
+every/DT now/RB and/CC then/RB a/DT movie/NN comes/VBZ along/RB from/IN a/DT suspect/JJ studio/NN ,/, with/IN every/DT indication/NN that/IN it/PRP will/MD be/VB a/DT stinker/NN ,/, and/CC to/TO everybody/NN 's/POS surprise/NN (/( perhaps/RB even/RB the/DT studio/NN )/) the/DT film/NN becomes/VBZ a/DT critical/JJ darling/NN ./.
+mtv/NN films/NNS '/POS _election/NN ,/, a/DT high/JJ school/NN comedy/NN starring/VBG matthew/JJ broderick/NN and/CC reese/VB witherspoon/NN ,/, is/VBZ a/DT current/JJ example/NN ./.
+did/VBD anybody/NN know/VB this/DT film/NN existed/VBD a/DT week/NN before/IN it/PRP opened/VBD ?/.
+the/DT plot/NN is/VBZ deceptively/RB simple/JJ ./.
+george/NN washington/NN carver/NN high/JJ school/NN is/VBZ having/VBG student/NN elections/NNS ./.
+tracy/NN flick/NN (/( reese/JJ witherspoon/NN )/) is/VBZ an/DT over-achiever/JJ with/IN her/PRP$ hand/NN raised/VBD at/IN nearly/RB every/DT question/NN ,/, way/NN ,/, way/NN ,/, high/JJ ./.
+mr/NN ./. ``/`` m/NN ``/`` (/( matthew/JJ broderick/NN )/) ,/, sick/JJ of/IN the/DT megalomaniac/NN student/NN ,/, encourages/VBZ paul/NN ,/, a/DT popular-but-slow/JJ jock/NN to/TO run/VB ./.
+and/CC paul/NN 's/POS nihilistic/JJ sister/NN jumps/NNS in/IN the/DT race/NN as/RB well/RB ,/, for/IN personal/JJ reasons/NNS ./.
+the/DT dark/JJ side/NN of/IN such/JJ sleeper/JJ success/NN is/VBZ that/IN ,/, because/IN expectations/NNS were/VBD so/RB low/JJ going/VBG in/RB ,/, the/DT fact/NN that/IN this/DT was/VBD quality/NN stuff/NN made/VBD the/DT reviews/NNS even/RB more/RBR enthusiastic/JJ than/IN they/PRP have/VBP any/DT right/NN to/TO be/VB ./.
+you/PRP ca/MD n't/RB help/VB going/VBG in/RP with/IN the/DT baggage/NN of/IN glowing/VBG reviews/NNS ,/, which/WDT is/VBZ in/IN contrast/NN to/TO the/DT negative/JJ baggage/NN that/IN the/DT reviewers/NNS were/VBD likely/JJ to/TO have/VB ./.
+_election/NN ,/, a/DT good/JJ film/NN ,/, does/VBZ not/RB live/VB up/RP to/TO its/PRP$ hype/NN ./.
+what/WP makes/VBZ _election_/RB so/RB disappointing/JJ is/VBZ that/IN it/PRP contains/VBZ significant/JJ plot/NN details/NNS lifted/VBD directly/RB from/IN _rushmore_/NN ,/, released/VBD a/DT few/JJ months/NNS earlier/RB ./.
+the/DT similarities/NNS are/VBP staggering/VBG :/:
+tracy/NN flick/NN (/( _election_/LS )/) is/VBZ the/DT president/NN of/IN an/DT extraordinary/JJ number/NN of/IN clubs/NNS ,/, and/CC is/VBZ involved/VBN with/IN the/DT school/NN play/NN ./.
+max/NN fischer/NN (/( _rushmore_/LS )/) is/VBZ the/DT president/NN of/IN an/DT extraordinary/JJ number/NN of/IN clubs/NNS ,/, and/CC is/VBZ involved/VBN with/IN the/DT school/NN play/NN ./.
+the/DT most/RBS significant/JJ tension/NN of/IN _election_/NN is/VBZ the/DT potential/JJ relationship/NN between/IN a/DT teacher/NN and/CC his/PRP$ student/NN ./.
+the/DT most/RBS significant/JJ tension/NN of/IN _rushmore_/NN is/VBZ the/DT potential/JJ relationship/NN between/IN a/DT teacher/NN and/CC his/PRP$ student/NN ./.
+tracy/NN flick/NN is/VBZ from/IN a/DT single/JJ parent/NN home/NN ,/, which/WDT has/VBZ contributed/VBN to/TO her/PRP$ drive/NN ./.
+max/NN fischer/NN is/VBZ from/IN a/DT single/JJ parent/NN home/NN ,/, which/WDT has/VBZ contributed/VBN to/TO his/PRP$ drive/NN ./.
+the/DT male/JJ bumbling/VBG adult/NN in/IN _election_/NN (/( matthew/JJ broderick/NN )/) pursues/VBZ an/DT extramarital/JJ affair/NN ,/, gets/VBZ caught/VBN ,/, and/CC his/PRP$ whole/JJ life/NN is/VBZ ruined/VBN ./.
+he/PRP even/RB gets/VBZ a/DT bee/NN sting/NN ./.
+the/DT male/JJ bumbling/VBG adult/NN in/IN _rushmore_/NN (/( bill/NN murray/NN )/) pursues/VBZ an/DT extramarital/JJ affair/NN ,/, gets/VBZ caught/VBN ,/, and/CC his/PRP$ whole/JJ life/NN is/VBZ ruined/VBN ./.
+he/PRP gets/VBZ several/JJ bee/NN stings/NNS ./.
+and/CC so/RB on/IN ./.
+what/WP happened/VBD ?/.
+how/WRB is/VBZ it/PRP that/IN an/DT individual/JJ screenplay/NN (/( _rushmore_/LS )/) and/CC a/DT novel/NN (/( _election_/LS )/) contain/VBP so/RB many/JJ significant/JJ plot/NN points/NNS ,/, and/CC yet/RB both/DT films/NNS were/VBD probably/RB not/RB even/RB aware/JJ of/IN each/DT other/JJ ,/, made/VBN from/IN two/CD different/JJ studios/NNS ,/, from/IN a/DT genre/NN (/( the/DT high/JJ school/NN geeks/NNS revenge/VBP movie/NN )/) that/WDT had/VBD n't/RB been/VBN fully/RB formed/VBN yet/RB ?/.
+even/RB so/RB ,/, the/DT strengths/NNS of/IN _election_/NN rely/RB upon/IN its/PRP$ fantastic/JJ performances/NNS from/IN broderick/NN ,/, witherspoon/NN ,/, and/CC newcomer/JJR jessica/NN campbell/NN ,/, as/IN paul/NN 's/POS anti-social/JJ sister/NN ,/, tammy/NN ./.
+broderick/NN here/RB is/VBZ playing/VBG the/DT mr/NN ./. rooney/NN role/NN from/IN _ferris/PRP$ bueller_/NN ,/, and/CC he/PRP seems/VBZ to/TO be/VB having/VBG the/DT most/JJS fun/NN he/PRP 's/VBZ had/VBD since/IN then/RB ./.
+witherspoon/NN is/VBZ a/DT revelation/NN ./.
+it/PRP 's/VBZ early/RB in/IN the/DT year/NN ,/, it/PRP 's/VBZ a/DT comedy/NN ,/, and/CC teenagers/NNS have/VBP little/JJ clout/NN ,/, but/CC for/IN my/PRP$ money/NN ,/, witherspoon/NN deserves/VBZ an/DT oscar/NN nomination/NN ./.
+and/CC once/RB campbell/NN 's/POS character/NN gets/VBZ going/VBG ,/, like/IN in/IN her/PRP$ fantastic/JJ speech/NN in/IN the/DT gymnasium/NN ,/, then/RB you/PRP 're/VBP won/VBN over/RP ./.
+one/CD thing/NN that/WDT 's/VBZ been/VBN bothering/VBG me/PRP since/IN i/NNS 've/VBP seen/VBN it/PRP ./.
+there/EX is/VBZ an/DT extraordinary/JJ amount/NN of/IN sexuality/NN in/IN this/DT film/NN ./.
+i/NNS suppose/VBP that/IN ,/, coming/VBG from/IN mtv/NN films/NNS ,/, i/NNS should/MD expect/VB no/RB less/JJR ./. ./. ./.
+but/CC the/DT film/NN starts/VBZ off/RP light/NN and/CC airy/NN ,/, like/IN a/DT sitcom/NN ./.
+as/IN the/DT screws/NNS tighten/VBP ,/, and/CC the/DT tensions/NNS mount/NN ,/, alexander/NN payne/NN decides/VBZ to/TO add/VB elements/NNS that/WDT ,/, frankly/RB ,/, distract/VBP from/IN the/DT story/NN ./.
+it/PRP is/VBZ bad/JJ enough/RB that/DT mr/NN ./. m/NN does/VBZ n't/RB like/VB tracy/NN 's/POS determination/NN to/TO win/VB at/IN all/DT costs/NNS ,/, but/CC did/VBD they/PRP have/VBP to/TO throw/VB in/RP the/DT student/teacher/NN relationship/NN ?/.
+even/RB so/RB ,/, there/EX 's/VBZ no/DT logical/JJ reason/NN why/WRB mr/NN ./. m/NN has/VBZ an/DT affair/NN when/WRB he/PRP does/VBZ ./.
+there/EX 's/VBZ a/DT lot/NN to/TO like/VB in/IN _election_/NN ,/, but/CC the/DT plot/NN similarities/NNS to/TO _rushmore_/VB ,/, and/CC the/DT tonal/JJ nosedive/NN it/PRP takes/VBZ as/IN it/PRP gets/VBZ explicitly/RB sex-driven/JJ ,/, mark/NN this/DT as/IN a/DT disappointment/NN ./.

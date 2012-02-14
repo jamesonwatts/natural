@@ -1,0 +1,82 @@
+let/VB 's/POS get/NN this/DT one/CD over/RP with/IN as/RB quickly/RB as/IN possible/JJ ./.
+if/IN there/EX was/VBD a/DT possibility/NN to/TO receive/VB a/DT refund/NN ,/, this/DT review/NN would/MD not/RB be/VB forthcoming/JJ ./.
+but/CC as/IN it/PRP is/VBZ ,/, ``/`` godzilla/NN ``/`` is/VBZ without/IN a/DT doubt/NN the/DT loudest/JJS ,/, longest/JJS ,/, and/CC ultimately/RB most/RBS amateurishly/RB written/VBN film/NN ever/RB released/VBN through/IN a/DT major/JJ studio/NN ./.
+producer/NN dean/NN devlin/NN and/CC director/NN roland/NN emmerich/NN should/MD be/VB ashamed/VBN of/IN themselves/PRP ,/, and/CC as/IN penance/NN be/VB forced/VBN to/TO return/VB to/TO film/VB school/NN to/TO watch/VB ``/`` last/JJ year/NN at/IN merienbad/JJ ``/`` until/IN they/PRP can/MD grasp/VB the/DT idea/NN of/IN content/NN and/CC plot/NN ./.
+no/DT amount/NN of/IN hype/NN ,/, no/DT amount/NN of/IN money/NN can/MD hide/VB the/DT fact/NN that/IN these/DT filmmakers/NNS are/VBP the/DT 90s/CD equivalent/JJ to/TO william/VB beaudine/NN (/( billy/RB the/DT kid/NN vs/NNS ./.
+dracula/LS )/) ./.
+``/`` godzilla/NN ``/`` opens/VBZ with/IN stock/NN footage/NN of/IN the/DT bikini/NNS atoll/VBP nuclear/JJ tests/NNS interspersed/VBN with/IN footage/NN of/IN iguanas/NNS playfully/RB swimming/VBG and/CC nuzzling/VBG their/PRP$ eggs/NNS ./.
+we/PRP are/VBP then/RB introduced/VBN to/TO the/DT crew/NN of/IN a/DT japanese/JJ fish/NN canning/VBG ship/NN (/( a/DT questionable/JJ enterprise/NN considering/VBG that/IN tuna/NN processing/NN is/VBZ supposed/VBN to/TO be/VB supervised/VBN to/TO eliminate/VB the/DT netting/NN of/IN dolphins/NNS )/) ./.
+well/RB ,/, the/DT ship/NN is/VBZ attacked/VBN and/CC sunk/VBN by/IN an/DT unseen/JJ creature/NN ./.
+later/RB ,/, a/DT group/NN of/IN frenchmen/NNS led/VBN by/IN philippe/NN roache/NN (/( jean/JJ reno/NN )/) interview/NN the/DT sole/JJ survivor/NN ./.
+in/IN a/DT state/NN of/IN shock/NN ,/, the/DT only/JJ thing/NN the/DT man/NN can/MD utter/VB is/VBZ the/DT word/NN ``/`` gojira/NN ``/`` (/( the/DT japanese/JJ name/NN of/IN the/DT famed/JJ beast/NN )/) ./.
+we/PRP are/VBP then/RB introduced/VBN to/TO dr/VB ./. nick/JJ tatopoulos/NNS (/( matthew/NN broderick/NN ,/, with/IN a/DT moniker/NN obviously/RB taken/VBN from/IN the/DT effects/NNS designer/NN of/IN the/DT film/NN )/) ./.
+he/PRP is/VBZ currently/RB studying/VBG the/DT effects/NNS that/IN the/DT chernobyl/NN disaster/NN has/VBZ had/VBN on/IN the/DT local/JJ earthworm/NN population/NN ./.
+he/PRP is/VBZ immediately/RB drafted/VBN by/IN the/DT u/NN ./. s/NNS ./. military/JJ and/CC taken/VBN to/TO panama/VB where/WRB he/PRP is/VBZ shown/VBN the/DT huge/JJ footprints/NNS of/IN a/DT creature/NN ./.
+in/IN a/DT short/JJ amount/NN of/IN time/NN ,/, another/DT fishing/NN boat/NN (/( loaded/VBN with/IN canned/JJ tuna/NN from/IN the/DT u/NN ./. s/NNS ./. and/CC korea/NN for/IN some/DT reason/NN )/) is/VBZ found/VBN grounded/VBN in/IN jamaica/NN ./.
+well/RB ,/, it/PRP seems/VBZ that/IN whatever/WDT is/VBZ eating/VBG these/DT ships/NNS is/VBZ headed/VBN for/IN new/JJ york/NN ./.
+when/WRB the/DT beast/NN finally/RB appears/VBZ ,/, he/PRP tears/VBZ up/RP one/CD building/NN ,/, stomps/VBZ a/DT couple/NN of/IN trucks/NNS and/CC makes/VBZ life/NN hell/NN for/IN the/DT incumbent/JJ mayor/NN ebert/NN (/( thumbs/VBZ up/RP for/IN new/JJ york/NN )/) ./.
+the/DT military/JJ ,/, with/IN dr/NN ./. tatopoulos/NNS 's/POS help/NN ,/, have/VBP two/CD tons/NNS of/IN fresh/JJ fish/NN dumped/VBN in/IN the/DT middle/NN of/IN new/JJ york/NN to/TO lure/VB the/DT beast/NN out/IN of/IN its/PRP$ hiding/VBG place/NN in/IN the/DT new/JJ york/NN subway/NN system/NN ./.
+it/PRP finally/RB comes/VBZ crashing/VBG through/IN the/DT city/NN streets/VBZ and/CC has/VBZ a/DT cute/JJ face/NN to/TO face/VB with/IN dr/NN ./. tatopoulos/NNS who/WP snaps/VBZ the/DT beast/NN 's/POS picture/NN ./.
+the/DT monster/NN eats/VBZ the/DT fish/NN ,/, the/DT military/JJ starts/NNS shooting/NN ,/, and/CC the/DT chase/NN is/VBZ on/IN ,/, with/IN the/DT army/NN causing/VBG 90/CD %/NN of/IN the/DT ensuing/VBG damage/NN ./.
+working/VBG from/IN a/DT hunch/NN as/IN to/TO why/WRB godzilla/NN has/VBZ decided/VBN to/TO come/VB to/TO the/DT big/JJ apple/NN ,/, dr/NN ./. totopoulos/NNS buys/VBZ a/DT few/JJ home/NN pregnancy/NN kits/NNS from/IN a/DT local/JJ drugstore/NN that/WDT has/VBZ chosen/VBN to/TO remain/VB open/JJ (/( even/RB though/IN new/JJ york/NN has/VBZ been/VBN evacuated/VBN )/) ./.
+well/RB the/DT test/NN proves/VBZ that/IN the/DT monster/NN is/VBZ a/DT hermaphrodite/NN and/CC is/VBZ pregnant/JJ ./.
+needless/JJ to/TO say/VB ,/, no/DT one/NN believes/VBZ the/DT good/JJ doctor/NN about/IN his/PRP$ discovery/NN ,/, so/IN he/PRP must/MD join/VB up/RP with/IN the/DT renegade/NN french/JJ secret/JJ service/NN agents/NNS and/CC find/VB the/DT monster/NN 's/POS nesting/JJ site/NN and/CC destroy/VB the/DT eggs/NNS before/IN the/DT mayor/NN starts/VBZ letting/VBG the/DT populous/JJ back/RB into/IN the/DT city/NN (/( even/RB though/IN the/DT monster/NN is/VBZ n't/RB dead/VB yet/RB )/) ./.
+i/NNS sincerely/RB hope/VBP that/IN i/NNS 've/VBP completely/RB spoiled/VBN any/DT interest/NN anyone/NN might/MD have/VB of/IN seeing/VBG this/DT film/NN ./.
+i/NNS gave/VBD away/RB the/DT relevant/JJ plot/NN so/IN that/IN i/NNS could/MD spare/VB those/DT of/IN you/PRP courageous/JJ (/( or/CC foolish/VB )/) enough/RB to/TO drop/VB down/RP an/DT hour/NN 's/POS wage/NN on/IN this/DT tripe/NN ./.
+everything/NN about/IN ``/`` godzilla/NN ``/`` reeks/VBZ almost/RB as/RB bad/JJ as/IN the/DT piles/NNS of/IN rotting/VBG fish/NN used/VBN to/TO trap/VB the/DT beast/NN ./.
+the/DT script/NN (/( and/CC let/VB 's/POS be/VB clear/JJ here/RB )/) by/IN devlin/NN and/CC emmerich/NN is/VBZ so/RB full/JJ of/IN plot/NN holes/NNS and/CC non/JJ characters/NNS as/IN to/TO be/VB sure/JJ to/TO be/VB the/DT recipient/NN of/IN next/JJ years/NNS ``/`` razzie/VBP ``/`` award/NN ./.
+the/DT dialogue/NN between/IN maria/NN pitillo/NN (/( as/IN audrey/NN timmonds/NNS ,/, dr/NN ./. tatopoulos/NNS '/POS estranged/JJ girlfriend/NN )/) and/CC mr/NN ./. broderick/NN is/VBZ so/RB adolescent/JJ ,/, it/PRP makes/VBZ teenagers/NNS giggle/NN in/IN disbelief/NN (/( as/IN happened/VBN during/IN the/DT screening/NN i/NNS witnessed/VBD )/) ./.
+the/DT film/NN could/MD be/VB enjoyably/RB campy/JJ if/IN it/PRP did/VBD n't/RB take/VB itself/PRP so/RB damn/RB seriously/RB ./.
+but/CC to/TO what/WDT end/NN ,/, as/IN there/EX is/VBZ no/DT commentary/NN on/IN humanities/NNS foibles/NNS against/IN nature/NN ,/, nor/CC is/VBZ there/RB any/DT reference/NN about/IN godzilla/NN being/VBG some/DT sort/NN of/IN retaliation/NN against/IN mankind/NN ./.
+no/UH ./. godzilla/NN is/VBZ just/RB a/DT big/JJ dummy/NN that/WDT got/VBD knocked/VBN up/RP by/IN some/DT french/JJ immigrants/NNS and/CC decided/VBD to/TO let/VB the/DT state/NN of/IN new/JJ york/NN pay/NN for/IN it/PRP ./.
+the/DT film/NN is/VBZ bleak/JJ and/CC ugly/JJ looking/NN ./.
+taking/VBG place/NN at/IN night/NN during/IN a/DT rain/NN storm/NN ,/, the/DT movie/NN has/VBZ little/JJ or/CC no/DT depth/NN ./.
+everything/NN is/VBZ ugly/JJ and/CC dark/JJ ./.
+new/JJ york/NN has/VBZ never/RB looked/VBN so/RB inhospitable/JJ since/IN ``/`` death/NN wish/NN ``/`` ./.
+in/IN an/DT attempt/NN to/TO give/VB the/DT film/NN some/DT color/NN ,/, audrey/NN timmonds/NNS carries/VBZ a/DT bright/JJ red/JJ umbrella/NN which/WDT is/VBZ unique/JJ in/IN that/DT everyone/NN else/RB in/IN the/DT film/NN carries/VBZ the/DT standard/JJ gray/JJ issue/NN ./.
+the/DT only/JJ moment/NN of/IN composition/NN and/CC color/NN is/VBZ during/IN the/DT brief/JJ scenes/NNS on/IN jamaica/NN ,/, where/WRB dr/NN ./. tatopoulos/NNS finds/VBZ himself/PRP standing/VBG in/IN a/DT giant/JJ footprint/NN ./.
+the/DT scene/NN is/VBZ nicely/RB photographed/VBN but/CC poorly/RB set/VBN up/RP ./.
+you/PRP know/VBP from/IN the/DT outset/NN that/DT nick/NN is/VBZ standing/VBG in/IN a/DT footprint/NN ./.
+for/IN a/DT scientist/NN ,/, this/DT is/VBZ very/RB poor/JJ observation/NN ./.
+let/VB 's/POS look/NN at/IN some/DT of/IN the/DT more/RBR interesting/JJ plot/NN holes/NNS in/IN the/DT film/NN (/( this/DT activity/NN ,/, is/VBZ becoming/VBG almost/RB as/RB popular/JJ as/IN the/DT kevin/NN bacon/NN game/NN )/) :/:
+1/LS ./. )/) why/WRB does/VBZ the/DT french/JJ nuclear/JJ tests/NNS only/RB affect/VBP one/CD clutch/NN of/IN iguana/NN eggs/NNS ,/, and/CC how/WRB do/VB those/DT eggs/NNS fuse/VBP into/IN one/CD beast/NN ?/.
+2/LS ./. )/) why/WRB would/MD a/DT cold/JJ blooded/JJ creature/NN choose/VB a/DT cold/JJ climate/NN (/( such/JJ as/IN new/JJ york/NN )/) to/TO nest/VB ?/.
+i/NNS do/VBP n't/RB think/VB iguana/NN 's/POS have/VBP a/DT habit/NN of/IN migrating/VBG ./.
+3/LS ./. )/) how/WRB can/MD godzilla/VB crawl/NN through/IN the/DT new/JJ york/NN subway/NN system/NN ,/, slice/VB a/DT submarine/NN in/IN half/NN ,/, yet/RB be/VB unable/JJ to/TO extricate/VB himself/PRP from/IN some/DT thin/JJ (/( in/IN comparison/NN )/) steel/NN cable/NN on/IN the/DT brooklyn/NN bridge/NN ?/.
+4/LS ./. )/) the/DT brooklyn/NN bridge/NN is/VBZ the/DT only/JJ suspension/NN bridge/NN in/IN existence/NN that/WDT does/VBZ not/RB need/VB it/PRP 's/VBZ suspension/NN cables/NNS ./.
+5/CD ./. )/) did/VBD godzilla/NN carry/NN all/DT two/CD hundred/CD eggs/NNS in/IN her/PRP$ belly/NN ?/.
+if/IN so/RB ,/, then/RB radioactive/JJ mutations/NNS surely/RB are/VBP wondrous/JJ creatures/NNS ./.
+(/( note/NN :/: each/DT egg/NN is/VBZ 10/CD feet/NNS tall/JJ and/CC almost/RB as/IN wide/JJ ./.
+godzilla/NN would/MD have/VB to/TO be/VB over/IN 1/CD ,/, 000/CD feet/NNS tall/JJ to/TO carry/VB them/PRP all/DT )/) ./.
+6/LS ./. )/) godzilla/NN can/MD crush/VB ships/NNS and/CC eat/NN helicopters/NNS ,/, but/CC new/JJ york/NN cabs/NNS are/VBP made/VBN of/IN stronger/JJR steel/NN ./.
+7/CD ./. )/) godzilla/NN can/MD out/VB maneuver/NN helicopters/NNS ,/, bullets/NNS ,/, torpedoes/NNS and/CC missiles/NNS ,/, but/CC ca/MD n't/RB catch/VB you/PRP on/IN foot/NN ./.
+8/CD ./. )/) taxis/NNS can/MD out/RB maneuver/VB godzilla/NN ./.
+9/CD ./. )/) godzilla/NN can/MD burrow/VB through/IN the/DT subway/NN system/NN but/CC ca/MD n't/RB tear/VB through/IN the/DT park/NN avenue/NN tunnel/NN ./.
+10/CD ./. )/) why/WRB was/VBD nothing/NN else/RB mutated/VBN by/IN the/DT nuclear/JJ test/NN as/RB quickly/RB as/IN godzilla/NN ?/.
+maybe/RB a/DT giant/JJ hermit/NN crab/NN in/IN the/DT sequel/NN ./.
+11/LS ./. )/) galapagos/NNS iguana/NN 's/POS actually/RB live/VBP in/IN the/DT french/JJ polynesian/JJ islands/NNS ?/.
+12/LS ./. )/) why/WRB was/VBD dr/NN ./. tatopoulos/NNS brought/VBD in/RP by/IN the/DT military/NN if/IN they/PRP were/VBD not/RB going/VBG to/TO listen/VB to/TO him/PRP anyway/RB ?/.
+13/CD ./. )/) how/WRB did/VBD they/PRP evacuate/VBP new/JJ york/NN island/NN in/IN less/JJR than/IN a/DT day/NN ,/, and/CC how/WRB did/VBD they/PRP convince/VBP those/DT new/JJ yorkers/NNS to/TO go/VB to/TO new/JJ jersey/NN ?/.
+14/LS ./. )/) new/JJ york/NN television/NN stations/NNS use/VBP vhs/NNS tape/NN for/IN both/DT filming/NN and/CC broadcasting/NN ./.
+new/JJ yorkers/NNS hate/VBP beta/JJ cam/NN ./.
+i/NNS could/MD go/VB on/IN and/CC on/IN ,/, but/CC that/DT would/MD only/RB serve/VB to/TO make/VB the/DT film/NN seem/VBP more/RBR enjoyable/JJ than/IN it/PRP is/VBZ ./.
+do/VBP n't/RB be/VB fooled/VBN ,/, this/DT film/NN has/VBZ less/RBR gray/JJ matter/NN than/IN any/DT episode/NN of/IN ``/`` america/NN 's/POS funniest/JJS home/NN videos/NNS ``/`` ./.
+the/DT performances/NNS in/IN the/DT film/NN are/VBP singularly/RB bland/JJ ./.
+not/RB one/CD performance/NN belays/VBZ any/DT awe/JJ or/CC fear/JJ in/IN the/DT face/NN of/IN this/DT two/CD hundred/CD foot/NN tall/JJ terror/NN ./.
+the/DT characters/NNS ,/, in/IN the/DT midst/NN of/IN the/DT onslaught/NN ,/, have/VBP time/NN to/TO stop/VB and/CC discuss/VB the/DT lack/NN of/IN good/JJ coffee/NN ,/, failed/VBD relationships/NNS ,/, career/NN choices/NNS ./.
+the/DT only/JJ common/JJ occurrence/NN that/WDT does/VBZ n't/RB take/VB place/NN here/RB is/VBZ having/VBG one/CD of/IN the/DT characters/NNS have/VBP a/DT bowel/NN movement/NN ,/, but/CC then/RB that/WDT would/MD have/VB made/VBN them/PRP believable/JJ ./.
+godzilla/NN for/IN the/DT most/JJS part/NN is/VBZ okay/RB ./.
+the/DT design/NN of/IN the/DT beast/NN is/VBZ funky/JJ ,/, if/IN not/RB very/RB memorable/JJ ./.
+one/CD thing/NN that/WDT comes/VBZ to/TO mind/VB --/: the/DT major/JJ redirection/NN of/IN godzilla/NN in/IN this/DT film/NN is/VBZ to/TO remove/VB his/PRP$ most/RBS familiar/JJ trademark/NN ,/, namely/RB his/PRP$ atomic/JJ breath/NN ./.
+now/RB ,/, i/NNS for/IN one/PRP ca/MD n't/RB quite/VB fathom/NN how/WRB you/PRP can/MD call/VB this/DT monster/NN godzilla/NN without/IN that/DT little/JJ trait/NN ./.
+a/DT good/JJ comparison/NN would/MD be/VB to/TO make/VB a/DT superman/NN film/NN and/CC eliminate/VB his/PRP$ ability/NN to/TO fly/VB ./.
+there/EX is/VBZ so/RB much/RB wrong/JJ with/IN this/DT film/NN that/IN i/NNS ca/MD n't/RB really/RB recall/VB anything/NN recently/RB that/WDT has/VBZ left/VBN me/PRP this/DT cold/JJ hearted/VBD (/( except/IN for/IN my/PRP$ divorce/NN )/) ./.
+any/DT film/NN that/WDT can/MD have/VB a/DT two/CD ton/NN lizard/NN slipping/VBG on/IN gum/NN balls/NNS has/VBZ got/VBN to/TO be/VB envisioned/VBN under/IN the/DT influence/NN of/IN prozac/NN ./.
+the/DT addition/NN of/IN the/DT baby/NN raptors/NNS (/( ah/UH ,/, i/NNS meant/VBD godzillas/NNS )/) ,/, are/VBP nothing/NN but/CC a/DT direct/JJ rip/NN off/IN of/IN 'jurassic/JJ park/NN ``/`` ,/, but/CC with/IN none/NN of/IN that/DT film/NN 's/POS suspense/NN or/CC tension/NN ./.
+suffice/NN to/TO say/VB that/IN ,/, ``/`` godzilla/NN ``/`` is/VBZ without/IN a/DT doubt/NN the/DT most/RBS brain/JJ dead/JJ motion/NN picture/NN of/IN the/DT decade/NN ./.
+this/DT is/VBZ a/DT film/NN that/WDT needed/VBD the/DT hype/NN ./.
+with/IN the/DT current/JJ level/NN of/IN writing/NN and/CC directing/NN ,/, nothing/NN else/JJ about/IN the/DT film/NN succeeds/VBZ ./.
+if/IN you/PRP 've/VBP seen/VBN the/DT trailers/NNS ,/, you/PRP 've/VBP seen/VBN the/DT best/JJS parts/NNS ./.
+my/PRP$ only/JJ suggestion/NN for/IN mr/NN ./. d/NN and/CC mr/NN ./. e/NN ./. is/VBZ that/IN they/PRP could/MD always/RB go/VB back/RB to/TO selling/NN shoes/NNS ./.
+./. this/DT film/NN could/MD be/VB the/DT next/JJ ``/`` rocky/JJ horror/NN ``/`` ./.
+only/RB it/PRP 's/VBZ not/RB funny/JJ !/.

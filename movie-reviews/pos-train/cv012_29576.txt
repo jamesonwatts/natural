@@ -1,0 +1,15 @@
+synopsis/NN :/: bobby/NN garfield/NN (/( yelchin/NN )/) lives/VBZ in/IN a/DT small/JJ town/NN with/IN his/PRP$ mirthless/JJ widowed/VBN mother/NN (/( hope/JJ davis/NN )/) ./.
+bobby/NN 's/POS world/NN revolves/VBZ around/IN his/PRP$ friends/NNS ,/, especially/RB the/DT spritely/JJ carol/NN (/( boorem/NN )/) ./.
+then/RB one/CD day/NN ,/, a/DT new/JJ boarder/NN arrives/NNS at/IN bobby/NN 's/POS house/NN ./.
+ted/VBN brautigan/NN (/( hopkins/VBZ )/) is/VBZ an/DT enigmatic/JJ man/NN to/TO whom/WP bobby/NN takes/VBZ an/DT immediate/JJ liking/NN ./.
+as/IN the/DT bond/NN between/IN bobby/NN and/CC ted/VBN deepens/NNS ,/, bobby/NN becomes/VBZ privy/JJ to/TO ted/VBN 's/POS great/JJ secret/NN ,/, an/DT event/NN which/WDT will/MD change/VB both/DT of/IN their/PRP$ lives/NNS forever/RB ./.
+review/NN :/: a/DT small/JJ but/CC enchanting/VBG movie/NN ,/, ``/`` hearts/NNS in/IN atlantis/NN ``/`` easily/RB recalls/VBZ another/DT king-inspired/JJ coming-of-age/JJ film/NN ,/, ``/`` stand/VB by/IN me/PRP ``/`` ,/, both/DT in/IN terms/NNS of/IN its/PRP$ setting/NN and/CC the/DT sentiment/NN it/PRP conveys/VBZ ./.
+``/`` hearts/NNS ``/`` is/VBZ a/DT tribute/NN to/TO the/DT magic/NN of/IN childhood/NN ,/, to/TO those/DT summers/NNS when/WRB the/DT days/NNS seem/VBP neverending/VBG ,/, and/CC nothing/NN means/VBZ more/JJR than/IN your/PRP$ closest/JJS friends/NNS ./.
+unlike/IN ``/`` stand/NN by/IN me/PRP ``/`` ,/, there/EX is/VBZ a/DT supernatural/JJ element/NN to/TO ``/`` hearts/NNS ``/`` ,/, but/CC although/IN it/PRP is/VBZ key/JJ to/TO the/DT plot/NN ,/, it/PRP is/VBZ not/RB prominent/JJ ./.
+like/IN ``/`` stand/NN by/IN me/PRP ``/`` ,/, this/DT is/VBZ a/DT mostly/RB character-driven/JJ film/NN ,/, and/CC as/IN such/JJ it/PRP benefits/VBZ greatly/RB from/IN superb/NN casting/NN ./.
+yelchin/NN is/VBZ very/RB good/JJ as/IN bobby/NN ,/, finding/VBG a/DT good/JJ mix/NN of/IN innocence/NN and/CC resignation/NN ./.
+more/RBR splendid/JJ still/RB is/VBZ boorem/NN ,/, whom/WP i/NNS praised/VBD highly/RB for/IN her/PRP$ work/NN in/IN ``/`` along/RB came/VBD a/DT spider/NN ``/`` and/CC who/WP is/VBZ simply/RB radiant/JJ here/RB as/IN carol/NN ./.
+and/CC then/RB there/EX is/VBZ hopkins/NNS ,/, who/WP despite/IN playing/VBG such/PDT a/DT quiet/JJ ,/, introspective/JJ character/NN as/IN ted/VBN ,/, nonetheless/RB commands/VBZ our/PRP$ attention/NN every/DT time/NN he/PRP is/VBZ onscreen/JJ ./.
+less/RBR successful/JJ is/VBZ davis/NN ,/, whose/WP$ strident/JJ elizabeth/NN comes/VBZ across/IN as/RB overly/RB cartoonish/JJ ./.
+i/NNS also/RB found/VBD it/PRP odd/VB that/DT bobby/NN and/CC carol/NN 's/POS other/JJ friend/NN ,/, sully/RB (/( whose/WP$ death/NN as/IN an/DT adult/NN sets/VBZ up/RP the/DT movie/NN 's/POS flashback/NN framing/VBG device/NN )/) ,/, is/VBZ paid/VBN virtually/RB no/DT attention/NN ./.
+but/CC hicks/NNS '/POS direction/NN is/VBZ lovely/JJ without/IN being/VBG cloying/VBG ,/, and/CC despite/IN the/DT movie/NN 's/POS general/JJ lack/NN of/IN incident/NN ,/, it/PRP never/RB ceases/VBZ to/TO weave/VB its/PRP$ spell/NN over/IN the/DT audience/NN ./.

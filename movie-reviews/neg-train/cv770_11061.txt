@@ -1,0 +1,42 @@
+in/IN french/NN ,/, the/DT phrase/NN ``/`` film/NN noir/NN ``/`` literally/RB means/VBZ ``/`` black/JJ film/NN ./. ``/``
+webster/NN defines/VBZ it/PRP as/IN ``/`` a/DT type/NN of/IN crime/NN film/NN featuring/VBG cynical/JJ malevolent/JJ characters/NNS in/IN a/DT sleazy/JJ setting/NN and/CC an/DT ominous/JJ atmosphere/NN that/WDT is/VBZ conveyed/VBN by/IN shadowy/JJ photography/NN and/CC foreboding/VBG background/NN music/NN ./. ``/``
+classic/JJ film/NN noir/NN ,/, including/VBG such/JJ memorable/JJ fare/NN as/IN ``/`` the/DT big/JJ sleep/NN ,/, ``/`` the/DT original/JJ ``/`` cape/NN fear/NN ,/, ``/`` and/CC orson/NN welles/NNS '/POS striking/JJ ``/`` a/DT touch/NN of/IN evil/NN ,/, ``/`` employed/VBD black/JJ and/CC white/JJ photography/NN to/TO emphasize/VB the/DT long/JJ shadows/NNS associated/VBN with/IN the/DT genre/NN ./.
+color/NN came/VBD into/IN play/NN with/IN neo-noir/JJ films/NNS like/IN ``/`` chinatown/NN ``/`` and/CC ``/`` blade/JJ runner/NN ./. ``/``
+``/`` l/NN ./. a/DT ./. confidential/JJ ,/, ``/`` easily/RB the/DT best/JJS film/NN of/IN 1997/CD ,/, is/VBZ a/DT wonderful/JJ piece/NN of/IN contemporary/JJ neo-noir/JJ filmmaking/NN ./.
+for/IN a/DT textbook/NN example/NN of/IN how/WRB to/TO take/VB all/PDT the/DT elements/NNS of/IN neo-noir/NN and/CC create/VB an/DT absolute/JJ mess/NN ,/, there/EX 's/POS ``/`` palmetto/NN ./. ``/``
+based/VBN on/IN ``/`` just/RB another/DT sucker/NN ,/, ``/`` a/DT short/JJ story/NN written/VBN by/IN british/JJ author/NN rene/NN raymond/NN under/IN the/DT pseudonym/NN james/NNS hadley/NN chase/NN ,/, ``/`` palmetto/NN ``/`` shows/VBZ what/WP happens/VBZ when/WRB a/DT filmmaker/NN puts/VBZ style/NN ahead/RB of/IN substance/NN ./.
+director/NN volker/NN schlondorff/NN (/( ``/`` tin/NN drum/NN ,/, ``/`` the/DT handmaid/NN 's/POS tale/NN ``/`` )/) stated/VBN ``/`` we/PRP were/VBD n't/RB even/RB sure/JJ for/IN a/DT long/JJ time/NN if/IN it/PRP was/VBD going/VBG to/TO be/VB a/DT thriller/NN or/CC a/DT comedy/NN ./. ``/``
+it/PRP shows/VBZ ./.
+``/`` palmetto/NN ``/`` is/VBZ too/RB preposterous/JJ too/RB be/VB taken/VBN seriously/RB as/IN a/DT thriller/NN and/CC too/RB ponderous/JJ to/TO work/VB as/IN a/DT comedy/NN ./.
+the/DT story/NN begins/VBZ when/WRB journalist/NN harry/NN barber/NN (/( woody/JJ harrelson/NN )/) is/VBZ released/VBN from/IN prison/NN ./.
+someone/NN turned/VBD state/NN 's/POS witness/NN and/CC revealed/VBD that/DT harry/NN was/VBD framed/VBN ,/, a/DT ``/`` reward/NN ``/`` for/IN blowing/VBG the/DT lid/NN on/IN corruption/NN in/IN the/DT small/JJ florida/NN town/NN of/IN palmetto/NN ./.
+bitter/JJ and/CC broke/VBD ,/, harry/NN plans/VBZ to/TO hitchhike/VB to/TO miami/VB and/CC start/VB his/PRP$ life/NN over/IN ,/, but/CC ex-girlfriend/JJ nina/NN (/( gina/NN gershon/NN )/) appears/VBZ to/TO return/VB him/PRP to/TO palmetto/VB ./.
+while/IN hanging/VBG out/RB at/IN a/DT bar/NN ,/, he/PRP notices/VBZ that/IN a/DT beautiful/JJ woman/NN has/VBZ left/VBN her/PRP$ purse/NN in/IN a/DT phone/NN booth/NN ./.
+harry/NN pockets/VBZ her/PRP$ cash/NN ,/, only/RB to/TO have/VB the/DT woman/NN reappear/VB and/CC catch/VB him/PRP with/IN her/PRP$ money/NN in/IN his/PRP$ pocket/NN ./.
+no/DT problem/NN ,/, though/RB ./.
+the/DT radiant/JJ blonde/NN is/VBZ rhea/NN malroux/NN (/( elisabeth/NN shue/NN ,/, )/) the/DT young/JJ wife/NN of/IN a/DT very/RB rich/JJ older/JJR man/NN with/IN heart/NN problems/NNS ,/, and/CC she/PRP has/VBZ a/DT proposition/NN for/IN harry/NN ./.
+rhea/NN needs/VBZ ``/`` a/DT threatening/JJ voice/NN and/CC someone/NN to/TO collect/VB the/DT ransom/NN ``/`` for/IN the/DT staged/JJ kidnapping/NN of/IN her/PRP$ teenage/NN stepdaughter/NN odette/NN (/( chloe/NN sevigny/NN ./. )/)
+the/DT girls/NNS want/VBP to/TO bilk/VB a/DT half-million/NN dollar/NN ``/`` ransom/NN ``/`` from/IN the/DT old/JJ man/NN and/CC will/MD happily/RB give/VB harry/VB $/$ 50/CD ,/, 000/CD for/IN helping/VBG with/IN the/DT scam/NN ./.
+things/NNS go/VBP wrong/JJ ,/, of/IN course/NN ./.
+odette/NN is/VBZ found/VBN dead/JJ ,/, leaving/VBG harry/NN frantically/RB trying/VBG to/TO dispose/VB of/IN the/DT corpse/NN and/CC cover/VB his/PRP$ tracks/NNS ./.
+in/IN an/DT ironic/JJ twist/NN ,/, harry/NN is/VBZ asked/VBN to/TO work/VB for/IN the/DT local/JJ d/NN ./. a/DT ./. 's/POS
+office/NN ./.
+they/PRP need/VBP a/DT press/NN liaison/NN to/TO field/VB questions/NNS about/IN odette/NN 's/POS kidnapping/NN and/CC feel/NN that/WDT harry/VBP is/VBZ the/DT perfect/JJ man/NN for/IN the/DT job/NN ./.
+not/RB a/DT bad/JJ set-up/NN for/IN a/DT noir/NN film/NN ,/, if/IN only/JJ schlondorff/NN knew/VBD how/WRB to/TO handle/VB the/DT material/NN ,/, but/CC he/PRP never/RB settles/VBZ on/IN a/DT consistent/JJ tone/NN ./.
+the/DT actors/NNS do/VBP n't/RB know/VB what/WP to/TO do/VB with/IN their/PRP$ characters/NNS either/RB ,/, muddling/VBG the/DT proceedings/NNS even/RB further/RBR ./.
+as/IN if/IN that/DT was/VBD n't/RB enough/RB ,/, the/DT story/NN suffers/VBZ from/IN major/JJ problems/NNS in/IN logic/NN ./.
+woody/JJ harrelson/NN is/VBZ a/DT talented/JJ actor/NN with/IN an/DT admirable/JJ willingness/NN to/TO take/VB on/RP risky/JJ parts/NNS ,/, but/CC he/PRP 's/VBZ lost/VBN here/RB ./.
+presented/VBN as/IN a/DT crusading/JJ journalist/NN who/WP was/VBD horribly/RB wronged/VBN ,/, it/PRP makes/VBZ no/DT sense/NN that/IN harry/NN would/MD be/VB stupid/JJ and/CC dishonest/JJ enough/RB to/TO get/VB caught/VBN up/RP in/IN this/DT scheme/NN ./.
+harrelson/NN clearly/RB does/VBZ n't/RB know/VB what/WP to/TO do/VB with/IN harry/NN 's/POS character/NN ,/, so/IN he/PRP spends/VBZ most/JJS of/IN the/DT film/NN glowering/NN ,/, sweating/NN and/CC generally/RB acting/VBG miserable/JJ ./.
+meanwhile/RB ,/, elisabeth/NN shue/NN gives/VBZ a/DT goofy/JJ performance/NN ,/, behaving/VBG like/IN a/DT vamp/NN on/IN nitrous/JJ oxide/NN ./.
+as/IN the/DT stepdaughter/NN ,/, chloe/VBP sevigny/JJ lays/NNS on/IN so/RB many/JJ slurpy/JJ quirks/NNS that/IN she/PRP comes/VBZ off/RP like/IN juliette/NN lewis/NN jr/NN ./. despite/IN a/DT number/NN of/IN steamy/JJ scenes/NNS ,/, there/EX 's/VBZ no/DT chemistry/NN between/IN harrelson/NN and/CC the/DT women/NNS ./.
+to/TO make/VB matters/NNS worse/JJR ,/, schlondorff/NN badly/RB dubs/NNS in/IN dialogue/NN while/IN the/DT character/NN 's/POS lips/NNS are/VBP running/VBG over/IN each/DT others/NNS bodies/NNS ./.
+two/CD particularly/RB bad/JJ scenes/NNS highlight/VBP the/DT film/NN 's/POS problems/NNS ./.
+while/IN driving/VBG with/IN a/DT body/NN in/IN his/PRP$ trunk/NN ,/, harry/NN has/VBZ a/DT minor/JJ car/NN wreck/NN and/CC a/DT cop/NN shows/VBZ up/RP ./.
+the/DT officer/NN wants/VBZ to/TO help/VB change/VB harry/NN 's/POS flat/JJ tire/NN and/CC asks/VBZ him/PRP to/TO open/VB the/DT trunk/NN ./.
+harry/NN 's/POS pathetic/JJ attempts/NNS to/TO keep/VB the/DT trunk/NN closed/VBD might/MD have/VB worked/VBN if/IN played/VBN as/IN comedy/NN ,/, but/CC under/IN schlondorff/NN 's/POS grim/JJ direction/NN ,/, the/DT scene/NN is/VBZ just/RB embarrassing/JJ ./.
+the/DT film/NN 's/POS nadir/NN comes/VBZ when/WRB a/DT bad/JJ guy/NN prepares/VBZ to/TO kill/VB harry/NN and/CC nina/NN ./.
+we/PRP 're/VBP supposed/VBN to/TO be/VB horrified/VBN watching/VBG our/PRP$ hero/NN dangling/NN over/IN a/DT bathtub/NN filled/VBN with/IN acid/NN ,/, but/CC by/IN this/DT point/NN the/DT film/NN has/VBZ foundered/VBN so/RB badly/RB that/IN the/DT scene/NN is/VBZ merely/RB reminiscent/JJ of/IN when/WRB jessica/NN and/CC roger/NN rabbit/NN were/VBD suspended/VBN over/IN a/DT vat/NN of/IN dip/NN ./.
+had/VBD ``/`` palmetto/NN ``/`` been/VBN played/VBN with/IN tongue/NN firmly/RB in/IN cheek/NN ,/, it/PRP might/MD have/VB been/VBN an/DT entertaining/JJ shaggy/NN dog/NN story/NN ./.
+but/CC under/IN the/DT harsh/JJ direction/NN of/IN schlondorff/NN ,/, the/DT film/NN is/VBZ just/RB a/DT sluggish/JJ paint-by-numbers/NNS exercise/VBP in/IN neo-/JJ noir/NN cluelessness/NN ./.
+avoid/VB this/DT nonsense/NN and/CC go/VB see/VB ``/`` l/NN ./. a/DT ./. confidential/JJ ``/`` instead/RB ./.

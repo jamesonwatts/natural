@@ -1,0 +1,15 @@
+let/VB 's/POS face/NN it/PRP :/: since/IN waterworld/NN floated/VBN by/IN ,/, the/DT summer/NN movie/NN season/NN has/VBZ grown/VBN */RB very/RB */JJ stale/NN ./.
+with/IN no/DT new/JJ eye-candy/NN for/IN four/CD weeks/NNS straight/RB ,/, we/PRP 've/VBP had/VBD to/TO sustain/VB ourselves/PRP on/IN the/DT quasi-nutritional/JJ value/NN of/IN cheatin/NN '/POS husbands/NNS ,/, traveling/VBG chocolate/NN salesmen/NNS ,/, and/CC computer-/NN generated/VBD serial/JJ killers/NNS ./.
+sigh/NN ./.
+thank/IN god/NN for/IN desperado/NN ./.
+the/DT freewheeling/VBG sequel/NN to/TO el/VB mariachi/NNS --/: director/NN robert/NN rodriguez/NN 's/POS notorious/JJ $/$ 7000/CD debut/NN --/: stars/VBZ a/DT cool/JJ antonio/NN banderas/NNS as/IN the/DT returning/VBG guitarist/NN with/IN no/DT name/NN ./.
+he/PRP 's/VBZ a/DT man/NN in/IN black/JJ with/IN revenge/NN on/IN his/PRP$ mind/NN ,/, and/CC an/DT arsenal/NN in/IN his/PRP$ case/NN ./.
+(/( the/DT woman/NN he/PRP loved/VBD was/VBD killed/VBN in/IN the/DT first/JJ film/NN ./. )/)
+so/RB ,/, he/PRP spends/VBZ the/DT entire/JJ story/NN shooting/VBG drug/NN dealers/NNS ;/: sort/NN of/IN a/DT tex-mex/NN version/NN of/IN the/DT punisher/NN ,/, if/IN you/PRP will/MD ./.
+there/EX is/VBZ n't/RB much/JJ of/IN an/DT emotional/JJ core/NN to/TO desperado/VB ./.
+rodriguez/NN is/VBZ having/VBG too/RB much/JJ fun/NN finding/VBG new/JJ and/CC innovative/JJ ways/NNS to/TO pay/VB homage/NN to/TO john/VB woo/RB ./.
+(/( and/CC sergio/NN leone/NN ./. ./. ./.
+and/CC sam/NN peckinpah/NN ./. ./. ./. )/)
+some/DT may/MD wince/VB at/IN the/DT body/NN count/NN --/: at/IN least/JJS 100/CD graphic/JJ killings/NNS is/VBZ a/DT fair/JJ estimate/NN --/: but/CC it/PRP 's/VBZ all/DT played/VBN for/IN laughs/NNS ./.
+big/JJ ,/, broad/JJ ,/, hispanic/JJ laughs/NNS that/IN ,/, for/IN me/PRP ,/, recall/VBP the/DT physical/JJ comedy/NN of/IN blake/JJ edwards/NNS and/CC his/PRP$ pink/JJ panther/NN films/NNS ./.
+sick/JJ ,/, slick/JJ fun/NN ./.

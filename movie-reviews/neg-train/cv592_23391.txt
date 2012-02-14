@@ -1,0 +1,62 @@
+the/DT realm/NN of/IN science/NN fiction/NN has/VBZ always/RB been/VBN an/DT allegory/NN of/IN political/JJ and/CC or/CC moral/JJ sensibilities/NNS ./.
+the/DT best/JJS tales/NNS of/IN the/DT genre/JJ deal/NN with/IN mankind/NN 's/POS struggle/NN for/IN survival/NN or/CC knowledge/NN ./.
+such/JJ popular/JJ and/CC noteworthy/JJ tomes/NNS as/IN ``/`` stranger/NN in/IN a/DT strange/JJ land/NN ``/`` by/IN robert/NN heinlein/NN ,/, ``/`` childhood/NN 's/POS end/NN ``/`` by/IN arthur/NN c/NN ./. clarke/NN and/CC ``/`` man/NN in/IN the/DT high/JJ castle/NN ``/`` and/CC ``/`` do/VBP androids/VBZ dream/NN of/IN electric/JJ sheep/NN ``/`` by/IN philip/NN k/NN ./. dick/VB all/DT deal/NN with/IN man/NN 's/POS need/NN for/IN identity/NN and/CC struggle/NN for/IN self/NN worth/NN ./.
+hollywood/NN has/VBZ regularly/RB adapted/VBN the/DT milieu/NN (/( if/IN not/RB the/DT message/NN )/) of/IN science/NN fiction/NN since/IN it/PRP 's/POS beginnings/NNS ./.
+most/JJS films/NNS just/RB created/VBN fancy/JJ pulp/NN tales/NNS with/IN no/DT more/RBR thought/VBD that/IN the/DT escapism/NN they/PRP achieved/VBD ./.
+it/PRP really/RB was/VBD n't/RB until/IN producer/NN george/NN pal/NN ,/, took/VBD charge/NN of/IN robert/NN heinlein/NN 's/POS novel/NN ``/`` rocketship/NN galileo/NN ``/`` and/CC crafted/VBD the/DT film/NN ``/`` destination/NN moon/NN ``/`` ,/, that/IN 'sci-fi/JJ '/'' (/( as/IN it/PRP is/VBZ commonly/RB referred/VBN to/TO )/) ,/, came/VBD into/IN it/PRP 's/VBZ own/JJ ./.
+from/IN there/RB ,/, such/JJ diverse/JJ filmmakers/NNS as/IN roger/NN corman/NN to/TO stanley/NN kubrick/NN ,/, have/VBP sought/VBN to/TO express/VB ideas/NNS through/IN the/DT medium/NN of/IN the/DT genre/NN ./.
+with/IN the/DT release/NN of/IN touchstone/NN pictures/NNS ``/`` mission/NN to/TO mars/NNS ``/`` ,/, we/PRP have/VBP an/DT unabashedly/RB nonchalant/JJ sci-fi/JJ film/NN for/IN those/DT who/WP read/VBP the/DT national/JJ enquirer/NN and/CC the/DT globe/NN ./.
+the/DT film/NN opens/VBZ on/IN a/DT summer/NN barbecue/NN ,/, as/IN phil/NN ohlmyer/NN (/( jerry/NN o'connell/NN )/) woos/NNS a/DT young/JJ female/NN with/IN his/PRP$ tales/NNS of/IN space/NN glory/NN and/CC the/DT upcoming/JJ mission/NN ./.
+woody/JJ blake/NN (/( tim/NN robbins/NNS )/) and/CC his/PRP$ wife/NN terri/NN (/( connie/VB nielsen/VBN )/) commit/NN to/TO his/PRP$ coming/JJ authority/NN on/IN the/DT mission/NN ,/, and/CC luc/NN goddard/NN (/( don/NN cheadle/NN )/) consoles/VBZ his/PRP$ son/NN ./.
+entering/VBG the/DT party/NN is/VBZ jim/NN mcconnell/NN (/( gary/JJ sinise/NN )/) ,/, who/WP gave/VBD up/RP command/NN of/IN the/DT mission/NN due/JJ to/TO the/DT untimely/JJ death/NN of/IN his/PRP$ wife/NN ,/, maggie/NN (/( kim/NN delaney/NN )/) ./.
+luc/NN consoles/VBZ jim/NN with/IN woody/NN 's/POS assistance/NN ./.
+the/DT three/CD men/NNS are/VBP friends/NNS and/CC carry/VB a/DT fine/JJ bond/NN of/IN trust/NN and/CC caring/NN between/IN them/PRP ./.
+but/CC jim/NN still/RB longs/VBZ to/TO set/VB foot/NN on/IN the/DT red/JJ planet/NN ./.
+the/DT mission/NN is/VBZ in/IN earnest/NN as/IN luc/NN and/CC his/PRP$ team/NN land/NN in/IN the/DT cydonia/NN region/NN of/IN mars/NNS ./.
+they/PRP send/VBP out/RP the/DT rover/NN to/TO investigate/VB the/DT area/NN and/CC discover/VB what/WP seems/VBZ to/TO be/VB water/NN or/CC ice/NN under/IN the/DT surface/NN ./.
+going/VBG out/RP to/TO investigate/VB ,/, luc/NN and/CC his/PRP$ team/NN approach/VB the/DT famed/JJ 'face/NN on/IN mars/NNS '/POS ./.
+a/DT strange/JJ noise/NN emanates/VBZ from/IN the/DT rock/NN ./.
+as/IN the/DT team/NN tries/VBZ to/TO scan/VB through/IN the/DT rock/NN with/IN radar/NN ,/, a/DT violent/JJ wind/NN storm/NN erupts/NNS ,/, creating/VBG a/DT vortex/NN that/WDT kills/VBZ all/DT members/NNS of/IN the/DT team/NN ,/, save/VB for/IN luc/NN ./.
+back/RB on/IN the/DT space/NN station/NN orbiting/VBG earth/JJ ,/, woody/JJ and/CC jim/NN receive/VBP the/DT information/NN that/IN the/DT mars/NNS landing/NN team/NN is/VBZ missing/VBG ./.
+luc/NN 's/POS interference/NN laden/NN emergency/NN message/NN urges/VBZ the/DT two/CD men/NNS to/TO attempt/VB a/DT second/JJ mission/NN to/TO the/DT red/JJ planet/NN in/IN the/DT hopes/NNS of/IN rescuing/VBG the/DT previous/JJ team/NN ./.
+the/DT second/JJ journey/NN to/TO the/DT martian/JJ world/NN is/VBZ fraught/JJ with/IN danger/NN ./.
+meteorite/JJ showers/NNS ,/, explosions/NNS ,/, and/CC rescues/VBZ all/DT come/VB into/IN play/NN as/IN the/DT intrepid/JJ heroes/NNS make/VBP there/EX way/NN to/TO the/DT planet/NN 's/POS surface/NN ./.
+the/DT big/JJ question/NN is/VBZ ,/, is/VBZ there/EX now/RB or/CC has/VBZ there/EX ever/RB been/VBN intelligent/JJ life/NN on/IN mars/NNS ./.
+and/CC if/IN so/RB ,/, what/WP is/VBZ its/PRP$ relationship/NN with/IN us/PRP ?/.
+now/RB for/IN the/DT bad/JJ news/NN ./.
+the/DT entire/JJ plot/NN of/IN ``/`` mission/NN to/TO mars/NNS ``/`` is/VBZ based/VBN almost/RB wholeheartedly/RB on/IN outdated/JJ and/CC preposterous/JJ national/JJ enquirer/NN type/NN martian/JJ civilization/NN tripe/NN ./.
+the/DT famed/JJ 'face/NN on/IN mars/NNS '/POS becomes/VBZ the/DT centerpiece/NN of/IN the/DT film/NN ,/, revealing/VBG some/DT of/IN the/DT most/RBS harebrained/JJ sci-fi/JJ pabulum/NN the/DT screen/NN has/VBZ witnessed/VBN ./.
+borrowing/VBG ideas/NNS from/IN such/JJ films/NNS as/IN ``/`` robinson/NN crusoe/NN on/IN mars/NNS ``/`` (/( 1964/CD )/) ,/, quatermass/VBZ and/CC the/DT pit/NN (/( 1967/CD )/) ,/, ``/`` 2001/CD :/: a/DT space/NN odyssey/NN ``/`` ,/, and/CC even/RB mario/NN bava/NN 's/POS ``/`` planet/NN of/IN the/DT vampires/NNS ``/`` (/( 'terrore/JJ nello/NN spazio/NN '/'' )/) (/( 1965/CD )/) ,/, ``/`` mission/NN to/TO mars/NNS ``/`` is/VBZ a/DT hodgepodge/NN of/IN ideas/NNS that/WDT do/VBP n't/RB add/VB up/RP to/TO a/DT satisfying/JJ whole/NN ./.
+while/IN some/DT sequences/NNS are/VBP wonderfully/RB handled/VBN and/CC executed/VBN ,/, the/DT film/NN remains/VBZ flat/JJ and/CC un-involving/JJ ./.
+so/RB much/JJ time/NN is/VBZ giving/VBG to/TO establishing/VBG the/DT lead/JJ characters/NNS in/IN the/DT film/NN ,/, but/CC to/TO no/DT good/JJ use/NN ./.
+the/DT performances/NNS are/VBP all/DT workmen/NNS like/IN ,/, with/IN only/JJ don/NN cheadle/NN (/( as/IN luc/NN )/) carrying/VBG any/DT sort/NN of/IN real/JJ chemistry/NN ./.
+gary/JJ sinise/NN is/VBZ wasted/VBN in/IN role/NN that/WDT requires/VBZ him/PRP to/TO look/VB as/IN if/IN he/PRP is/VBZ experiencing/VBG sleep/JJ depravation/NN ./.
+and/CC the/DT mistaken/VBN idea/NN of/IN having/VBG jerry/NN o'connell/NN (/( as/IN phil/NN ohlmyer/NN )/) play/VB his/PRP$ part/NN for/IN comic/JJ relief/NN is/VBZ just/RB too/RB painful/JJ to/TO excuse/VB ./.
+and/CC the/DT less/JJR said/VBD about/IN tim/NN robbins/NNS called/VBN in/RP from/IN home/NN performance/NN the/DT better/JJR ./.
+he/PRP 's/VBZ just/RB having/VBG too/RB much/JJ fun/NN here/RB to/TO give/VB a/DT damn/NN ./.
+the/DT script/NN has/VBZ a/DT few/JJ lapses/NNS ,/, namely/RB that/IN after/IN discovering/VBG several/JJ breaches/NNS in/IN the/DT hull/NN of/IN the/DT ship/NN caused/VBN by/IN a/DT meteorite/JJ shower/NN ,/, no/DT one/PRP thinks/VBZ of/IN checking/VBG the/DT fuel/NN tanks/NNS or/CC the/DT remainder/NN of/IN the/DT ship/NN for/IN damage/NN ./.
+this/DT of/IN course/NN leads/VBZ to/TO our/PRP$ heroes/NNS having/VBG to/TO abandon/VB their/PRP$ rescue/NN ship/NN ./.
+also/RB ,/, when/WRB one/CD character/NN sacrifices/NNS himself/PRP ,/, the/DT character/NN takes/VBZ on/IN a/DT religious/JJ demeanor/NN that/WDT is/VBZ completely/RB at/IN odds/NNS with/IN the/DT situation/NN ./.
+but/CC the/DT biggest/JJS offence/NN in/IN the/DT film/NN is/VBZ the/DT horrid/JJ ,/, intrusive/JJ score/NN by/IN ennio/NN morricone/NN ./.
+subtlety/NN is/VBZ non-existent/JJ here/RB ./.
+in/IN fact/NN in/IN some/DT scenes/NNS the/DT music/NN becomes/VBZ so/RB extravagant/JJ that/IN dialogue/NN is/VBZ almost/RB drowned/VBN out/RP ./.
+the/DT only/JJ sequence/NN in/IN which/WDT the/DT score/NN almost/RB works/VBZ is/VBZ during/IN the/DT protracted/JJ meteorite/JJ shower/NN ./.
+the/DT pacing/NN of/IN the/DT film/NN is/VBZ very/RB leisurely/RB ./.
+after/IN the/DT opening/VBG introduction/NN of/IN the/DT characters/NNS (/( which/WDT lasts/VBZ a/DT full/JJ 22/CD minutes/NNS )/) ,/, we/PRP are/VBP finally/RB dropped/VBN onto/IN the/DT martian/JJ surface/NN ./.
+then/RB ,/, there/EX is/VBZ another/DT long/JJ pause/NN in/IN the/DT plot/NN for/IN more/JJR character/NN development/NN ,/, including/VBG an/DT elaborate/JJ dance/NN sequence/NN in/IN zero/CD gravity/NN ./.
+the/DT film/NN could/MD lose/VB about/IN 30/CD minutes/NNS and/CC actually/RB gain/VB some/DT momentum/NN ./.
+there/EX are/VBP so/RB many/JJ scenes/NNS of/IN talking/VBG heads/NNS ,/, discussing/VBG what/WP we/PRP already/RB know/VBP is/VBZ going/VBG to/TO happen/VB ,/, that/IN it/PRP drags/VBZ the/DT film/NN to/TO a/DT dead/JJ stop/NN ./.
+the/DT good/JJ news/NN is/VBZ that/IN the/DT film/NN is/VBZ absolutely/RB sumptuous/JJ to/TO look/VB at/IN ./.
+the/DT vistas/NNS of/IN the/DT planet/NN mars/NNS are/VBP majestic/JJ and/CC awe/JJ inspiring/NN ./.
+the/DT design/NN of/IN the/DT numerous/JJ spacecraft/NN and/CC suits/NNS are/VBP all/RB expertly/RB drafted/VBN ,/, with/IN a/DT level/NN of/IN realism/NN that/WDT has/VBZ n't/RB been/VBN seen/VBN since/IN ``/`` 2001/CD :/: a/DT space/NN odyssey/NN ``/`` ./.
+the/DT visual/JJ effects/NNS are/VBP just/RB stunning/JJ ,/, from/IN the/DT space/NN walk/NN sequences/NNS ,/, to/TO the/DT visualization/NN of/IN evolution/NN on/IN earth/NN ./.
+the/DT only/JJ fault/NN come/VBN with/IN the/DT martians/NNS themselves/PRP ,/, which/WDT look/VBP more/JJR like/IN something/NN out/IN of/IN a/DT plastic/NN model/NN kit/NN than/IN something/NN from/IN another/DT world/NN ./.
+director/NN de/FW palma/FW stages/VBZ some/DT wonderfully/RB creative/JJ scenes/NNS through/IN out/IN the/DT film/NN ./.
+the/DT opening/VBG sequence/NN alone/RB in/IN a/DT seemingly/RB un-interrupted/JJ cut/NN lasting/VBG almost/RB 15/CD minutes/NNS (/( an/DT homage/NN '/'' to/TO hitchcock/VB 's/POS ``/`` rope/NN ``/`` )/) ,/, as/IN we/PRP are/VBP introduced/VBN to/TO all/DT of/IN the/DT characters/NNS ./.
+scenes/NNS in/IN the/DT rescue/NN ship/NN ,/, with/IN its/PRP$ rotating/VBG centrifuge/NN ,/, are/VBP just/RB amazing/JJ in/IN their/PRP$ execution/NN ./.
+but/CC the/DT nagging/JJ question/NN ,/, is/VBZ the/DT final/JJ explanation/NN worth/IN all/DT of/IN this/DT sturm/NN und/NN drang/NN ./.
+sadly/RB it/PRP is/VBZ not/RB ./.
+director/NN brian/JJ de/NN palma/NN has/VBZ crafted/VBN an/DT extravagant/JJ production/NN ./.
+the/DT set/NN design/NN and/CC visual/JJ effects/NNS are/VBP all/DT arresting/VBG ./.
+but/CC it/PRP 's/VBZ the/DT comic/JJ strip/NN denouncement/NN that/WDT ruin/VBP what/WP might/MD have/VB been/VBN a/DT fine/JJ return/NN to/TO good/JJ adventurous/NN ,/, thought/VBD provoking/VBG science/NN fiction/NN ./.
+a/DT disappointing/JJ film/NN ,/, but/CC one/CD that/WDT might/MD still/RB entertain/VB if/IN you/PRP can/MD settle/VB for/IN the/DT visuals/NNS ./.

@@ -1,0 +1,15 @@
+synopsis/NN :/: in/IN this/DT cultural/JJ exploration/NN ,/, a/DT chinese/JJ american/JJ computer/NN engineer/NN named/VBN fang/NN (/( peter/NN wang/NN )/) decides/VBZ to/TO take/VB a/DT month-long/JJ vacation/NN to/TO visit/VB his/PRP$ sister/NN mrs/NNS ./. chao/NN (/( shen/JJ guanglan/NN )/) ,/, her/PRP$ husband/NN mr/NN ./. chao/NN (/( hy/JJ xiaoguang/NN )/) ,/, and/CC their/PRP$ teenage/JJ daughter/NN lili/NNS (/( li/JJ qinqin/NN )/) in/IN beijing/VBG after/IN 30/CD years/NNS of/IN separation/NN ./.
+fang/NN brings/VBZ his/PRP$ asian/JJ american/JJ wife/NN grace/NN (/( sharon/NN iwai/NN )/) and/CC his/PRP$ college-aged/JJ son/NN paul/NN (/( kelvin/FW han/JJ yee/NN )/) along/RB ,/, both/DT of/IN whom/WP do/VBP n't/RB speak/VB chinese/JJ ./.
+the/DT encounter/NN between/IN the/DT two/CD families/NNS allows/VBZ the/DT audience/NN to/TO compare/VB the/DT eastern/JJ and/CC western/JJ cultures/NNS as/RB well/RB as/IN the/DT ambitions/NNS of/IN individual/JJ characters/NNS ./.
+opinion/NN :/: sometimes/RB a/DT film/NN is/VBZ plot/RB driven/VBN ./.
+sometimes/RB it/PRP 's/VBZ a/DT character/NN sketch/NN ./.
+a/DT great/JJ wall/NN (/( 1986/CD )/) can/MD be/VB called/VBN a/DT culture/NN sketch/NN ,/, as/IN opposed/VBN to/TO a/DT character/NN sketch/NN because/IN it/PRP gently/RB compares/VBZ a/DT chinese/JJ american/JJ family/NN to/TO a/DT beijing/VBG family/NN ./.
+fang/NN 's/POS family/NN is/VBZ thoroughly/RB americanized/VBN ./.
+fang/NN is/VBZ an/DT upper/JJ middle/JJ class/NN professional/NN who/WP enjoys/VBZ jogging/NN and/CC argues/VBZ with/IN his/PRP$ boss/NN ./.
+his/PRP$ wife/NN ca/MD n't/RB cook/VB chinese/JJ ./.
+his/PRP$ son/NN has/VBZ a/DT white/JJ girlfriend/NN and/CC complains/NNS of/IN racism/NN when/WRB fang/NN encourages/VBZ him/PRP to/TO befriend/VB an/DT asian/JJ girl/NN ./.
+meanwhile/RB fang/NN 's/POS beijing/VBG sister/NN advocates/NNS absolute/VBP loyalty/NN to/TO the/DT 'work/NN unit/NN ./. '/''
+her/PRP$ husband/NN is/VBZ a/DT retired/JJ official/NN who/WP has/VBZ heard/VBN rumors/NNS of/IN american/JJ depravity/NN (/( homosexuals/NNS running/VBG the/DT streets/NNS )/) ,/, and/CC her/PRP$ daughter/NN lili/NN longs/NNS for/IN american/JJ freedoms/NNS in/IN a/DT youth/NN culture/NN where/WRB studying/VBG for/IN college/NN entrance/NN exams/NNS is/VBZ the/DT most/RBS important/JJ thing/NN in/IN life/NN ./.
+the/DT two/CD families/NNS spend/VBP a/DT month/NN slowly/RB learning/VBG about/IN each/DT other/JJ ./.
+there/EX is/VBZ no/DT ultimate/JJ 'answer/NN '/POS or/CC final/JJ comprehensive/JJ understanding/NN after/IN the/DT month-long/JJ vacation/NN ./.
+the/DT film/NN is/VBZ neither/DT here/RB nor/CC there/RB ;/: it/PRP 's/VBZ a/DT neutral/JJ ,/, meandering/VBG ,/, gentle/JJ ,/, portrait/NN of/IN life/NN on/IN both/DT sides/NNS ./.

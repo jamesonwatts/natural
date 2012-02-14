@@ -1,0 +1,37 @@
+ingredients/NNS :/: man/NN with/IN amnesia/NN who/WP wakes/VBZ up/RP wanted/VBN for/IN murder/NN ,/, dark/JJ science/NN fiction/NN city/NN controlled/VBN by/IN alien/JJ beings/NNS with/IN mental/JJ powers/NNS ./.
+synopsis/NN :/: what/WP if/IN you/PRP woke/VBD up/RB one/CD day/NN ,/, and/CC suspected/VBD you/PRP were/VBD not/RB on/IN earth/NN ,/, and/CC instead/RB were/VBD part/NN of/IN an/DT experiment/NN in/IN a/DT giant/JJ space/NN terrarium/NN manipulated/VBN by/IN intergalactic/JJ alien/JJ zookeepers/NNS ?/.
+in/IN dark/JJ city/NN john/NN murdoch/NN (/( rufus/NN sewell/NN )/) has/VBZ this/DT problem/NN ./.
+dark/JJ city/NN starts/VBZ out/RP like/IN a/DT 1940s/CD noir/NN amnesia/NN detective/JJ mystery/NN ./.
+poor/JJ john/NN wakes/VBZ up/RP with/IN amnesia/NN in/IN a/DT hotel/NN room/NN with/IN a/DT dead/JJ dame/NN in/IN one/CD corner/NN ./.
+a/DT mysterious/JJ phone/NN call/NN tells/VBZ him/PRP to/TO get/VB the/DT heck/NN out/IN of/IN there/RB ,/, and/CC soon/RB enough/JJ john/NN is/VBZ chased/VBN all/DT over/IN town/NN by/IN a/DT murderous/JJ army/NN of/IN pale/JJ people/NNS in/IN black/JJ trench-coats/NNS ,/, as/RB well/RB as/IN by/IN the/DT police/NN ,/, and/CC the/DT dogged/JJ inspector/NN bumstead/NN (/( william/NN hurt/NN )/) ./.
+is/VBZ john/PDT a/DT murderer/NN ,/, and/CC what/WP can/MD his/PRP$ missing/VBG memories/NNS tell/VB him/PRP ?/.
+he/PRP searches/VBZ through/IN his/PRP$ own/JJ wallet/NN for/IN possible/JJ contacts/NNS and/CC clues/NNS ./.
+but/CC when/WRB the/DT clues/NNS do/VBP n't/RB fit/VB ,/, it/PRP does/VBZ n't/RB just/RB confuse/VB him/PRP ;/: it/PRP causes/VBZ john/NN to/TO go/VB so/RB far/RB as/IN to/TO question/VB the/DT whole/JJ nature/NN of/IN reality/NN in/IN the/DT dark/JJ city/NN ./.
+to/TO john/NN ,/, something/NN is/VBZ fishy/JJ ,/, and/CC very/RB unreal/JJ about/IN this/DT city/NN ./.
+how/WRB come/VB it/PRP 's/VBZ always/RB dark/JJ ,/, and/CC nobody/NN seems/VBZ to/TO remember/VB what/WP they/PRP did/VBD this/DT morning/NN ?/.
+and/CC how/WRB come/VBN nobody/NN seems/VBZ to/TO remember/VB how/WRB to/TO leave/VB the/DT city/NN ,/, or/CC how/WRB to/TO get/VB to/TO nearby/JJ shell/NN beach/NN ?/.
+every/DT night/NN ,/, around/IN midnight/NN ,/, john/NN notices/NNS that/IN the/DT whole/JJ city/NN enters/VBZ a/DT state/NN of/IN suspended/VBN animation/NN ,/, and/CC at/IN this/DT time/NN ,/, creepy/JJ alien/JJ experimenters/NNS known/VBN as/IN the/DT 'strangers/NNS '/POS come/VBP out/RB and/CC do/VB nasty/JJ things/NNS like/IN inject/JJ fake/JJ memories/NNS into/IN people/NNS 's/POS heads/NNS with/IN big/JJ hypodermic/JJ needles/NNS ./.
+the/DT strangers/NNS have/VBP the/DT ability/NN to/TO 'tune/PRP ,/, '/'' or/CC warp/VB reality/NN using/VBG telepathic/JJ powers/NNS ./.
+turns/VBZ out/RP ,/, the/DT city/NN is/VBZ not/RB on/IN earth/NN at/IN all/DT ./.
+and/CC the/DT reason/NN why/WRB john/NN does/VBZ n't/RB fall/VB victim/NN to/TO the/DT nightly/RB suspended/VBN animation/NN ,/, is/VBZ because/IN he/PRP is/VBZ a/DT human/JJ mutation/NN that/WDT possesses/VBZ the/DT same/JJ god-like/JJ reality-warping/JJ abilities/NNS as/IN the/DT strangers/NNS ./.
+even/RB with/IN the/DT help/NN of/IN scientist/NN dr/NN ./. daniel/NN schreber/NN ,/, can/MD john/VB take/VB back/RP the/DT dark/JJ city/NN ?/.
+opinion/NN :/: director/NN alex/NN proyas/NNS (/( he/PRP also/RB directed/VBD the/DT crow/NN )/) mentions/NNS this/DT in/IN the/DT dark/JJ city/NN press/NN kit/NN :/: in/IN films/NNS ,/, science/NN fiction/NN is/VBZ always/RB ``/`` used/VBN to/TO have/VB big/JJ spaceships/NNS blow/VBP up/RP cities/NNS ./.
+i/NNS think/VBP we/PRP 're/VBP a/DT little/JJ tired/NN of/IN that/DT ./. ``/``
+according/VBG to/TO director/NN proyas/NNS ,/, probably/RB the/DT most/RBS interesting/JJ thing/NN about/IN dark/JJ city/NN is/VBZ its/PRP$ layers/NNS ./.
+it/PRP 's/VBZ designed/VBN so/IN that/IN you/PRP can/MD watch/VB the/DT film/NN over/IN again/RB ,/, and/CC examine/VB it/PRP from/IN the/DT perspective/NN of/IN a/DT main/JJ character/NN other/JJ than/IN murdoch/NN ./.
+it/PRP 's/VBZ a/DT philosophical/JJ piece/NN ./.
+cinematic/JJ science/NN fiction/NN is/VBZ basically/RB a/DT thinly/RB disguised/VBN shootout/NN between/IN the/DT good/JJ humans/NNS and/CC the/DT bad/JJ aliens/NNS (/( whether/IN they/PRP be/VB klingons/NNS ,/, giant/JJ bugs/NNS ,/, or/CC proponents/NNS of/IN the/DT dark/JJ side/NN of/IN the/DT force/NN )/) ./.
+but/CC science/NN fiction/NN in/IN books/NNS reaches/VBZ beyond/IN the/DT 'shoot-em-up/NN '/POS level/NN and/CC targets/VBZ the/DT big/JJ questions/NNS ,/, questions/NNS like/IN who/WP are/VBP we/PRP ?/.
+what/WP is/VBZ the/DT human/JJ condition/NN ?/.
+what/WP is/VBZ ethical/JJ ?/.
+what/WP would/MD a/DT true/JJ human/NN being/VBG do/VB ?/.
+far/RB from/IN comic/JJ book/NN style/NN on/IN the/DT order/NN of/IN spawn/NN ,/, batman/NN ,/, or/CC the/DT mutant/JJ ninja/NN turtles/NNS ,/, dark/JJ city/NN not/RB only/RB features/VBZ the/DT showdown/NN between/IN good/JJ humans/NNS and/CC powerful/JJ aliens/NNS ,/, but/CC it/PRP also/RB asks/VBZ questions/NNS worthy/JJ of/IN films/NNS such/JJ as/IN brazil/NN or/CC blade/NN runner/NN ./.
+dark/JJ city/NN is/VBZ what/WP philosophers/NNS would/MD call/VB an/DT existentialist/JJ screenplay/NN ./.
+a/DT little/RB more/JJR than/IN 200/CD years/NNS ago/RB ,/, the/DT world/NN was/VBD filled/VBN with/IN unhappy/JJ peasants/NNS -/: -/: unhappy/JJ because/IN nearly/RB every/DT aspect/NN of/IN their/PRP$ lives/NNS was/VBD controlled/VBN by/IN totalitarian/JJ ,/, military/JJ ,/, conformist/JJ ,/, medieval/JJ regimes/NNS ./.
+the/DT people/NNS took/VBD refuge/NN in/IN religion/NN ,/, the/DT idea/NN being/VBG that/IN earthly/JJ life/NN was/VBD a/DT time/NN of/IN suffering/NN ,/, but/CC after/IN death/NN ,/, heaven/RB would/MD be/VB available/JJ ./.
+meanwhile/RB ,/, the/DT state/NN used/VBD these/DT same/JJ ideas/NNS to/TO prop/VB up/RP their/PRP$ regimes/NNS ;/: the/DT king/NN was/VBD often/RB head/NN of/IN the/DT religion/NN and/CC therefore/RB sanctioned/VBN by/IN heaven/NN ./.
+when/WRB science/NN finally/RB overturned/VBD religion/NN ,/, the/DT medieval/JJ dictatorships/NNS came/VBD tumbling/VBG down/IN and/CC were/VBD replaced/VBN by/IN democratic/JJ governments/NNS ./.
+but/CC the/DT new/JJ fear/NN was/VBD that/IN the/DT power/NN of/IN science/NN and/CC experimentation/NN would/MD be/VB used/VBN to/TO create/VB a/DT world/NN order/NN as/IN darkly/JJ totalitarian/NN as/IN the/DT old/JJ ./.
+this/DT is/VBZ the/DT time/NN period/NN when/WRB writers/NNS and/CC philosophers/NNS such/JJ as/IN freud/NN ,/, kant/NN ,/, kafka/FW ,/, nietzsche/NN ,/, and/CC dostoevsky/NN pondered/VBD what/WP society/NN should/MD be/VB ,/, and/CC what/WP place/VBP the/DT individual/NN had/VBD in/IN it/PRP ./.
+the/DT existentialists/NNS '/POS in/IN particular/JJ wrote/NN about/IN the/DT power/NN of/IN the/DT lone/JJ individual/NN against/IN what/WP may/MD be/VB a/DT hostile/JJ ,/, indifferent/JJ ,/, or/CC alienated/VBN universe/JJ ./.
+in/IN dark/JJ city/NN ,/, when/WRB the/DT last/JJ dying/NN ,/, defeated/VBN alien/RB asks/VBZ john/NN murdoch/NN why/WRB the/DT aliens/NNS '/POS scientific/JJ experiments/NNS on/IN the/DT human/JJ beings/NNS '/POS brains/NNS failed/VBD ,/, murdoch/NN replies/NNS ,/, pointing/VBG to/TO his/PRP$ head/NN ,/, ``/`` because/IN the/DT human/JJ condition/NN is/VBZ n't/RB located/VBN in/IN here/RB ./. ``/``

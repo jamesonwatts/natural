@@ -1,0 +1,32 @@
+expectation/NN rating/NN :/: a/DT bit/NN worse/JJR than/IN expected/VBN (/( mainly/RB because/IN i/NNS found/VBD the/DT middle/JJ part/NN to/TO be/VB a/DT bit/NN dull/NN )/) ./.
+roger/NN ebert/NN gave/VBD it/PRP a/DT four/CD star/NN review/NN ,/, and/CC while/IN he/PRP is/VBZ a/DT critic/NN that/WDT uses/VBZ the/DT full/JJ scale/NN ,/, and/CC i/NNS often/RB agree/VBP --/: such/JJ as/IN dark/JJ city/NN being/VBG the/DT best/JJS film/NN of/IN 1998/CD ,/, he/PRP must/MD have/VB seen/VBN a/DT better/JJR film/NN ./.
+i/NNS read/VBD the/DT book/NN about/IN five/CD years/NNS ago/RB and/CC hugely/RB enjoyed/VBD it/PRP ./.
+the/DT opening/NN of/IN a/DT simple/JJ plan/NN reminded/VBD me/PRP a/DT bit/NN of/IN the/DT sweet/NN hereafter/RB ./.
+the/DT landscape/NN is/VBZ snowy/JJ and/CC cold/JJ ,/, and/CC is/VBZ filmed/VBN what/WP i/NNS feel/VBP is/VBZ in/IN a/DT rather/RB crisp/JJ manner/NN (/( which/WDT also/RB reminds/VBZ me/PRP of/IN fargo/NN (/( which/WDT i/NNS loathed/VBD )/) )/) ./.
+one/PRP can/MD almost/RB sense/VB the/DT cold/NN ./.
+but/CC the/DT movie/NN far/RB from/IN the/DT eye/NN popping/VBG delights/NNS of/IN the/DT quick/NN and/CC the/DT dead/JJ ,/, instead/RB raimi/NN has/VBZ made/VBN a/DT more/RBR constrained/JJ film/NN --/: which/WDT probably/RB is/VBZ for/IN the/DT better/JJR ./.
+this/DT is/VBZ probably/RB not/RB a/DT movie/NN that/WDT would/MD have/VB been/VBN improved/VBN by/IN lots/NNS of/IN odd/JJ shots/NNS ./.
+the/DT movie/NN also/RB reminded/VBD me/PRP of/IN affliction/NN ,/, as/IN the/DT lead/JJ characters/NNS all/DT seem/VBP to/TO be/VB hoping/VBG for/IN and/CC seeing/VBG a/DT possibility/NN to/TO lead/VB a/DT better/JJR life/NN than/IN their/PRP$ father/NN ,/, and/CC they/PRP see/VBP a/DT chance/NN for/IN such/JJ a/DT dream/NN to/TO come/VB true/JJ ./.
+this/DT chance/NN is/VBZ uncovered/VBN in/IN a/DT snow/NN covered/VBD field/NN ,/, where/WRB an/DT airplane/NN has/VBZ crash/NN landed/VBN ./.
+in/IN the/DT plane/NN three/CD men/NNS find/VBP ?/. the/DT american/JJ dream/NN ./. ./. ./.
+in/IN a/DT gym/NN bag/NN ./. ?/.
+affliction/NN too/RB was/VBD set/VBN in/IN a/DT snowy/JJ landscape/NN ./.
+it/PRP really/RB seems/VBZ very/RB simple/JJ ./.
+just/RB hold/VB on/RP to/TO the/DT money/NN until/IN spring/NN ,/, and/CC if/IN no/DT one/NN claims/VBZ it/PRP ,/, they/PRP 'll/MD be/VB safe/JJ to/TO spend/VB it/PRP and/CC their/PRP$ hope/NN of/IN experiencing/VBG the/DT american/JJ dream/NN can/MD come/VB true/JJ ./.
+but/CC the/DT snow/NN melts/NNS ,/, and/CC so/RB might/MD several/JJ of/IN the/DT character/NN 's/POS hopes/NNS ./.
+as/IN in/IN ?/. return/NN to/TO paradise/VB ?/. ,/, some/DT of/IN the/DT characters/NNS are/VBP presented/VBN with/IN a/DT chance/NN to/TO do/VB the/DT right/JJ thing/NN ./.
+but/CC doing/VBG the/DT right/JJ thing/NN might/MD not/RB result/VB in/IN a/DT better/JJR result/NN than/IN something/NN more/JJR selfish/NN ./.
+the/DT movie/NN 's/POS biggest/JJS strength/NN is/VBZ that/IN it/PRP fact/NN makes/VBZ sense/NN ./.
+i/NNS have/VBP seen/VBN many/JJ movies/NNS based/VBN on/IN books/NNS that/WDT just/RB seem/VBP like/IN selected/VBN scenes/NNS from/IN the/DT book/NN visualized/VBD ,/, eschewing/VBG anything/NN remotely/RB resembling/VBG a/DT coherent/JJ story/NN --/: for/IN example/NN clear/JJ and/CC present/JJ danger/NN ./.
+the/DT biggest/JJS problem/NN seems/VBZ to/TO over-familiarization/NN with/IN the/DT story/NN ./.
+the/DT writer/NN perhaps/RB feels/VBZ that/IN he/PRP does/VBZ n't/RB have/VB to/TO present/VB scenes/NNS that/WDT are/VBP clear/JJ to/TO him/PRP ,/, but/CC the/DT lack/NN of/IN which/WDT only/RB baffles/VBZ an/DT audience/NN which/WDT has/VBZ not/RB read/VB the/DT book/NN ./.
+this/DT is/VBZ definitely/RB not/RB the/DT problem/NN with/IN a/DT simple/JJ plan/NN ,/, even/RB though/IN the/DT screenplay/NN is/VBZ by/IN the/DT book/NN 's/POS author/NN ./.
+the/DT movie/NN is/VBZ always/RB clear/JJ on/IN where/WRB it/PRP 's/VBZ going/VBG ,/, and/CC always/RB makes/VBZ sense/NN ./.
+i/NNS 'm/MD sue/VB a/DT lot/NN was/VBD cut/VBN ,/, but/CC really/RB i/NNS ca/MD n't/RB remember/VB what/WP ./.
+even/RB a/DT minor/JJ scene/NN involving/VBG a/DT man/NN complaining/VBG that/IN he/PRP has/VBZ paid/VBN for/IN too/RB much/JJ grains/NNS is/VBZ included/VBN ./.
+the/DT man/NN only/RB comes/VBZ in/RP on/IN mondays/NNS ,/, but/CC he/PRP claims/VBZ that/IN he/PRP has/VBZ been/VBN charged/VBN for/IN one/CD purchase/NN too/RB many/JJ ./.
+turns/VBZ out/RP ./. ./. ./.
+well/RB ,/, see/VBP the/DT movie/NN ./.
+one/PRP should/MD be/VB warned/VBN against/IN seeing/VBG the/DT trailer/NN ./.
+it/PRP reveals/VBZ several/JJ scenes/NNS from/IN the/DT ending/VBG moments/NNS (/( which/WDT yes/RB ,/, like/IN in/IN the/DT book/NN ,/, it/PRP is/VBZ a/DT downer/NN )/) ,/, several/JJ plot/NN developments/NNS ,/, and/CC much/JJ of/IN the/DT beginning/NN ./.
+but/CC much/JJ of/IN this/DT is/VBZ not/RB spelled/VBN directly/RB out/RB during/IN the/DT trailer/NN ,/, so/RB if/IN you/PRP 're/VBP lucky/JJ ,/, you/PRP 'll/MD have/VB forgotten/VBN about/IN all/DT of/IN this/DT when/WRB you/PRP see/VBP the/DT movie/NN ./.

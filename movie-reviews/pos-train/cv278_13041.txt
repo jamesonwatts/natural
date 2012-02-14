@@ -1,0 +1,64 @@
+written/VBN by/IN john/NN grisham/NN and/CC robert/NN altman/NN (/( as/IN al/JJ hayes/NNS )/)
+directed/VBN by/IN robert/NN altman/NN
+some/DT time/NN ago/RB ,/, a/DT young/JJ director/NN was/VBD given/VBN the/DT opportunity/NN to/TO direct/VB the/DT screen/NN version/NN of/IN a/DT popular/JJ novel/NN ./.
+the/DT novel/NN was/VBD a/DT summer/NN smash/NN ,/, topping/VBG best-seller/JJ lists/NNS across/IN the/DT country/NN and/CC already/RB drawing/VBG speculation/NN as/IN to/TO which/WDT popular/JJ actors/NNS of/IN the/DT day/NN might/MD play/VB the/DT leads/NNS ./.
+the/DT only/JJ problem/NN :/: the/DT novel/NN was/VBD n't/RB very/RB good/JJ ./.
+it/PRP was/VBD far/RB more/JJR pulp/NN than/IN pulitzer/NN ./.
+but/CC the/DT director/NN realized/VBD that/IN ,/, no/DT matter/NN how/WRB pedestrian/JJ the/DT prose/NN ,/, this/DT book/NN really/RB grabbed/VBN people/NNS -/: that/IN the/DT author/NN ,/, while/IN not/RB a/DT great/JJ writer/NN ,/, was/VBD a/DT fantastic/JJ storyteller/NN ./.
+so/RB he/PRP took/VBD on/IN the/DT project/NN ,/, convinced/VBD he/PRP could/MD make/VB something/NN happen/VB on/IN screen/NN ./.
+the/DT director/NN ?/.
+francis/PRP$ ford/JJ coppola/NN ./.
+the/DT book/NN ,/, of/IN course/NN ,/, was/VBD mario/NN puzo/NN 's/VBZ the/DT godfather/NN ./.
+the/DT rest/NN ,/, as/IN they/PRP say/VBP in/IN showbiz/NN ,/, was/VBD history/NN ./.
+by/IN bringing/VBG up/RP the/DT godfather/NN ,/, i/NNS do/VBP n't/RB mean/VB to/TO suggest/VB that/IN robert/NN altman/NN 's/VBZ the/DT gingerbread/NN man/NN is/VBZ destined/VBN for/IN that/DT level/NN of/IN greatness/NN ./.
+but/CC the/DT parallel/NN does/VBZ suggest/VB that/IN it/PRP is/VBZ possible/JJ to/TO create/VB great/JJ cinema/NN from/IN questionable/JJ source/NN material/NN ./.
+can/MD you/PRP get/VB any/DT more/RBR questionable/JJ than/IN john/NN grisham/NN ?/.
+depends/NNS on/IN whom/WP you/PRP ask/VBP ./.
+but/CC there/EX 's/VBZ no/DT question/NN that/DT grisham/NN 's/POS work/NN grabs/NNS people/NNS ./.
+like/IN puzo/NN ,/, grisham/NN is/VBZ a/DT better/JJR storyteller/NN than/IN a/DT writer/NN -/: unlike/IN fellow/JJ hack/NN michael/NN crichton/NN ,/, who/WP is/VBZ a/DT good/JJ idea/NN man/NN but/CC who/WP ca/MD n't/RB tell/VB a/DT well-constructed/JJ story/NN from/IN a/DT can/NN of/IN spam/NN ./.
+so/IN something/NN in/IN grisham/NN 's/POS unpublished/JJ story/NN of/IN a/DT cocky/JJ savannah/NN lawyer/NN who/WP gets/VBZ involved/VBN in/IN a/DT deadly/JJ family/NN squabble/NN drew/VBD the/DT attention/NN of/IN robert/NN altman/NN ,/, who/WP at/IN 73/CD years/NNS old/JJ remains/VBZ one/CD of/IN america/NN 's/POS greatest/JJS living/NN filmmakers/NNS ./.
+the/DT result/NN is/VBZ a/DT gripping/JJ thriller/NN that/IN ,/, while/IN falling/VBG short/RB of/IN classic/JJ cinema/NN ,/, deserves/VBZ its/PRP$ place/NN in/IN the/DT altman/NN canon/NN ./.
+>/LS from/IN its/PRP$ opening/VBG shot/NN to/TO the/DT closing/NN credits/NNS ,/, the/DT gingerbread/NN man/NN is/VBZ permeated/VBN with/IN a/DT sense/NN of/IN dread/NN ,/, with/IN a/DT fear/NN of/IN the/DT natural/JJ destructive/JJ forces/NNS of/IN the/DT universe/NN ./.
+this/DT terrific/JJ sense/NN of/IN mood/NN is/VBZ a/DT classic/JJ altman/NN touch/NN ./.
+witness/NN said/VBD opening/VBG shot/NN :/: we/PRP see/VBP an/DT aerial/JJ view/NN of/IN coastal/JJ georgia/NN with/IN its/PRP$ writhing/NN ,/, undulating/VBG landscape/NN while/IN the/DT soundtrack/NN grumbles/VBZ ominously/RB in/IN our/PRP$ ear/NN ./.
+we/PRP roll/VBP over/IN the/DT hills/NNS into/IN the/DT town/NN of/IN savannah/NN ,/, then/RB zoom/NN in/IN close/NN on/IN a/DT red/JJ sports/NNS car/NN speeding/VBG over/IN a/DT bridge/NN while/IN its/PRP$ driver/NN chatters/NNS oblivious/JJ on/IN his/PRP$ cell/NN phone/NN ./.
+right/RB away/RB we/PRP know/VBP that/IN the/DT driver/NN of/IN that/DT car/NN is/VBZ in/IN for/IN a/DT few/JJ surprises/NNS ./.
+pay/NN attention/NN ,/, boys/NNS and/CC girls/NNS -/: this/DT shot/NN was/VBD not/RB conceived/VBN by/IN john/NN grisham/NN ,/, but/CC by/IN altman/NN ./.
+this/DT is/VBZ what/WP a/DT great/JJ director/NN can/MD do/VB for/IN questionable/JJ source/NN material/NN ./.
+the/DT sports/NNS car/NN belongs/VBZ to/TO rick/VB magruder/NN (/( kenneth/JJ branagh/NN )/) ,/, the/DT aforementioned/JJ hotshot/NN attorney/NN who/WP specializes/VBZ in/IN police/NN brutality/NN cases/NNS ./.
+magruder/NN has/VBZ just/RB won/VBN a/DT high/JJ profile/NN case/NN and/CC celebrates/VBZ that/DT night/NN with/IN a/DT catered/VBN party/NN at/IN his/PRP$ office/NN ./.
+outside/IN after/IN the/DT party/NN he/PRP meets/VBZ one/CD of/IN the/DT waitresses/NNS ,/, mallory/NN doss/NN (/( embeth/JJ davidzt/NN )/) ,/, just/RB as/IN she/PRP realizes/VBZ her/PRP$ car/NN has/VBZ been/VBN stolen/VBN ./.
+driven/VBN by/IN southern/JJ chivalry/NN ,/, a/DT driving/NN rainstorm/NN and/CC his/PRP$ unspoken/JJ attraction/NN to/TO the/DT fragile/JJ waitress/NN ,/, magruder/NN offers/VBZ her/PRP a/DT ride/JJ home/NN ./.
+there/RB he/PRP learns/VBZ more/RBR about/IN mallory/NN 's/POS life/NN than/IN he/PRP bargained/VBD for/IN ./.
+her/PRP$ car/NN was/VBD stolen/VBN by/IN her/PRP$ schizophrenic/JJ father/NN dixon/NN (/( robert/NN duvall/NN )/) ,/, a/DT ted/VBN kyzynski-style/JJ whacko/NN who/WP has/VBZ been/VBN stalking/VBG and/CC terrorizing/VBG his/PRP$ own/JJ daughter/NN ./.
+magruder/NN ,/, perhaps/RB influenced/VBN by/IN mallory/NN 's/POS decision/NN to/TO strip/VB off/RP her/PRP$ wet/JJ clothes/NNS in/IN front/NN of/IN him/PRP ,/, is/VBZ sympathetic/JJ to/TO her/PRP$ plight/NN ,/, and/CC offers/VBZ to/TO help/VB her/PRP get/VB her/PRP$ father/NN committed/VBD -/: right/RB after/IN he/PRP sleeps/VBZ with/IN her/PRP ,/, of/IN course/NN ./.
+this/DT simple/JJ offer/NN of/IN help/NN leads/VBZ magruder/NN down/RP a/DT dangerous/JJ path/NN with/IN a/DT black/JJ end/NN ./.
+he/PRP succeeds/VBZ in/IN having/VBG dixon/NN incarcerated/VBN in/IN a/DT mental/JJ hospital/NN ,/, and/CC for/IN a/DT moment/NN all/DT appears/VBZ well/RB ./.
+but/CC then/RB dixon/NN 's/POS crack/NN team/NN of/IN homeless/JJ commandos/NNS bust/VBP him/PRP out/IN of/IN the/DT lockup/NN -/: and/CC suddenly/JJ magruder/NN finds/VBZ himself/PRP ,/, mallory/NN and/CC his/PRP$ own/JJ children/NNS in/IN danger/NN ./.
+the/DT cops/NNS wo/MD n't/RB lift/VB a/DT finger/NN to/TO help/VB a/DT liberal/JJ attorney/NN ./.
+his/PRP$ only/JJ allies/NNS are/VBP his/PRP$ faithful/JJ assistant/NN lois/NNS (/( daryl/NN hannah/NN )/) and/CC his/PRP$ bumbling/VBG private-eye/JJ sidekick/NN clyde/NN (/( robert/NN downey/NN jr/NN )/) ./.
+if/IN this/DT predicament/NN was/VBD n't/RB bad/JJ enough/RB ,/, hurricane/NN geraldo/NN is/VBZ bearing/VBG down/RP on/IN savannah/NN and/CC throwing/VBG the/DT world/NN into/IN chaos/NN ./.
+altman/NN may/MD provide/VB the/DT atmosphere/NN ,/, but/CC branagh/NN 's/POS performance/NN holds/VBZ the/DT gingerbread/NN man/NN together/RB ./.
+an/DT accomplished/JJ actor/NN when/WRB he/PRP is/VBZ n't/RB directing/VBG himself/PRP in/IN vanity/NN productions/NNS ,/, branagh/NN does/VBZ a/DT fine/JJ job/NN of/IN making/VBG rick/NN a/DT sympathetic/JJ hero/NN while/IN casting/VBG doubt/NN upon/IN his/PRP$ motives/NNS ./.
+is/VBZ his/PRP$ offer/NN of/IN help/NN to/TO mallory/VB an/DT act/NN of/IN kindness/NN ,/, or/CC of/IN egotism/NN ?/.
+magruder/NN is/VBZ so/RB sure/JJ of/IN his/PRP$ place/NN in/IN the/DT world/NN that/IN he/PRP never/RB considers/VBZ that/IN he/PRP has/VBZ bitten/VBN off/RP more/RBR than/IN he/PRP can/MD chew/VB until/IN he/PRP has/VBZ to/TO swallow/VB it/PRP -/: and/CC by/IN then/RB it/PRP 's/VBZ too/RB late/JJ ./.
+as/IN the/DT plot/NN unfolds/VBZ ,/, magruder/NN learns/VBZ that/IN none/NN of/IN us/PRP are/VBP as/RB secure/JJ as/IN we/PRP think/VBP we/PRP are/VBP ./.
+and/CC life/NN is/VBZ never/RB so/RB bad/JJ that/IN it/PRP ca/MD n't/RB get/VB worse/JJR ./.
+if/IN you/PRP 're/VBP familiar/JJ with/IN altman/NN 's/POS work/NN ,/, you/PRP 'll/MD recognize/VB several/JJ of/IN his/PRP$ signature/NN techniques/NNS ./.
+characters/NNS are/VBP not/RB introduced/VBN in/IN establishing/VBG shots/NNS ,/, but/CC rather/RB are/VBP allowed/VBN to/TO wander/VB in/IN the/DT background/NN of/IN scenes/NNS until/IN their/PRP$ importance/NN becomes/VBZ apparent/JJ ./.
+crucial/JJ scenes/NNS are/VBP shot/VBN from/IN the/DT outside/NN through/IN windows/NNS ,/, making/VBG the/DT audience/NN unwitting/JJ voyeurs/NNS of/IN the/DT action/NN ./.
+dialog/NN overlaps/NNS and/CC the/DT actors/NNS seem/VBP to/TO slip/VB naturally/RB into/IN an/DT improvisational/JJ style/NN ./.
+and/CC of/IN course/NN there/EX 's/VBZ my/PRP$ favorite/JJ altman/NN technique/NN -/: the/DT obligatory/JJ nude/JJ actress/NN shot/NN ./.
+thanks/NNS to/TO altman/VB ,/, here/RB are/VBP some/DT of/IN the/DT actresses/NNS i/VBP 've/PRP had/VBD the/DT pleasure/NN of/IN seeing/VBG naked/JJ :/: sally/NN kellerman/NN ,/, julianne/NN moore/NN ,/, madeline/NN stowe/NN ,/, even/RB frances/NNS mcdormand/NN ./.
+and/CC now/RB i/NNS can/MD add/VB embeth/NN davidtz/NN ,/, who/WP looks/VBZ quite/RB healthy/JJ in/IN the/DT altogether/RB ./.
+the/DT naked/JJ actress/NN shot/NN has/VBZ become/VBN as/IN ubiquitous/JJ to/TO the/DT altman/NN film/NN as/IN the/DT director/NN cameo/NN was/VBD to/TO the/DT hitchcock/NN film/NN ./.
+is/VBZ it/PRP old-school/JJ sexism/NN ,/, or/CC a/DT clever/JJ in-joke/NN ?/.
+you/PRP be/VB the/DT judge/NN ./.
+but/CC back/RB to/TO the/DT picture/NN at/IN hand/NN ./.
+in/IN the/DT hands/NNS of/IN a/DT mere/JJ mortal/NN ,/, the/DT gingerbread/NN man/NN would/MD have/VB been/VBN a/DT routine/JJ thriller/NN ,/, no/RB better/JJR or/CC worse/JJR than/IN the/DT countless/JJ others/NNS we/PRP 've/VBP all/DT endured/VBN ./.
+in/IN the/DT hands/NNS of/IN a/DT master/NN like/IN altman/NN ,/, it/PRP becomes/VBZ an/DT exercise/NN in/IN existential/JJ doom/NN ,/, in/IN its/PRP$ own/JJ way/NN far/RB more/RBR successful/JJ than/IN scorsese/NNS 's/POS cape/NN fear/NN remake/NN ,/, which/WDT tried/VBD for/IN the/DT same/JJ result/NN ./.
+what/WP may/MD prevent/VB it/PRP from/IN enduring/VBG with/IN altman/NN 's/POS greatest/JJS work/NN is/VBZ a/DT weak/JJ third/JJ act/NN -/: in/IN fact/NN ,/, there/EX really/RB is/VBZ no/DT third/JJ act/NN in/IN grisham/NN 's/POS story/NN ,/, so/IN it/PRP appears/VBZ that/IN altman/NN had/VBD to/TO throw/VB in/RP the/DT hurricane/NN just/RB to/TO jazz/NN things/NNS up/RP ./.
+but/CC there/EX are/VBP true/JJ moments/NNS of/IN riveting/VBG suspense/NN ,/, and/CC great/JJ performances/NNS by/IN branagh/NN ,/, davidzt/NN and/CC downey/NN jr/NN -/: more/JJR than/IN enough/RB to/TO see/VB you/PRP through/IN ./.
+that/DT polygram/NN so/RB hated/VBN this/DT picture/NN that/IN they/PRP tried/VBD to/TO steal/VB final/JJ cut/NN from/IN altman/NN ,/, and/CC then/RB buried/VBD the/DT marketing/NN campaign/NN when/WRB he/PRP won/VBD it/PRP back/RP ,/, should/MD tell/VB you/PRP how/WRB utterly/RB clueless/JJ of/IN quality/NN most/JJS studios/NNS are/VBP ./.
+they/PRP probably/RB wanted/VBD it/PRP to/TO look/VB more/JJR like/IN a/DT time/NN to/TO kill/VB ./.
+and/CC that/DT ,/, my/PRP$ friends/NNS ,/, should/MD make/VB you/PRP very/RB afraid/JJ ./.

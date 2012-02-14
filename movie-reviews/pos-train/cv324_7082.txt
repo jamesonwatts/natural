@@ -1,0 +1,31 @@
+produced/VBN by/IN robert/NN lantos/NNS &/CC stephen/JJ j/NN ./. roth/NN
+directed/VBN by/IN douglas/NNS williams/NNS
+mpaa/NN :/: not/RB rated/VBN (/( though/IN from/IN language/NN ,/, violence/NN ,/, medical-gross-outs/NNS ,/, and/CC sexual/JJ content/NN ,/, i/NNS 'd/MD put/VB it/PRP at/IN pg/NN )/)
+though/IN made/VBN in/IN canada/NN ,/, ``/`` overdrawn/JJ at/IN the/DT memory/NN bank/NN ``/`` traces/VBZ its/PRP$ roots/NNS to/TO the/DT bbc/NN school/NN of/IN film/NN production/NN ./.
+using/VBG ,/, for/IN the/DT most/JJS part/NN ,/, cheap/JJ computer/NN and/CC video/NN special/JJ effects/NNS ,/, chyron/NN text/NN ,/, wildlife/VBP documentary/JJ footage/NN ,/, and/CC sets/NNS that/WDT are/VBP sometimes/RB obviously/RB faked/VBD up/RP ,/, it/PRP nonetheless/RB manages/VBZ to/TO tell/VB a/DT good/JJ enough/JJ science/NN fiction/NN story/NN that/IN by/IN the/DT time/NN you/PRP 're/VBP twenty/CD minutes/NNS into/IN it/PRP ,/, you/PRP should/MD be/VB hooked/VBN ./.
+raul/NN julia/NN plays/VBZ aram/NN fingal/JJ ,/, a/DT drone/NN data/NN processing/NN worker/NN for/IN novicorp/NN whose/WP$ active/JJ imagination/NN and/CC predilection/NN for/IN hacking/NN gets/VBZ him/PRP into/IN trouble/NN with/IN authority/NN ./.
+caught/VBD watching/VBG ``/`` casablanca/NN ``/`` on/IN his/PRP$ desk/NN monitor/NN ,/, fingal/JJ is/VBZ sentenced/VBN to/TO ``/`` doppling/VBG ``/`` rehabilitation/NN --/: he/PRP is/VBZ to/TO spend/VB forty-eight/JJ hours/NNS in/IN the/DT body/NN of/IN a/DT baboon/NN ./.
+(/( how/WRB exactly/RB this/DT is/VBZ supposed/VBN to/TO rehabilitate/VB him/PRP is/VBZ anybody/NN 's/POS guess/NN ./. )/)
+as/IN it/PRP happens/VBZ ,/, thanks/NNS to/TO a/DT visiting/VBG schoolboy/NN 's/POS prank/NN ,/, his/PRP$ body/NN is/VBZ temporarily/RB misplaced/VBN ,/, and/CC his/PRP$ mind/NN has/VBZ to/TO be/VB shunted/VBN into/IN the/DT central/JJ computer/NN to/TO keep/VB him/PRP alive/JJ until/IN they/PRP can/MD find/VB it/PRP ./.
+as/IN time/NN ticks/NNS away/RB before/IN his/PRP$ memory/NN cube/NN self-destructs/NNS ,/, the/DT frantic/JJ search/NN for/IN his/PRP$ body/NN is/VBZ on/IN ./. ./. ./. while/IN
+fingal/NN first/RB creates/VBZ a/DT virtual/JJ reality/NN fantasy/JJ world/NN ,/, then/RB finds/VBZ there/EX 's/VBZ no/DT better/JJR way/NN to/TO hack/VB the/DT system/NN than/IN from/IN the/DT inside/NN ./.
+during/IN the/DT chaos/NN ,/, computer/NN technician/NN apollonia/NN james/NNS (/( linda/NN griffiths/NNS )/) maintains/VBZ contact/NN with/IN fingal/NN through/IN a/DT datalink/NN ,/, manifesting/VBG several/JJ different/JJ times/NNS to/TO offer/VB advice/NN or/CC warnings/NNS ./.
+over/IN the/DT course/NN of/IN their/PRP$ interactions/NNS ,/, interest/NN on/IN both/DT their/PRP$ parts/NNS grows/VBZ into/IN a/DT budding/VBG romance/NN ./.
+given/VBN that/IN ``/`` casablanca/NN ``/`` is/VBZ fingal/JJ 's/POS favorite/JJ film/NN ,/, and/CC the/DT basis/NN for/IN his/PRP$ fantasy/JJ world/NN ,/, a/DT great/JJ deal/NN of/IN the/DT movie/NN is/VBZ homage/NN to/TO ``/`` casablanca/NN ``/`` ./.
+in/IN fact/NN ,/, the/DT humphrey/JJ bogart/NN and/CC peter/NN lorre/NN characters/NNS make/VBP appearances/NNS (/( played/VBN by/IN julia/NN in/IN a/DT dual/JJ role/NN and/CC louis/NN negin/NN ,/, respectively/RB )/) in/IN a/DT bar/NN called/VBN ``/`` the/DT place/NN ``/`` ./.
+julia/NN 's/POS portrayal/NN of/IN bogart/NN is/VBZ passable/JJ ,/, and/CC avoids/NNS becoming/VBG the/DT ``/`` schweethaat/NN ``/`` -spouting/JJ parody/NN seen/VBN in/IN cartoons/NNS ./.
+negin/NN 's/POS peter/NN lorre/NN is/VBZ quite/RB credible/JJ ,/, and/CC easily/RB the/DT best/JJS peter/NN lorre/NN i/NNS 've/VBP ever/RB seen/VBN who/WP was/VBD n't/RB the/DT real/JJ thing/NN ./.
+the/DT two/CD of/IN them/PRP ,/, as/IN characters/NNS created/VBN by/IN fingal/NN 's/POS imagination/NN ,/, serve/VBP as/IN aspects/NNS of/IN his/PRP$ personality/NN ,/, driving/VBG him/PRP on/RP in/IN his/PRP$ quest/NN to/TO hack/VB the/DT computer/NN system/NN ./.
+those/DT are/VBP n't/RB the/DT only/JJ casablanca/NN characters/NNS to/TO put/VB in/RP appearances/NNS ./.
+the/DT sydney/NN greenstreet/NN character/NN also/RB happens/VBZ to/TO be/VB around/IN ./. ./. ./. as/IN ``/`` the/DT fat/JJ man/NN ``/`` ,/, the/DT alternate/JJ aspect/NN of/IN the/DT film/NN 's/POS main/JJ villain/NN ,/, the/DT novicorp/NN chairman/NN (/( donald/JJ c/NN ./. moore/NN )/) ./.
+while/IN fingal/JJ 's/POS body/NN is/VBZ lost/VBN ,/, the/DT fat/JJ man/NN tries/VBZ to/TO stop/VB him/PRP from/IN hacking/VBG the/DT system/NN ./. ./. ./. with/IN
+less/JJR than/IN salutory/NN results/NNS ./.
+it/PRP 's/VBZ interesting/JJ to/TO note/VB the/DT futuristic/JJ slang/NN words/NNS that/WDT are/VBP thrown/VBN about/IN left/RB and/CC right/RB during/IN the/DT film/NN ,/, in/IN the/DT best/JJS golden-age/JJ science/NN fiction/NN tradition/NN ./.
+words/NNS like/IN ``/`` dopple/NN ``/`` ,/, ``/`` psychist/NN ``/`` ,/, ``/`` computech/NN ``/`` ,/, ``/`` cinema/NN ``/`` ,/, and/CC ``/`` reconst/NN ``/`` are/VBP apparently/RB in/IN common/JJ use/NN ./.
+and/CC while/IN people/NNS of/IN today/NN may/MD well/RB laugh/VB at/IN fourteen/CD years/NNS past/NN 's/POS idea/NN of/IN futuristic/JJ data/NNS processing/VBG clerks/NNS ,/, some/DT aspects/NNS of/IN this/DT film/NN are/VBP surprisingly/RB perfectly/RB in/IN keeping/VBG with/IN the/DT way/NN we/PRP think/VBP of/IN ``/`` virtual/JJ reality/NN ``/`` today/NN ./.
+as/IN cyberpunk/NN films/NNS go/VBP ,/, this/DT may/MD not/RB be/VB a/DT staple/NN of/IN the/DT genre/NN ,/, but/CC it/PRP 's/VBZ definitely/RB recommended/VBN viewing/NN ./.
+the/DT special/JJ effects/NNS are/VBP very/RB primitive/JJ ,/, placing/VBG this/DT production/NN in/IN the/DT realm/NN of/IN low-to-medium-budget/JJ television/NN ./.
+the/DT music/NN is/VBZ completely/RB electronic-synthesized/JJ ,/, which/WDT fits/VBZ the/DT low/JJ budget/NN but/CC is/VBZ n't/RB really/RB out/IN of/IN keeping/VBG with/IN the/DT genre/NN ./.
+however/RB ,/, the/DT writing/NN quite/RB makes/VBZ up/RP for/IN it/PRP ./.
+there/EX are/VBP some/DT very/RB funny/JJ moments/NNS ,/, and/CC quite/RB a/DT few/JJ little/JJ in-jokes/NNS that/IN one/NN needs/VBZ to/TO have/VB seen/VBN ``/`` casablanca/NN ``/`` to/TO appreciate/VB properly/RB ./.
+all/DT in/IN all/DT ,/, i/NNS give/VBP ``/`` overdrawn/JJ at/IN the/DT memory/NN bank/NN ``/`` a/DT ./.

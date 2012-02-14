@@ -1,0 +1,40 @@
+the/DT 1990s/CD produced/VBD two/CD brilliant/JJ science/NN fiction/NN films/NNS ./.
+one/CD was/VBD _gattaca_/JJ ./.
+the/DT other/JJ was/VBD _the/DT thirteenth/JJ floor_/NN ./.
+just/RB as/IN _gattaca_/NN was/VBD overshadowed/VBN by/IN the/DT mighty/JJ _titanic_/NN ,/, _the/DT thirteenth/JJ floor_/NN was/VBD relegated/VBN to/TO obscurity/NN by/IN _the/DT matrix_/NN ./.
+however/RB ,/, _the/DT thirteeth/JJ floor_/NN ,/, though/IN it/PRP deals/VBZ with/IN similar/JJ themes/NNS ,/, is/VBZ a/DT much/RB better/JJR movie/NN than/IN the/DT frenetic/JJ ,/, childish/JJ and/CC improbable/JJ _matrix_/NN ./.
+a/DT cutting/VBG edge/NN computer/NN scientist/NN ,/, hannon/NN fuller/NN (/( played/VBN by/IN the/DT charming/JJ armin/NN mueller-stahl/NN )/) ,/, is/VBZ murdered/VBN ./.
+his/PRP$ associate/NN ,/, douglas/NN hall/NN ,/, (/( craig/NN bierko/NN )/) apparently/RB framed/VBN and/CC suspected/VBN by/IN the/DT police/NN ,/, enters/VBZ into/IN the/DT simulated/JJ world/NN they/PRP have/VBP created/VBN in/IN order/NN to/TO unravel/VB the/DT mystery/NN ./.
+along/IN the/DT way/NN a/DT beautiful/JJ blonde/NN (/( gretchen/JJ mol/NN )/) ,/, more/JJR bodies/NNS ,/, and/CC a/DT deepening/VBG mystery/NN about/IN simulated/JJ worlds/NNS complicate/VBP the/DT picture/NN ./.
+_the/DT thirteenth/JJ floor_/NN unfolds/VBZ slowly/RB and/CC telegraphs/VBZ its/PRP$ punches/NNS ,/, choosing/VBG to/TO elicit/VB the/DT more/RBR complex/JJ emotional/JJ response/NN of/IN empathy/NN and/CC anticipation/NN rather/RB than/IN the/DT cheap/JJ one/CD of/IN mere/JJ surprise/NN ./.
+the/DT result/NN is/VBZ a/DT movie/NN that/WDT is/VBZ a/DT failure/NN from/IN two/CD conventional/JJ points/NNS of/IN view/NN ./.
+first/RB ,/, its/PRP$ plot/NN revelations/NNS can/MD be/VB foreseen/VBN if/IN one/NN has/VBZ carefully/RB followed/VBN its/PRP$ complex/JJ storyline/NN ./.
+second/JJ and/CC more/RBR seriously/RB ,/, it/PRP demands/VBZ that/IN its/PRP$ audience/NN think/NN and/CC feel/NN ./.
+no/DT wonder/NN it/PRP fell/VBD through/IN the/DT cracks/NNS ./.
+done/VBN in/IN film/NN noir/NN style/NN as/IN a/DT murder/NN mystery/NN ,/, this/DT is/VBZ a/DT relatively/RB deep/JJ movie/NN that/IN functions/NNS on/IN several/JJ levels/NNS ./.
+many/JJ audiences/NNS will/MD simply/RB be/VB bewildered/VBN by/IN it/PRP ,/, rather/RB than/IN engaged/VBN ,/, which/WDT is/VBZ a/DT shame/NN ,/, because/IN this/DT movie/NN amply/RB repays/VBZ a/DT little/RB emotional/JJ and/CC intellectual/JJ investment/NN ./.
+i/NNS recommend/VBP a/DT second/JJ viewing/NN simply/RB to/TO get/VB the/DT flavor/NN of/IN the/DT frequent/JJ ironic/JJ foreshadowing/NN in/IN the/DT opening/VBG parts/NNS of/IN the/DT movie/NN ./.
+despite/IN its/PRP$ philosophical/JJ challenges/NNS ,/, _the/DT thirteenth/JJ floor_/NN derives/VBZ its/PRP$ emotional/JJ force/NN from/IN the/DT love/NN story/NN between/IN jane/NN fuller/NN (/( mol/NN )/) and/CC douglas/VBZ hall/NN (/( bierko/NN )/) ,/, as/RB well/RB as/IN the/DT close/JJ friendship/NN between/IN douglas/NNS hall/NN and/CC hannon/NN fuller/NN ./.
+in/IN that/DT sense/NN it/PRP is/VBZ more/RBR akin/JJ to/TO _gattaca_/VB than/IN _the/DT matrix_/NN ,/, which/WDT ,/, for/IN all/DT of/IN its/PRP$ cute/JJ philosophical/JJ byplay/NN ,/, is/VBZ an/DT adolescent/JJ movie/NN with/IN no/DT emotional/JJ depth/NN whatsoever/RB ./.
+the/DT moment/NN when/WRB jane/NN fuller/NN confesses/VBZ her/PRP$ love/NN for/IN douglas/NNS hall/NN is/VBZ at/IN once/RB satisfying/VBG ,/, wrenching/VBG and/CC intellectually/RB challenging/JJ ./.
+in/IN its/PRP$ final/JJ moments/NNS the/DT film/NN even/RB takes/VBZ on/IN itself/PRP ,/, when/WRB david/NN ,/, jane/NN 's/POS husband/NN ,/, who/WP has/VBZ come/VBN to/TO enjoy/VB killing/NN ,/, accuses/VBZ her/PRP of/IN being/VBG the/DT sick/JJ one/CD ./.
+although/IN there/EX is/VBZ a/DT victory/NN for/IN the/DT leading/VBG characters/NNS ,/, this/DT resolution/NN suggests/VBZ a/DT disturbing/JJ element/NN of/IN fantasy/NN in/IN jane/NN ,/, and/CC thus/RB a/DT deep-seated/JJ character/NN flaw/NN ./.
+in/IN fact/NN ,/, hannon/NN fuller/NN 's/POS activities/NNS in/IN the/DT simulated/JJ world/NN ,/, the/DT behavior/NN of/IN jane/NN 's/POS husband/NN ,/, and/CC the/DT effects/NNS of/IN entering/VBG the/DT simulation/NN on/IN douglas/NNS hall/VBP all/DT hint/NN at/IN similar/JJ issues/NNS with/IN those/DT characters/NNS ./.
+this/DT is/VBZ not/RB a/DT film/NN of/IN good/JJ people/NNS beset/VBP from/IN without/IN by/IN great/JJ evil/NN ./.
+the/DT tragedy/NN is/VBZ not/RB in/IN their/PRP$ stars/NNS ,/, but/CC in/IN themselves/PRP ./.
+the/DT major/JJ actors/NNS ,/, all/DT of/IN whom/WP are/VBP required/VBN to/TO play/VB two/CD or/CC even/RB three/CD roles/NNS ,/, perform/VBP extremely/RB well/RB ./.
+bierko/RB ,/, who/WP will/MD be/VB familiar/JJ as/IN the/DT psycho/NN from/IN _the/DT long/JJ kiss/NN goodnight_/NN ,/, is/VBZ outstanding/JJ ./.
+d'onofrio/NN as/IN whitney/NN ,/, who/WP plays/VBZ a/DT pivotal/JJ role/NN in/IN support/NN ,/, also/RB turns/VBZ in/IN a/DT good/JJ performance/NN ./.
+the/DT lovely/JJ gretchen/NN mol/NN ,/, whose/WP$ elegance/NN ,/, integrity/NN ,/, and/CC determination/NN suggest/VBP bergman/NN in/IN _casablanca_/NN ,/, does/VBZ a/DT wonderful/JJ job/NN ./.
+her/PRP$ voice/NN ,/, however/RB ,/, lacks/VBZ the/DT necessary/JJ weight/NN at/IN times/NNS ./.
+this/DT could/MD be/VB because/IN she/PRP was/VBD given/VBN the/DT worst/JJS lines/NNS in/IN a/DT movie/NN whose/WP$ major/JJ weakness/NN is/VBZ the/DT script/NN ./.
+some/DT minor/JJ flaws/NNS ,/, hairline/NN cracks/NNS in/IN fine/JJ porcelain/NN ,/, appear/VBP in/IN places/NNS ./.
+there/EX are/VBP one/CD or/CC two/CD instances/NNS of/IN jerky/JJ editing/NN ./.
+the/DT script/NN takes/VBZ the/DT edge/NN off/IN the/DT film/NN 's/POS climaxes/NNS ./.
+the/DT atmosphere/NN becomes/VBZ too/RB claustrophobic/JJ at/IN times/NNS (/( yet/RB ,/, there/EX is/VBZ a/DT clue/NN there/RB too/RB )/) ./.
+one/NN wonders/VBZ if/IN even/RB after/IN two/CD decades/NNS ,/, _blade/JJ runner_/NN is/VBZ still/RB casting/VBG its/PRP$ long/JJ shadow/NN over/IN sci-fi/JJ films/NNS ./.
+one/PRP can/MD see/VB a/DT group/NN of/IN suits/NNS in/IN their/PRP$ suite/NN ,/, waving/VBG their/PRP$ hands/NNS imperiously/RB at/IN directors/NNS like/IN the/DT emperor/NN in/IN _amadeus_/NN :/: ``/`` make/VB it/PRP more/RBR like_blade/JJ runner_/NN ,/, you/PRP know/VBP ,/, dark/VBP and/CC rainy/VBP ./. ``/``
+_the/DT thirteen/JJ floor_/NN is/VBZ that/IN rare/JJ exception/NN among/IN hollywood/NN movies/NNS :/: a/DT ,/, rich/JJ ,/, emotionally/RB satisfying/JJ ,/, intelligent/JJ sci-fi/JJ movie/NN ./.
+and/CC yet/RB ,/, ultimately/RB ,/, it/PRP proves/VBZ the/DT suits/NNS right/RB ./.
+for/IN when/WRB good/JJ sci-fi/NN is/VBZ made/VBN ,/, where/WRB is/VBZ the/DT sf/JJ community/NN turning/VBG out/RP in/IN droves/NNS to/TO see/VB it/PRP ?/.
+if/IN we/PRP do/VBP n't/RB support/VB great/JJ sf/NN ,/, who/WP will/MD ?/.

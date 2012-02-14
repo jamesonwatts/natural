@@ -1,0 +1,49 @@
+shakespeare/LS ./. you/PRP hardly/RB understood/VBD it/PRP in/IN high/JJ school/NN ./.
+why/WRB would/MD you/PRP want/VB more/JJR of/IN it/PRP now/RB that/IN your/PRP$ english/JJ grade/NN does/VBZ n't/RB count/VB on/IN it/PRP ?/.
+if/IN this/DT is/VBZ your/PRP$ attitude/NN ,/, then/RB i/NNS 'll/MD say/VB right/RB off/IN the/DT bat/NN that/IN kenneth/JJ branagh/NN 's/POS hamlet/NN is/VBZ probably/RB not/RB for/IN you/PRP ,/, and/CC you/PRP might/MD as/RB well/RB stop/VB reading/VBG right/RB now/RB ./.
+if/IN ,/, however/RB ,/, you/PRP are/VBP a/DT lover/NN of/IN the/DT bard/NN ,/, or/CC at/IN the/DT very/RB least/JJS are/VBP open-minded/JJ about/IN a/DT challenging/JJ script/NN ,/, read/VBD on/IN ,/, for/IN there/EX is/VBZ something/NN rotten/VBN in/IN the/DT state/NN of/IN denmark/NN ./.
+namely/RB ,/, the/DT king/NN has/VBZ died/VBN ,/, and/CC his/PRP$ widow/NN the/DT queen/NN has/VBZ wed/VBN the/DT king/NN 's/POS brother/NN ,/, claudius/NN ,/, but/CC prince/NN hamlet/NN suspects/VBZ foul/JJ play/NN ./.
+his/PRP$ suspicions/NNS are/VBP confirmed/VBN when/WRB the/DT ghost/NN of/IN his/PRP$ father/NN appears/VBZ and/CC relates/VBZ the/DT story/NN of/IN his/PRP$ murder/NN at/IN his/PRP$ own/JJ brother/NN 's/POS hands/NNS ./.
+hamlet/NN ,/, enlisting/VBG the/DT help/NN of/IN his/PRP$ friend/NN horatio/NN ,/, conspires/VBZ to/TO capture/VB the/DT conscience/NN of/IN the/DT new/JJ king/NN to/TO expose/VB his/PRP$ treachery/NN ./. ./. ./. ./. and/CC
+the/DT game/NN is/VBZ afoot/RB ./. ./. ./. ./.
+the/DT first/JJ things/NNS you/PRP notice/VBP about/IN this/DT production/NN are/VBP the/DT sets/NNS and/CC costumes/NNS ./.
+with/IN external/JJ scenes/NNS filmed/VBN at/IN blemheim/JJ palace/NN in/IN england/NN (/( also/RB the/DT one/CD of/IN the/DT sites/NNS for/IN the/DT recent/JJ the/DT avengers/NNS )/) ,/, the/DT grandiose/JJ quality/NN of/IN the/DT setting/NN is/VBZ immediately/RB established/VBN ./.
+interior/JJ scenes/NNS are/VBP similarly/RB graced/VBN with/IN intricate/JJ and/CC flamboyant/JJ rooms/NNS and/CC chambers/NNS ./.
+the/DT hamlet/NN castle/NN 's/POS grand/JJ throne/NN room/NN is/VBZ an/DT impressive/JJ piece/NN of/IN work/NN incorporating/VBG high/JJ ceilings/NNS ,/, mirror-panel/JJ doors/NNS ,/, and/CC bridges/NNS which/WDT connect/VBP opposite/JJ sides/NNS of/IN a/DT second-story/JJ loft/NN ./.
+costuming/NN is/VBZ equally/RB grand/JJ ,/, drawing/VBG upon/IN both/DT history/NN and/CC imagination/NN ./. ./.
+not/RB quite/VB the/DT denmark/NN of/IN the/DT 1600/CD 's/POS ,/, the/DT characters/NNS '/POS attire/NN is/VBZ something/NN of/IN a/DT cross/NN between/IN that/DT era/NN and/CC turn/NN of/IN the/DT century/NN russia/NN ,/, very/RB effectively/RB giving/VBG the/DT film/NN more/JJR of/IN a/DT timeless/JJ feel/NN ./.
+it/PRP is/VBZ not/RB surprising/JJ that/IN tim/NN harvey/NN and/CC alexandra/NN byrne/NN were/VBD nominated/VBN for/IN best/JJS art/NN direction/NN and/CC best/JJS costume/NN design/NN oscars/NNS ,/, respectively/RB ./.
+in/IN addition/NN to/TO directing/VBG ,/, kenneth/JJ branagh/NN also/RB plays/VBZ the/DT title/NN character/NN ./.
+as/IN the/DT revenge-driven/JJ royal/JJ heir/NN ,/, branagh/NN provides/VBZ a/DT riveting/JJ performance/NN of/IN emotional/JJ highs/NNS and/CC lows/NNS ./.
+from/IN the/DT anticipation/NN of/IN seeing/VBG his/PRP$ father/NN 's/POS ghost/NN ,/, to/TO the/DT melancholy/NN of/IN finding/VBG the/DT burial/JJ site/NN of/IN his/PRP$ childhood/NN jester/NN ,/, to/TO his/PRP$ eventual/JJ wrath/NN ,/, branagh/NN delivers/NNS in/IN spades/NNS ./.
+every/DT scene/NN truly/RB revolves/VBZ around/IN hamlet/NN ,/, as/RB much/JJ a/DT tribute/NN to/TO branagh/NN 's/POS acting/VBG and/CC directing/VBG as/IN to/TO shakespeare/VB 's/POS manuscript/NN ./.
+hamlet/NN seems/VBZ to/TO be/VB a/DT who/WP 's/VBZ who/WP of/IN shakespearean-trained/JJ actors/NNS ,/, so/RB watching/VBG them/PRP perform/VB the/DT craft/NN for/IN which/WDT they/PRP have/VBP much/JJ love/NN is/VBZ a/DT delight/NN in/IN itself/PRP ./.
+julie/NN christie/NN ,/, as/IN hamlet/NN 's/POS mother/NN gertrude/NN ,/, and/CC derek/NN jacobi/NNS as/IN his/PRP$ murderous/JJ uncle/NN claudius/NN both/DT fill/VBP the/DT classic/JJ roles/NNS superbly/RB ,/, as/IN do/VBP many/JJ of/IN the/DT supporting/VBG players/NNS ./.
+kate/NN winslet/NN as/IN hamlet/NN 's/POS lover/NN ophelia/NN ,/, does/VBZ an/DT outstanding/JJ job/NN demonstrating/VBG the/DT character/NN 's/POS plummet/NN to/TO the/DT depths/NNS of/IN dispair/NN and/CC madness/NN ./.
+richard/JJ briers/NNS as/IN ophelia/NN 's/POS father/NN ,/, polonius/NN ,/, and/CC michael/NN moloney/NN as/IN her/PRP$ brother/NN ,/, laertes/NNS ,/, are/VBP equally/RB convincing/VBG ./.
+nicholas/NNS farrell/VBP as/IN hamlet/NN 's/POS trusted/VBN friend/NN horatio/NN ,/, and/CC timothy/JJ spall/NN and/CC reece/NN dinsdale/NN as/IN the/DT two-timing/JJ rosencrantz/NN and/CC guildenstern/NN round/VBD out/RP the/DT excellent/JJ core/NN cast/NN ./.
+hamlet/NN also/RB seems/VBZ to/TO be/VB a/DT film/NN in/IN which/WDT someone/NN tried/VBD to/TO stuff/VB as/RB many/JJ well/RB known/VBN actors/NNS as/IN possible/JJ ./.
+in/IN some/DT cases/NNS ,/, this/DT made/NN for/IN interesting/JJ scenes/NNS ./.
+billy/JJ crystal/NN is/VBZ surprisingly/RB good/JJ as/IN the/DT gravedigger/NN who/WP unearths/VBZ the/DT skull/NN of/IN yorick/NN ,/, whom/WP hamlet/NN knew/VBD quite/RB well/RB ./.
+crystal/NN proves/VBZ himself/PRP able/JJ to/TO deliver/VB the/DT lines/NNS with/IN both/DT the/DT timing/NN of/IN a/DT classic/JJ actor/NN and/CC the/DT verbal/JJ countenance/NN of/IN a/DT comedian/NN ,/, and/CC the/DT result/NN is/VBZ a/DT very/RB funny/JJ scene/NN ./.
+however/RB ,/, charleton/NN heston/NN ,/, whom/WP many/JJ might/MD think/VB would/MD butcher/VB shakespeare/NN ,/, is/VBZ the/DT biggest/JJS surprise/NN of/IN all/DT ./.
+as/IN the/DT player/NN king/NN ,/, the/DT leader/NN of/IN a/DT troupe/NN of/IN traveling/VBG actors/NNS ,/, he/PRP is/VBZ absolutely/RB breathtaking/VBG when/WRB narrating/VBG the/DT story/NN of/IN priam/NN and/CC hecuba/NN ./.
+part/NN of/IN his/PRP$ monologue/NN is/VBZ overlaid/VBN with/IN a/DT visual/JJ enactment/NN of/IN the/DT story/NN (/( with/IN sir/NN john/NN gielgud/NN and/CC judi/NNS dench/VBP )/) ,/, but/CC this/DT is/VBZ most/RBS unfortunate/JJ ,/, for/IN it/PRP robs/VBZ heston/NN of/IN some/DT of/IN the/DT attention/NN which/WDT he/PRP deserves/VBZ at/IN this/DT time/NN ./.
+his/PRP$ off-camera/JJ speaking/NN ,/, while/IN gripping/NN ,/, sort/NN of/IN downplays/NNS the/DT scene/NN to/TO a/DT narration/NN done/VBN by/IN any/DT other/JJ well-voiced/JJ actor/NN ./.
+i/JJ wish/JJ branagh/NN had/VBD chosen/VBN to/TO allow/VB us/PRP to/TO envision/VB in/IN our/PRP$ own/JJ minds/NNS the/DT scene/NN which/WDT heston/NN lays/VBZ out/RP ,/, and/CC let/VB the/DT venerable/JJ actor/NN have/VBP the/DT attention/NN ./.
+unfortunately/RB ,/, there/EX were/VBD some/DT casting/NN choices/NNS which/WDT led/VBD to/TO poor/JJ distractions/NNS ./.
+jack/NN lemmon/NN ,/, an/DT excellent/JJ actor/NN ,/, just/RB ca/MD n't/RB do/VB shakespeare/VB ./.
+as/IN marcellus/NN ,/, the/DT guard/NN who/WP sees/VBZ the/DT elder/JJR hamlet/NN 's/POS ghost/NN ,/, lemmon/NN sadly/RB underperforms/VBZ and/CC is/VBZ shown/VBN up/RP left/JJ and/CC right/JJ by/IN those/DT around/IN him/PRP ./.
+gerard/NN depardieu/NN ,/, another/DT talented/VBN actor/NN ,/, is/VBZ wasted/VBN when/WRB given/VBN little/RB more/RBR than/IN the/DT utterances/NNS of/IN ``/`` yes/UH ,/, my/PRP$ lord/NN ``/`` and/CC ``/`` no/UH ,/, my/PRP$ lord/NN ``/`` in/IN the/DT role/NN of/IN reynaldo/NN ./.
+richard/JJ attenborough/NN has/VBZ a/DT (/( literally/RB )/) walk-on/JJ role/NN ,/, showing/VBG up/RP at/IN the/DT eleventh/JJ hour/NN as/IN the/DT english/JJ ambassador/NN ./.
+i/LS think/VB he/PRP had/VBD two/CD lines/NNS ./.
+then/RB there/EX is/VBZ rufus/NN sewell/NN as/IN fortinbras/NNS of/IN norway/RB ./.
+when/WRB i/NNS went/VBD to/TO see/VB dangerous/JJ beauty/NN earlier/RBR this/DT year/NN ,/, two/CD ladies/NNS behind/IN me/PRP kept/VBD commenting/VBG about/IN how/WRB handsome/JJ he/PRP was/VBD ./.
+if/IN bulging/VBG eyes/NNS are/VBP your/PRP$ idea/NN of/IN handsome/NN ,/, well/RB i/JJ guess/NN comic/JJ actor/NN marty/NN feldman/NN was/VBD some/DT kind/NN of/IN sex/NN symbol/NN to/TO you/PRP ./.
+hamlet/NN is/VBZ a/DT complicated/JJ tale/NN of/IN treachery/NN and/CC revenge/NN in/IN which/WDT triumph/NN and/CC defeat/NN become/VBN one/CD ./.
+branagh/NN attempts/VBZ to/TO help/VB us/PRP out/RP with/IN some/DT of/IN the/DT intricacies/NNS by/IN visually/RB representing/VBG some/DT of/IN the/DT more/RBR elusive/JJ stretches/NNS of/IN dialogue/NN by/IN presenting/VBG them/PRP as/IN flashback-type/JJ images/NNS ./.
+this/DT only/RB works/VBZ about/IN half/PDT the/DT time/NN ,/, and/CC i/NNS wonder/VBP if/IN it/PRP would/MD have/VB been/VBN just/RB as/RB well/RB to/TO do/VB without/IN them/PRP ./.
+you/PRP do/VBP n't/RB have/VB to/TO be/VB some/DT kind/NN of/IN genius/NN to/TO appreciate/VB shakespeare/NN ,/, but/CC it/PRP is/VBZ quite/RB difficult/JJ to/TO understand/VB unless/IN you/PRP have/VBP the/DT time/NN to/TO read/VB or/CC hear/VB it/PRP carefully/RB and/CC repeatedly/RB ./.
+the/DT alternate/JJ method/NN of/IN comprehension/NN is/VBZ that/IN with/IN which/WDT most/JJS of/IN us/PRP are/VBP familiar/JJ ,/, the/DT high/JJ school/NN english/JJ course/NN ./.
+in/IN it/PRP ,/, you/PRP are/VBP hopefully/RB fortunate/JJ enough/RB to/TO have/VB an/DT educator/NN willing/JJ to/TO help/VB you/PRP with/IN the/DT plot/NN points/NNS and/CC nuances/NNS essential/JJ to/TO understanding/VBG a/DT play/NN written/VBN in/IN the/DT rigmarole/NN known/VBN as/IN the/DT king/NN 's/POS english/NN ./.
+or/CC i/NNS suppose/VBP you/PRP could/MD just/RB read/VB the/DT cliff/NN notes/NNS ./.

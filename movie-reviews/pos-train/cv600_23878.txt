@@ -1,0 +1,62 @@
+review/NN :/: ghost/NN dog/NN :/: the/DT way/NN of/IN the/DT samurai/NNS (/( 1999/CD )/)
+cast/NN :/: forest/NN whitaker/NN ,/, henry/NN silva/NN ,/, cliff/NN gorman/NN ,/, john/NN tormey/NN ,/, gene/NN riffini/NNS ,/, victor/NN argo/NN ,/, tricia/NN vessey/NN ,/, isaach/NN de/NN bankole/NN '/'' ,/, camille/JJ winbush/JJ director/NN :/: jim/NN jarmusch/NN writer/NN :/: jim/NN jarmusch/NN
+rating/NN :/: good/JJ shot/NN (/( stars/NNS )/)
+languid/NN ,/, yet/CC pointed/VBN and/CC focused/VBN ,/, ghost/NN dog/NN :/: the/DT way/NN of/IN the/DT samurai/NN sublimely/RB savages/VBZ our/PRP$ cultural/JJ fascination/NN with/IN the/DT mafia/NN and/CC the/DT sleek/JJ ,/, ultra-cool/JJ ,/, cinematic/JJ image/NN of/IN the/DT hitman/NN ./.
+juxtaposing/VBG the/DT samurai/NN 's/POS honor/NN code/NN of/IN feudal/JJ japan/NN against/IN the/DT tradition/NN bound/NN modus/NN operandi/NNS of/IN the/DT american/italian/JJ mafia/NN ,/, it/PRP ceaselessly/RB chips/NNS away/RB with/IN a/DT sculptor/NN 's/POS precision/NN at/IN the/DT archaic/JJ foundations/NNS of/IN both/DT as/IN they/PRP lumber/VBP ,/, dinosaur-like/JJ ,/, to/TO function/NN in/IN the/DT modern/JJ era/NN ./.
+director/NN jarmusch/NN gleefully/RB plays/VBZ the/DT iconoclast/NN ,/, ripping/VBG into/IN mafioso/NN precepts/NNS with/IN splashes/NNS of/IN acidic/JJ wit/NN ./.
+using/VBG a/DT palate/NN of/IN bleached/JJ colors/NNS ,/, jarmusch/NN lugubriously/RB maintains/VBZ a/DT tone/NN of/IN desolation/NN that/WDT belies/VBZ the/DT many/JJ sparks/NNS of/IN laugh/NN out/IN loud/JJ humor/NN punctuating/VBG the/DT film/NN ./.
+he/PRP does/VBZ n't/RB cater/VB to/TO audience/VB expectations/NNS of/IN hyper-colorized/JJ ,/, stylized/JJ violence/NN and/CC gunplay/NN where/WRB no/DT one/NN dies/VBZ ./.
+the/DT action/NN is/VBZ presented/VBN in/IN flat/JJ ,/, brutal/JJ codas/NNS ./.
+bullets/NNS have/VBP permanence/NN ./.
+death/NN has/VBZ consequences/NNS ./.
+the/DT movie/NN rises/VBZ beyond/IN standard/JJ conventions/NNS to/TO become/VB a/DT meditation/NN on/IN the/DT concepts/NNS of/IN honor/NN and/CC loyalty/NN ./.
+it/PRP is/VBZ an/DT anti-movie/JJ ,/, of/IN sorts/NNS ./.
+there/EX are/VBP few/JJ photogenic/JJ ,/, empathetic/JJ characters/NNS for/IN the/DT audience/NN to/TO fall/VB in/IN love/NN with/IN ./.
+this/DT is/VBZ n't/RB a/DT film/NN that/WDT lovingly/RB holds/VBZ your/PRP$ hand/NN ./.
+there/EX are/VBP dark/JJ ,/, contemplative/JJ moments/NNS and/CC the/DT film/NN firmly/RB holds/VBZ you/PRP by/IN the/DT shoulder/NN ,/, just/RB so/RB ,/, asserting/VBG itself/PRP for/IN all/DT to/TO see/VB ./.
+the/DT fulcrum/NN for/IN the/DT movie/NN 's/POS thematic/JJ balancing/NN act/NN is/VBZ ghost/NN dog/NN ,/, a/DT mafia/NN hitman/NN ./.
+a/DT twist/NN on/IN the/DT stereotypical/JJ image/NN of/IN the/DT mob/NN enforcer/NN ,/, ghost/NN dog/NN is/VBZ a/DT hilarious/JJ contradiction/NN in/IN terms/NNS ./.
+unlike/IN the/DT sleek/JJ ,/, muscular/JJ killing/VBG machines/NNS one/CD is/VBZ accustomed/VBN to/TO ,/, we/PRP are/VBP given/VBN an/DT inner/JJ city/NN black/JJ man/NN who/WP is/VBZ overweight/JJ and/CC slovenly/RB ,/, replete/JJ with/IN chapped/JJ ,/, dirty/JJ hands/NNS and/CC rumpled/VBN clothing/NN ./.
+he/PRP wears/VBZ a/DT hooded/JJ sweatshirt/NN ,/, which/WDT he/PRP often/RB pulls/VBZ over/IN his/PRP$ head/NN ,/, giving/VBG him/PRP a/DT monk-like/JJ appearance/NN ./.
+there/EX are/VBP no/DT acrobatic/JJ back/JJ flips/NNS and/CC shiny/VB super/JJR guns/NNS in/IN his/PRP$ arsenal/NN ./.
+he/PRP uses/VBZ old/JJ ,/, worn/JJ weapons/NNS and/CC simply/RB goes/VBZ about/IN his/PRP$ tasks/NNS in/IN economical/JJ ,/, efficient/JJ and/CC pleasureless/JJ fashion/NN ./.
+ghost/NN dog/NN is/VBZ a/DT disciple/NN of/IN the/DT old/JJ ways/NNS of/IN the/DT samurai/NN ,/, distilling/VBG the/DT essence/NN of/IN his/PRP$ life/NN through/IN the/DT filter/NN of/IN a/DT book/NN ,/, which/WDT he/PRP reads/VBZ daily/JJ ,/, hagakure/NN :/: the/DT way/NN of/IN the/DT samurai/NN ./.
+life/NN consists/VBZ of/IN simple/JJ pleasures/NNS for/IN him/PRP :/: ice/NN cream/NN ,/, warm/JJ rooftop/NN naps/NNS and/CC good/JJ books/NNS ./.
+ghost/NN dog/NN lives/NNS ,/, as/IN it/PRP were/VBD ,/, by/IN the/DT basic/JJ tenet/NN expressed/VBN by/IN his/PRP$ book/NN ;/: one/PRP should/MD start/VB each/DT day/NN considering/VBG oneself/PRP as/IN dead/JJ ./.
+living/VBG atop/IN an/DT abandoned/VBN building/NN ,/, surrounded/VBN by/IN his/PRP$ flock/NN of/IN pet/NN carrier/NN pigeons/NNS ,/, ghost/NN dog/NN exists/VBZ in/IN a/DT netherworld/NN lacking/VBG creature/NN comforts/NNS and/CC friends/NNS ./.
+he/PRP craves/VBZ nothing/NN more/JJR ./.
+as/IN he/PRP puts/VBZ it/PRP late/RB in/IN the/DT film/NN ,/, ``/`` i/NNS 've/VBP seen/VBN all/DT i/NNS want/VBP to/TO see/VB ./. ``/``
+he/PRP exists/VBZ in/IN a/DT spiritual/JJ world/NN of/IN the/DT mind/NN ,/, gaining/VBG moral/JJ sustenance/NN from/IN his/PRP$ readings/NNS ./.
+ghost/NN dog/NN was/VBD n't/RB always/RB as/IN he/PRP is/VBZ presented/VBN ./.
+in/IN several/JJ roshomon-like/JJ flashbacks/NNS ,/, it/PRP 's/VBZ shown/VBN how/WRB ghost/NN dog/NN was/VBD assaulted/VBN by/IN racist/JJ white/JJ males/NNS and/CC beaten/VBP nearly/RB to/TO death/NN until/IN the/DT timely/JJ intervention/NN of/IN a/DT good/JJ samaritan/NN ,/, that/IN ``/`` samaritan/JJ ``/`` being/VBG a/DT foot/NN soldier/NN in/IN an/DT aging/VBG crime/NN family/NN ./.
+ghost/NN dog/NN pledges/VBZ his/PRP$ life/NN to/TO the/DT service/NN of/IN the/DT man/NN ,/, louie/NN (/( tormey/NN )/) ,/, as/IN repayment/NN ./.
+after/IN years/NNS of/IN loyal/JJ service/NN ,/, ghost/NN dog/NN is/VBZ sent/VBN ,/, by/IN louie/NN ,/, to/TO kill/VB ``/`` handsome/JJ frank/NN ``/`` ,/, a/DT made/VBN man/NN within/IN louie/NN 's/POS organization/NN who/WP has/VBZ run/VBN away/RB with/IN the/DT crime/NN boss/NN 's/POS daughter/NN ,/, louise/NN (/( vessey/NN )/) ./.
+ghost/NN dog/NN wordlessly/RB executes/VBZ his/PRP$ task/NN ,/, witnessed/VBN by/IN louise/NN ,/, whom/WP he/PRP spares/VBZ ,/, as/IN she/PRP sits/VBZ watching/VBG a/DT betty/JJ boop/NN cartoon/NN ,/, clutching/VBG a/DT copy/NN of/IN the/DT book/NN ,/, roshomon/NN ./.
+in/IN a/DT bit/NN of/IN synchronicity/NN ,/, louise/NN loans/NNS the/DT book/NN to/TO ghost/NN dog/NN ./.
+upset/VB that/DT frank/NN was/VBD taken/VBN out/RB by/IN someone/NN not/RB from/IN the/DT family/NN ,/, the/DT mob/NN bosses/NNS ,/, in/IN turn/NN ,/, put/VBD out/RP a/DT hit/NN on/IN ghost/NN dog/NN in/IN a/DT perverse/JJ twist/NN of/IN loyalty/NN to/TO their/PRP$ assassinated/VBN comrade/NN ./.
+the/DT rest/NN of/IN movie/NN holds/VBZ the/DT dated/JJ value/NN systems/NNS of/IN both/DT the/DT mafia/NN and/CC ghost/NN dog/NN up/IN to/TO the/DT light/NN of/IN a/DT new/JJ millennium/NN with/IN many/JJ acerbic/JJ asides/NNS as/IN the/DT two/CD come/VBN factions/NNS come/VBP into/IN conflict/NN ./.
+the/DT theme/NN of/IN old/JJ cartoons/NNS flares/VBZ up/RP time/NN and/CC again/RB ,/, each/DT time/NN showing/VBG cartoon/NN violence/NN that/WDT is/VBZ in/IN sharp/JJ counterpoint/NN to/TO the/DT reality/NN of/IN ghost/NN dog/NN 's/POS world/NN ./.
+each/DT time/NN a/DT character/NN is/VBZ shown/VBN watching/VBG a/DT cartoon/NN ,/, it/PRP 's/VBZ from/IN the/DT same/JJ era/NN ,/, betty/JJ boop/NN ,/, felix/VBD the/DT cat/NN ,/, etc/FW ./. ,/, a/DT reflection/NN of/IN days/NNS gone/VBN by/IN ./.
+near/IN the/DT end/NN ,/, louise/NN is/VBZ watching/VBG a/DT cartoon/NN that/WDT 's/VBZ a/DT departure/NN from/IN the/DT previously/RB shown/VBN ones/NNS ./.
+it/PRP 's/VBZ a/DT bit/NN of/IN audacity/NN on/IN jarmusch/NN 's/POS part/NN that/WDT is/VBZ nicely/RB effective/JJ ,/, despite/IN it/PRP 's/VBZ surrealistic/JJ nature/NN ./.
+as/IN ghost/NN dog/NN floats/VBZ through/IN his/PRP$ world/NN ,/, his/PRP$ life/NN is/VBZ touched/VBN by/IN two/CD people/NNS ./.
+one/CD is/VBZ a/DT sage/NN little/JJ girl/NN (/( winbush/NN )/) who/WP connects/VBZ with/IN ghost/NN dog/NN through/IN their/PRP$ love/NN of/IN reading/VBG ./.
+she/PRP comes/VBZ to/TO symbolize/VB a/DT melding/NN of/IN the/DT old/JJ ways/NNS and/CC new/JJ sensibilities/NNS ,/, just/RB as/IN louise/NN ultimately/RB does/VBZ ./.
+by/IN film/NN 's/POS end/NN ,/, the/DT fact/NN that/DT jamusch/NN is/VBZ so/RB effective/JJ at/IN illustrating/VBG the/DT tenuous/JJ bond/NN between/IN the/DT two/CD is/VBZ a/DT testament/NN to/TO his/PRP$ skill/NN as/IN a/DT writer/NN ./.
+the/DT other/JJ person/NN in/IN ghost/NN dog/NN 's/POS world/NN is/VBZ an/DT ice/NN cream/NN (/( de/FW bankole/NN '/'' )/) vendor/NN who/WP only/RB speaks/VBZ french/JJ ,/, yet/CC intuitively/RB shares/VBZ a/DT rapport/NN with/IN ghost/NN dog/NN ./.
+the/DT vendor/NN is/VBZ the/DT literal/JJ stranger/NN in/IN a/DT strange/JJ land/NN ./.
+jarmusch/NN ,/, through/IN rapper/composer/NN rza/NN ,/, underscores/VBZ his/PRP$ film/NN with/IN rap/NN and/CC reggae/NN music/NN ,/, which/WDT at/IN first/JJ blush/NN seems/VBZ dichotomous/JJ ,/, but/CC its/PRP$ primal/JJ rhythms/NNS serve/VBP to/TO strengthen/VB the/DT fundamental/JJ nature/NN of/IN the/DT movie/NN ./.
+ghost/NN dog/NN seems/VBZ to/TO draw/VB some/DT type/NN of/IN strength/NN from/IN the/DT rap/NN music/NN he/PRP listens/VBZ to/TO as/IN he/PRP negotiates/VBZ the/DT streets/NNS in/IN various/JJ stolen/VBN cars/NNS ./.
+(/( which/WDT ,/, in/IN and/CC of/IN itself/PRP ,/, presents/VBZ another/DT paradox/NN about/IN ghost/NN 's/POS dog/NN 's/POS sense/NN of/IN honor/NN ./. )/)
+the/DT head/NN mafioso/NN is/VBZ played/VBN by/IN henry/JJ silva/NN with/IN a/DT stone/NN faced/VBD resignation/NN ./.
+of/IN all/PDT the/DT cartoonish/JJ mobsters/NNS ,/, he/PRP is/VBZ the/DT only/RB one/CD who/WP appears/VBZ self/NN aware/JJ of/IN his/PRP$ state/NN in/IN the/DT world/NN ./.
+gorman/NN plays/NNS sonny/NN ,/, a/DT lieutenant/NN who/WP respects/VBZ the/DT old/JJ ways/NNS ,/, yet/RB has/VBZ a/DT quirky/JJ affinity/NN for/IN rap/NN music/NN ,/, a/DT love/NN comically/RB shown/VBN in/IN several/JJ impromptu/NN displays/NNS ./.
+ruffini/NN seems/VBZ the/DT truest/JJS reflection/NN of/IN the/DT mafia/NN ./.
+he/PRP is/VBZ a/DT husk/NN of/IN a/DT man/NN ,/, assisted/VBN by/IN two/CD hearing/NN aids/NNS ,/, who/WP barks/VBZ out/RP advice/NN without/IN truly/RB hearing/VBG what/WP he/PRP ,/, or/CC others/NNS are/VBP saying/VBG ./.
+whitaker/NN carries/VBZ the/DT film/NN by/IN using/VBG what/WP truly/RB great/JJ actor/NN 's/POS use/NN ,/, his/PRP$ face/NN ./.
+ghost/NN dog/NN is/VBZ reticent/JJ to/TO speak/VB ,/, often/RB going/VBG for/IN long/JJ periods/NNS without/IN doing/VBG so/RB ./.
+the/DT fact/NN that/DT whitaker/NN can/MD convey/VB such/PDT a/DT wide/JJ range/NN of/IN emotion/NN through/IN a/DT gesture/NN or/CC look/NN is/VBZ a/DT remarkable/JJ talent/NN ./.
+although/IN the/DT film/NN has/VBZ a/DT deliberate/JJ pace/NN ,/, some/DT of/IN the/DT late/JJ night/NN drives/NNS and/CC walks/NNS taken/VBN by/IN ghost/NN dog/NN dragged/VBD the/DT momentum/NN down/RP ./.
+truly/RB tragic/JJ is/VBZ how/WRB ghost/NN dog/NN misinterprets/NNS japanese/JJ honor/NN in/IN his/PRP$ final/JJ confrontation/NN with/IN the/DT mob/NN ./.
+he/PRP reveals/VBZ himself/PRP to/TO be/VB so/RB desperate/JJ for/IN spiritual/JJ guidance/NN through/IN the/DT hagakure/NN that/IN he/PRP fails/VBZ to/TO truly/RB adapt/VB it/PRP to/TO what/WP is/VBZ real/JJ and/CC true/JJ in/IN his/PRP$ world/NN ./.
+carried/VBN on/IN the/DT shoulders/NNS of/IN a/DT remarkable/JJ performance/NN by/IN whitaker/NN ,/, ghost/NN dog/NN rises/VBZ beyond/IN being/VBG a/DT characterization/NN or/CC icon/NN ,/, into/IN a/DT figure/NN that/IN garners/NNS sympathy/NN ,/, if/IN not/RB a/DT bit/NN of/IN pity/NN ./.

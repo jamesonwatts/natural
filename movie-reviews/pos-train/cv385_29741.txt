@@ -1,0 +1,36 @@
+capsule/NN :/: this/DT is/VBZ a/DT film/NN that/WDT avoids/VBZ easy/JJ answers/NNS ./.
+wilhelm/NN furtwangler/NN ,/, then/RB the/DT world/NN 's/POS greatest/JJS orchestra/NN conductor/NN stayed/VBD in/IN germany/NN and/CC cooperated/VBD with/IN the/DT nazis/NNS ./.
+what/WP were/VBD his/PRP$ views/NNS ,/, was/VBD he/PRP a/DT war/NN criminal/NN or/CC a/DT secret/JJ resistance/NN fighter/NN ?/.
+how/WRB much/RB did/VBD he/PRP know/VB about/IN crimes/NNS against/IN humanity/NN ?/.
+the/DT us/PRP government/NN investigated/VBD him/PRP after/IN the/DT war/NN and/CC this/DT film/NN is/VBZ a/DT dramatization/NN of/IN that/DT investigation/NN ./.
+,/, high/JJ +2/CD (/( -4/CD to/TO +4/CD )/)
+in/IN my/PRP$ opinion/NN one/CD of/IN the/DT best/JJS films/NNS of/IN the/DT last/JJ few/JJ years/NNS is/VBZ istvan/JJ szabo/NN 's/POS sunshine/NN ,/, a/DT film/NN that/WDT covers/VBZ the/DT fortunes/NNS of/IN a/DT jewish/JJ hungarian/JJ family/NN under/IN the/DT reigns/NNS of/IN three/CD different/JJ regimes/NNS ,/, hungarian/JJ aristocrats/NNS ,/, nazis/NNS ,/, and/CC communists/NNS ./.
+szabo/NN 's/POS follow-up/JJ film/NN ,/, a/DT german/NN production/NN ,/, is/VBZ much/RB more/RBR limited/JJ in/IN scope/NN ./.
+it/PRP is/VBZ about/IN the/DT post-war/JJ investigation/NN of/IN who/WP criminally/RB supported/VBD the/DT nazis/NNS and/CC who/WP opposed/VBD them/PRP ./.
+ronald/NN harwood/NN 's/POS screenplay/NN ambiguously/RB looks/VBZ at/IN the/DT investigation/NN of/IN a/DT great/JJ classical/JJ music/NN conductor/NN who/WP stayed/VBD on/RP in/IN germany/NN when/WRB the/DT nazis/NNS took/VBD power/NN and/CC became/VBD the/DT most/RBS popular/JJ conductor/NN of/IN the/DT third/JJ reich/NN ./.
+maj/LS ./. steve/VB arnold/NN (/( played/VBN by/IN harvey/NN keitel/NN )/) has/VBZ been/VBN assigned/VBN by/IN his/PRP$ superiors/NNS to/TO investigate/VB wilhelm/NN furtwangler/NN (/( stellan/JJ skarsgard/NN )/) ,/, perhaps/RB europe/NN 's/POS greatest/JJS classical/JJ music/NN conductor/NN ./.
+when/WRB other/JJ artists/NNS fled/VBD germany/JJ ,/, furtwangler/NN remained/VBD behind/RB and/CC conducted/VBN for/IN the/DT hitler/NN and/CC his/PRP$ henchmen/NNS ./.
+after/IN the/DT war/NN is/VBZ over/IN arnold/NN assigned/VBN to/TO interview/VB furtwangler/NN and/CC members/NNS of/IN his/PRP$ orchestra/NN and/CC if/IN appropriate/JJ to/TO prosecute/VB him/PRP for/IN war/NN crimes/NNS ./.
+he/PRP secretly/RB is/VBZ told/VBN by/IN his/PRP$ commanding/VBG officer/NN to/TO find/VB furtwangler/JJR guilty/JJ ./.
+from/IN there/EX we/PRP follow/VBP him/PRP and/CC learn/VB a/DT little/JJ about/IN arnold/NN and/CC something/NN about/IN furtwangler/NN and/CC his/PRP$ orchestra/NN ./.
+as/IN he/PRP interviews/VBZ members/NNS of/IN the/DT wartime/NN orchestra/NN arnold/NN starts/VBZ noticing/VBG odd/JJ peculiarities/NNS that/WDT may/MD or/CC may/MD not/RB point/VB to/TO a/DT conspiracy/NN against/IN his/PRP$ investigation/NN ./.
+there/EX is/VBZ a/DT certain/JJ sameness/NN to/TO the/DT responses/NNS that/IN he/PRP is/VBZ getting/VBG ./.
+perhaps/RB any/DT cooperation/NN he/PRP is/VBZ getting/VBG has/VBZ been/VBN in/IN some/DT ways/NNS managed/VBD ./.
+if/IN so/RB ,/, perhaps/RB he/PRP can/MD never/RB come/VB to/TO the/DT truth/NN ./.
+in/IN large/JJ part/NN the/DT film/NN is/VBZ about/IN mind/NN games/NNS that/WDT arnold/VBP uses/NNS to/TO manipulate/VB his/PRP$ interviewees/NNS and/CC especially/RB furtwangler/JJR ./.
+where/WRB the/DT script/NN has/VBZ problems/NNS is/VBZ that/DT in/IN the/DT end/NN it/PRP is/VBZ so/RB ambiguous/JJ ./.
+it/PRP has/VBZ no/DT obvious/JJ resolution/NN and/CC not/RB much/JJ of/IN a/DT final/JJ act/NN ./.
+when/WRB it/PRP is/VBZ over/IN whether/IN anything/NN has/VBZ been/VBN established/VBN is/VBZ open/JJ to/TO interpretation/NN ./.
+perhaps/RB that/DT is/VBZ better/JJR than/IN so/RB many/JJ films/NNS that/WDT make/VBP it/PRP all/DT to/TO obvious/JJ what/WP the/DT audience/NN should/MD believe/VB ,/, but/CC it/PRP is/VBZ like/IN watching/VBG a/DT murder/NN mystery/NN and/CC never/RB finding/VBG out/RP who/WP the/DT killer/NN is/VBZ ./.
+we/PRP are/VBP given/VBN clues/NNS to/TO something/NN but/CC they/PRP are/VBP never/RB tied/VBN up/RP ./.
+in/IN the/DT end/NN we/PRP just/RB know/VBP more/RBR about/IN both/DT arnold/NN and/CC furtwangler/NN ./.
+the/DT film/NN is/VBZ basically/RB a/DT stage/NN play/NN ./.
+the/DT visual/JJ is/VBZ not/RB very/RB important/JJ ./.
+corners/NNS are/VBP cut/VBN visually/RB including/VBG touches/NNS like/IN filling/VBG windows/NNS with/IN photographs/NNS to/TO avoid/VB having/VBG to/TO shoot/VB on/IN location/NN ./.
+as/IN with/IN a/DT stage/NN play/NN ,/, what/WP this/DT film/NN centers/VBZ on/IN the/DT dialog/NN ,/, and/CC that/DT is/VBZ intriguing/JJ ./.
+i/JJ rate/NN the/DT film/NN an/DT 8/CD on/IN the/DT 0/CD to/TO 10/CD scale/NN and/CC a/DT high/JJ +2/CD on/IN the/DT -4/CD to/TO +4/CD scale/NN ./.
+[/LS there/EX is/VBZ one/CD piece/NN of/IN sloppiness/NN few/JJ people/NNS but/CC me/PRP would/MD notice/VB ./.
+at/IN one/CD point/NN we/PRP clearly/RB see/VBP arnold/NN 's/POS desk/NN calendar/NN say/VBP ``/`` jan/JJ 16/CD tues/NNS ./. ``/``
+a/DT quick/JJ mental/JJ calculation/NN told/VBD me/PRP that/DT combination/NN could/MD occur/VB in/IN 1945/CD and/CC then/RB not/RB again/RB until/IN 1951/CD ./.
+the/DT events/NNS had/VBD to/TO take/VB place/NN in/IN 1946/CD or/CC 1947/CD ./.
+a/DT possible/JJ date/NN could/MD be/VB obtained/VBN from/IN any/DT world/NN almanac/NN ./. ]/NN

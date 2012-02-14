@@ -1,0 +1,38 @@
+ingredients/NNS :/: london/JJ gal/NN ,/, fate/NN ,/, true/JJ love/NN ,/, running/VBG joke/NN about/IN monty/NN python/NN 's/POS spanish/JJ inquisition/NN
+synopsis/NN :/: american/JJ actress/NN gwyneth/NN paltrow/NN with/IN dark/JJ hair/NN ,/, playing/VBG a/DT londoner/NN ?/.
+believe/VB it/PRP ./.
+sliding/VBG doors/NNS is/VBZ a/DT love/NN 'what/WDT if/IN '/'' story/NN ./.
+the/DT gimmick/NN is/VBZ that/IN it/PRP 's/VBZ really/RB two/CD stories/NNS :/: the/DT film/NN follows/VBZ the/DT life/NN of/IN helen/VBN (/( gwyneth/JJ paltrow/NN )/) down/IN two/CD directions/NNS ./.
+in/IN the/DT beginning/NN ,/, likeable/JJ gal/JJ 'helen/NN '/POS (/( gwyneth/JJ paltrow/NN )/) gets/VBZ unexpectedly/RB fired/VBN from/IN her/PRP$ advertising/NN job/NN ./.
+so/IN she/PRP goes/VBZ into/IN the/DT subway/NN train/NN station/NN meaning/NN to/TO return/VB home/NN early/RB to/TO her/PRP$ apartment/NN and/CC her/PRP sleeping/VBG live-in/JJ lover/NN gerry/NN (/( john/NN lynch/NN )/) ./.
+helen/NN does/VBZ n't/RB know/VB it/PRP ,/, but/CC she/PRP is/VBZ at/IN a/DT fateful/JJ junction/NN in/IN life/NN :/: 1/LS )/) if/IN she/PRP enters/VBZ through/IN the/DT sliding/VBG door/NN of/IN a/DT london/JJ subway/NN train/NN her/PRP$ life/NN takes/VBZ one/CD path/NN with/IN one/CD future/NN 2/CD )/) if/IN she/PRP stays/VBZ on/IN the/DT platform/NN her/PRP$ life/NN takes/VBZ another/DT path/NN with/IN a/DT different/JJ future/NN ./.
+the/DT film/NN shows/VBZ what/WP happens/VBZ in/IN both/DT paths/NNS ,/, switching/VBG back/RB and/CC forth/RB between/IN intertwined/JJ ,/, parallel/JJ stories/NNS ./.
+in/IN story/NN one/CD ,/, helen/VBN meets/VBZ a/DT charming/JJ and/CC talkative/JJ monty/NN python/NN fan/NN named/VBN james/NNS (/( john/NN hannah/NN )/) on/IN the/DT train/NN ./.
+arriving/VBG home/NN early/RB ,/, she/PRP discovers/VBZ that/IN her/PRP$ live-in/JJ ,/, gerry/NN (/( john/NN lynch/NN )/) ,/, is/VBZ having/VBG sex/NN with/IN his/PRP$ former/JJ lover/NN lydia/NN (/( jeanne/NN tripplehorn/NN )/) ./.
+this/DT leads/VBZ to/TO a/DT life/NN where/WRB helen/VBN moves/VBZ out/RP ./.
+helen/VBN 's/POS winsome/JJ new/JJ friend/NN james/NNS helps/VBZ her/PRP$ recover/NN from/IN a/DT broken/JJ heart/NN ,/, and/CC encourages/VBZ her/PRP to/TO start/VB her/PRP$ own/JJ business/NN ./.
+in/IN story/NN two/CD ,/, helen/VBN experiences/VBZ a/DT different/JJ fate/NN ./.
+she/PRP misses/VBZ the/DT train/NN ,/, never/RB meets/VBZ james/NNS ,/, and/CC does/VBZ n't/RB get/VB home/NN early/RB enough/RB to/TO discover/VB gerry/NN 's/POS infidelity/NN ./.
+in/IN this/DT new/JJ life/NN ,/, helen/VBN takes/VBZ up/RP odd/JJ menial/JJ jobs/NNS ,/, and/CC faces/VBZ the/DT constant/JJ sneaking/NN suspicion/NN that/IN all/DT is/VBZ not/RB right/RB with/IN her/PRP$ relationship/NN with/IN gerry/NN ./.
+will/MD the/DT truth/NN of/IN the/DT heart/NN finally/RB work/VB its/PRP$ way/NN through/IN a/DT number/NN of/IN problems/NNS and/CC setbacks/NNS in/IN both/DT scenarios/NNS ?/.
+opinion/NN :/: rejoice/VB all/DT ye/JJ monty/NN python/NN fans/NNS ,/, gwyneth/JJ paltrow/NN fans/NNS ,/, and/CC watchers/NNS of/IN quirky/JJ romance/NN flicks/NNS ./.
+at/IN last/RB here/RB 's/POS proof/NN that/IN there/EX 's/VBZ still/RB creativity/NN in/IN 1990s/CD filmmaking/NN ./.
+sliding/VBG doors/NNS is/VBZ refreshingly/RB different/JJ from/IN anything/NN this/DT year/NN ./.
+not/RB only/RB is/VBZ it/PRP a/DT well-acted/JJ ,/, heartwarming/JJ film/NN ,/, but/CC it/PRP 's/VBZ also/RB easily/RB gwyneth/JJ paltrow/NN 's/POS best/JJS recent/JJ performance/NN ./.
+when/WRB helen/VBN (/( paltrow/NN )/) screams/NNS that/IN her/PRP$ unfaithful/JJ boyfriend/NN is/VBZ a/DT 'shagging/VBG wanker/NN ,/, '/'' (/( a/DT british/JJ phrase/NN better/RB left/VBD untranslated/JJ )/) she/PRP sounds/VBZ like/IN she/PRP knows/VBZ what/WP she/PRP 's/VBZ talking/VBG about/IN !/.
+nor/CC does/VBZ sliding/VBG doors/NNS go/VB overboard/RB with/IN formulaic/JJ true/JJ love/NN or/CC other/JJ stereotypes/NNS ./.
+nobody/NN scrambles/NNS around/RB in/IN danger/NN ,/, screaming/VBG ,/, ``/`` i/NNS will/MD find/VB you/PRP no/DT matter/NN what/WP ,/, my/PRP$ darling/NN !/. ``/``
+when/WRB helen/VBN finds/VBZ herself/PRP on/IN a/DT boat/NN in/IN the/DT starlight/NN with/IN james/NNS ,/, she/PRP does/VBZ n't/RB take/VB the/DT easy/JJ way/NN out/IN and/CC leap/VB into/IN his/PRP$ arms/NNS ,/, since/IN she/PRP 's/VBZ supposed/VBN to/TO be/VB recovering/VBG from/IN heartache/NN ./.
+and/CC handsome/JJ live-in/JJ boyfriend/NN gerry/NN is/VBZ n't/RB the/DT stereotypical/JJ screen/NN hunk/NN (/( either/CC a/DT stud/NN or/CC a/DT snob/NN )/) ./.
+instead/RB he/PRP 's/VBZ a/DT nervous/JJ and/CC indecisive/JJ ,/, almost/RB helpless/JJ hunk/NN ./.
+another/DT example/NN :/: when/WRB one/CD of/IN the/DT protagonists/NNS lies/VBZ wounded/VBN in/IN a/DT hospital/NN ,/, sliding/VBG doors/NNS gives/VBZ us/PRP neither/CC the/DT 'hospital/JJ miracle/NN '/'' nor/CC a/DT maudlin/NN tragedy/NN but/CC surprises/VBZ us/PRP with/IN a/DT third/JJ variation/NN ./.
+in/IN other/JJ words/NNS ,/, all/DT of/IN the/DT characters/NNS seem/VBP non-stereotyped/JJ ,/, human/JJ ,/, and/CC local/JJ ./.
+there/EX are/VBP minor/JJ inconveniences/NNS ./.
+since/IN sliding/VBG doors/NNS switches/VBZ back/RB and/CC forth/RB between/IN two/CD possible/JJ fates/NNS ,/, it/PRP 's/VBZ occasionally/RB difficult/JJ to/TO distinguish/VB between/IN the/DT two/CD ./.
+distinguishing/VBG between/IN the/DT two/CD stories/NNS is/VBZ n't/RB a/DT problem/NN in/IN the/DT scenes/NNS containing/VBG paltrow/NN ,/, who/WP sports/VBZ two/CD different/JJ hairstyles/NNS ./.
+but/CC in/IN scenes/NNS containing/VBG only/JJ lydia/NN and/CC gerry/NN ,/, who/WP look/VBP the/DT same/JJ in/IN both/DT stories/NNS ,/, it/PRP 's/VBZ slightly/RB confusing/JJ ./.
+also/RB ,/, quite/RB a/DT few/JJ snappy/JJ comebacks/NNS referring/VBG to/TO american/JJ pop/NN culture/NN (/( seinfeld/JJ ,/, woody/JJ allen/NN ,/, etc/FW ./. )/) are/VBP spoken/VBN by/IN the/DT british/JJ characters/NNS ./.
+but/CC these/DT seem/NN slightly/RB forced/VBN ,/, given/VBN that/IN the/DT remaining/VBG dialogue/NN is/VBZ predominantly/RB british/JJ slang/NN ./.
+possibly/RB an/DT attempt/NN by/IN the/DT screenwriter/NN to/TO balance/VB the/DT british/JJ so/IN that/IN american/JJ audiences/NNS can/MD feel/VB more/RBR comfortable/JJ ?/.
+sliding/VBG doors/NNS is/VBZ a/DT charming/JJ ,/, quirky/JJ ,/, original/JJ ,/, happy/JJ romance/NN with/IN a/DT little/JJ 'philosophy/NN of/IN fate/NN '/POS thrown/NN in/IN ./.
+monty/NN python/NN and/CC the/DT meaning/NN of/IN fate/NN ,/, anybody/NN ?/.

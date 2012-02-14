@@ -1,0 +1,12 @@
+the/DT happy/JJ bastard/NN 's/POS 30-second/JJ review/NN
+notting/VBG hill/NN
+a/DT cute/JJ romantic/JJ comedy/NN from/IN the/DT writer/NN of/IN the/DT hit/NN comedy/NN four/CD weddings/NNS and/CC a/DT funeral/NN ,/, notting/VBG hill/NN stars/NNS julia/VBP roberts/NNS as/IN anna/NN scott/NN ,/, a/DT very/RB popular/JJ actress/NN with/IN a/DT $/$ 15/CD million/CD asking/VBG price/NN for/IN movies/NNS ./.
+one/CD day/NN she/PRP wanders/VBZ into/IN a/DT travel/NN book/NN store/NN owned/VBN by/IN a/DT simple/JJ london/NN resident/NN (/( played/VBN by/IN hugh/JJ grant/NN )/) ,/, and/CC sparks/NNS somehow/RB begin/VB to/TO fly/VB ./.
+sure/RB ,/, there/EX are/VBP points/NNS of/IN turmoil/NN ,/, such/JJ as/IN putting/VBG up/RP with/IN grant/NN 's/POS slightly/RB disgusting/VBG (/( but/CC very/RB hilarious/JJ )/) roommate/NN spike/NN ,/, anna/NN 's/POS pesky/JJ ex-boyfriend/NN (/( alec/JJ baldwin/NN in/IN a/DT humorous/JJ cameo/NN )/) ,/, and/CC ,/, on/IN top/NN of/IN all/DT that/DT ,/, those/DT damn/JJ press/NN ./.
+it/PRP 's/VBZ a/DT fresh/JJ sort/NN of/IN complexity/NN to/TO see/VB in/IN a/DT romantic/JJ comedy/NN ,/, very/RB different/JJ from/IN ,/, say/VB ,/, a/DT stubborn/JJ father/NN or/CC ``/`` not/RB the/DT right/JJ time/NN ``/`` like/IN as/RB seen/VBN in/IN usual/JJ flicks/NNS ./.
+roberts/NNS is/VBZ terrific/JJ as/IN the/DT astonishingly/RB beautiful/JJ actress/NN ,/, and/CC grant/NN is/VBZ surprisingly/RB good/JJ as/IN the/DT straightforward/JJ guy/NN still/RB trying/VBG to/TO get/VB a/DT hold/NN of/IN what/WP has/VBZ actually/RB happened/VBN with/IN this/DT girl/NN ./.
+in/IN short/JJ ,/, a/DT sweet/JJ romantic/JJ comedy/NN that/WDT has/VBZ a/DT lot/NN of/IN good/JJ laughs/NNS ,/, particularly/RB provided/VBN by/IN spike/NN ./.
+one/CD tee-shirt/NN really/RB says/VBZ it/PRP all/DT about/IN him/PRP ./.
+in/IN an/DT attempt/NN to/TO turn/VB on/RP a/DT woman/NN ,/, he/PRP shows/VBZ the/DT front/NN of/IN the/DT shirt/NN ,/, which/WDT says/VBZ :/: ``/`` you/PRP are/VBP the/DT most/RBS beautiful/JJ woman/NN in/IN the/DT world/NN ./. ``/``
+on/IN the/DT back/NN ?/.
+``/`` fancy/VBP a/DT f/JJ */NN */NN k/NN ?/. ``/``

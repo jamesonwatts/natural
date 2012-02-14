@@ -1,0 +1,17 @@
+ingredients/NNS :/: neophyte/JJ lawyer/NN ,/, legal/JJ situations/NNS ,/, corrupt/JJ insurance/NN company/NN ,/,
+synopsis/NN :/: rudy/JJ baylor/NN (/( matt/NN damon/NN )/) is/VBZ an/DT ethical/JJ kid/NN fresh/JJ out/IN of/IN law/NN school/NN who/WP must/MD juggle/VB three/CD legal/JJ situations/NNS at/IN the/DT same/JJ time/NN ./.
+rudy/NN 's/POS girlfriend/NN is/VBZ attacked/VBN by/IN her/PRP$ violent/JJ husband/NN ;/: rudy/NN 's/POS elderly/JJ landlady/NN wants/VBZ to/TO arrange/VB her/PRP will/MD so/RB that/IN her/PRP$ children/NNS are/VBP excluded/VBN ,/, and/CC ;/: the/DT family/NN of/IN rudy/NN 's/POS friend/NN with/IN leukemia/NN is/VBZ suing/VBG the/DT corrupt/JJ insurance/NN company/NN that/WDT would/MD n't/RB pay/VB for/IN a/DT bone/NN marrow/NN transplant/NN ./.
+rudy/NN is/VBZ new/JJ to/TO being/VBG a/DT lawyer/NN and/CC is/VBZ thoroughly/RB outgunned/VBN ,/, but/CC luckily/RB he/PRP is/VBZ aided/VBN by/IN a/DT sleazy/JJ ambulance/NN chaser/NN (/( danny/JJ devito/NN )/) who/WP has/VBZ failed/VBN the/DT bar/NN exam/NN six/CD times/NNS as/RB well/RB as/IN by/IN the/DT kindly/RB presiding/VBG judge/NN (/( danny/JJ glover/NN )/) ./.
+jon/NN voight/NN plays/VBZ leo/NN f/NN ./. drummond/NN ,/, the/DT intimidating/JJ and/CC arrogant/JJ leader/NN of/IN the/DT all-powerful/JJ insurance/NN company/NN 's/POS team/NN of/IN lawyers/NNS who/WP will/MD do/VB anything/NN to/TO oppose/VB justice/NN ./.
+will/MD rudy/VB defeat/NN leo/NN ?/.
+will/MD he/PRP enjoy/VB being/VBG a/DT lawyer/NN ?/.
+opinion/NN :/: the/DT good/JJ news/NN is/VBZ that/IN this/DT movie/NN has/VBZ a/DT happy/JJ ending/NN ,/, and/CC it/PRP features/VBZ a/DT guy/NN trying/VBG to/TO do/VB the/DT right/JJ thing/NN ./.
+director/NN francis/VBZ ford/JJ coppola/NN does/VBZ this/DT film/NN a/DT little/JJ differently/RB than/IN the/DT stereotypical/JJ law/NN movie/NN ./.
+in/IN the/DT typical/JJ lawyer/NN movie/NN there/EX 's/VBZ one/CD big/JJ case/NN and/CC the/DT movie/NN focuses/VBZ on/IN solving/VBG it/PRP ,/, and/CC somewhere/RB along/IN the/DT line/NN surprise/NN witnesses/NNS and/CC motives/NNS turn/VBP up/RP before/IN the/DT good/JJ guy/NN wins/NNS (/( after/IN lots/NNS of/IN gripping/VBG courtroom/NN drama/NN )/) ./.
+however/RB ,/, coppola/NN 's/POS movie/NN is/VBZ deliberately/RB more/RBR low/JJ key/NN ./.
+'the/DT rainmaker/NN '/'' plays/VBZ out/RP like/IN a/DT personality/NN sketch/NN of/IN young/JJ rudy/NN as/IN he/PRP gets/VBZ emotionally/RB involved/VBN with/IN and/CC tries/VBZ to/TO save/VB various/JJ little/JJ quirky/JJ side/NN characters/NNS ./.
+in/IN the/DT background/NN rudy/NN 's/POS voice/NN narrates/VBZ his/PRP$ feelings/NNS and/CC makes/VBZ half-cynical/JJ jokes/NNS about/IN the/DT legal/JJ profession/NN in/IN general/NN ./.
+two/CD factors/NNS combine/VBP to/TO make/VB this/DT movie/NN less/RBR heavy/JJ than/IN it/PRP can/MD be/VB ./.
+first/RB ,/, rudy/NN 's/POS time/NN is/VBZ split/VBN juggling/VBG three/CD cases/NNS ,/, rather/RB than/IN concentrating/VBG on/IN a/DT single/JJ high-stakes/JJ case/NN ./.
+also/RB ,/, rudy/NN 's/POS use/NN of/IN voice/NN narration/NN in/IN place/NN of/IN acting/NN makes/VBZ the/DT film/NN lose/VB some/DT of/IN its/PRP$ dramatic/JJ edge/NN ./.
+the/DT end/NN result/NN is/VBZ an/DT entertaining/JJ low/JJ key/JJ law/NN movie/NN where/WRB the/DT good/JJ guys/NNS win/VBP ,/, and/CC rudy/NN narrates/VBZ his/PRP$ way/NN into/IN coming/VBG of/IN age/NN ./.

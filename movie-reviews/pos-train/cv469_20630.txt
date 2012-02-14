@@ -1,0 +1,82 @@
+``/`` ./. ./. it/PRP 's/VBZ certainly/RB more/JJR than/IN just/RB a/DT monster/NN story/NN ./. ./. ``/``
+-/: kenneth/NN branagh/NN ,/, director/actor/co-writer/NN of/IN mary/JJ shelley/NN 's/POS frankenstein/NN ./.
+kenneth/JJ branagh/NN 's/POS new/JJ motion/NN picture/NN had/VBD to/TO compete/VB with/IN all/PDT the/DT previous/JJ frankenstein-films/NNS made/VBN throughout/IN the/DT years/NNS in/IN almost/RB every/DT part/NN of/IN the/DT world/NN ,/, including/VBG the/DT most/RBS controversial/JJ version/NN of/IN them/PRP all/DT -/: directed/VBN by/IN james/NNS whale/VBP ./.
+the/DT dark/NN and/CC stormy/NN nights/NNS ,/, the/DT lightning/NN bolts/NNS ,/, the/DT charnel/NN houses/NNS of/IN spare/JJ body/NN parts/NNS ,/, the/DT laboratory/NN where/WRB victor/NN frankenstein/NN stirs/VBZ his/PRP$ steaming/VBG cauldron/NN of/IN life/NN are/VBP effectful/JJ ./.
+but/CC the/DT center/NN of/IN the/DT film/NN ,/, quieter/RBR and/CC more/RBR thoughtful/JJ ,/, contains/VBZ the/DT real/JJ story/NN ./.
+horror-fans/NNS will/MD probably/RB be/VB disappointed/VBN by/IN the/DT total/JJ lack/NN of/IN horror/NN ./.
+branagh/NN has/VBZ instead/RB concentrated/VBN on/IN serious/JJ issues/NNS :/: morality/NN ,/, philosophy/NN and/CC human/JJ elements/NNS of/IN the/DT story/NN ,/, and/CC not/RB on/IN old/JJ fashioned/VBN horror/NN cliches/NNS ./.
+his/PRP$ version/NN is/VBZ much/RB closer/JJR to/TO the/DT book/NN than/IN all/PDT the/DT previous/JJ adaptions/NNS of/IN the/DT classic/JJ novel/NN ./.
+the/DT film/NN begins/VBZ and/CC ends/VBZ somewhere/RB in/IN the/DT arctic/JJ ocean/NN ./.
+the/DT year/NN is/VBZ 1794/CD ./.
+a/DT bold/JJ captain/NN is/VBZ steering/VBG his/PRP$ ship/NN through/IN the/DT unknown/JJ waters/NNS ./.
+his/PRP$ gole/NN is/VBZ to/TO reach/VB the/DT north/JJ pole/NN at/IN all/DT costs/NNS ./.
+as/IN the/DT ice/NN closes/VBZ around/IN his/PRP$ ship/NN ,/, a/DT figure/NN appears/VBZ on/IN the/DT horizon/NN ./.
+it/PRP 's/VBZ a/DT man/NN ./.
+exhausted/VBN and/CC on/IN the/DT brink/NN of/IN death/NN he/PRP approaches/VBZ the/DT frightening/JJ crew/NN ./.
+his/PRP$ name/NN is/VBZ victor/NN frankenstein/NN (/( kenneth/JJ branagh/NN )/) and/CC his/PRP$ story/NN is/VBZ so/RB terrifying/JJ that/IN it/PRP will/MD scare/VB everyone/NN from/IN venturing/VBG into/IN the/DT unknown/NN ./.
+the/DT myserious/JJ stranger/NN begins/VBZ his/PRP$ tale/NN ,/, or/CC more/RBR precisely/RB his/PRP$ confession/NN ,/, in/IN geneva/NN ,/, 1773/CD ./.
+he/PRP is/VBZ remembering/VBG his/PRP$ childhood/NN and/CC youth/NN ./.
+laughter/NN ,/, banquets/NNS and/CC parties/NNS -/: a/DT happy/JJ life/NN ,/, without/IN troubles/NNS or/CC concerns/NNS ./.
+here/RB victor/NN lived/VBD with/IN his/PRP$ father/NN (/( ian/JJ holm/NN )/) ,/, mother/NN (/( cherie/NN lunghi/NN )/) ,/, his/PRP$ surrogate/JJ sister/NN (/( helena/NN boham/NN carter/NN )/) and/CC his/PRP$ servants/NNS in/IN happiness/NN and/CC harmony/NN ./.
+this/DT idyllic/JJ lifestyle/NN is/VBZ suddenly/RB changed/VBN ./.
+like/IN thunder/NN from/IN a/DT quite/RB sky/JJ ,/, his/PRP$ mother/NN dies/NNS ,/, giving/VBG birth/NN to/TO his/PRP$ youngest/JJS brother/NN ./.
+shocked/VBN ,/, baffled/VBN and/CC then/RB gradually/RB changed/VBN by/IN grief/NN and/CC despair/NN ,/, victor/NN (/( already/RB interested/JJ in/IN science/NN )/) becomes/VBZ obsessed/VBN with/IN death/NN ./.
+standing/VBG on/IN his/PRP$ mother/NN 's/POS grave/NN he/PRP says/VBZ :/: ``/`` oh/JJ mother/NN ./. ./. you/PRP
+did/VBD not/RB have/VB to/TO die/VB ./. ./. ./. no/DT one/PRP should/MD ever/RB die/VB ./. ./. ./. i/NNS
+will/MD stop/VB this/DT ./. ./. i/NNS
+promiss/NN ./. ./. ``/``
+after/IN proposing/VBG marridge/NN to/TO his/PRP$ surrogate/JJ sister/NN and/CC promising/VBG to/TO return/VB as/RB soon/RB as/IN his/PRP$ studies/NNS are/VBP finished/VBN ,/, victor/NN travels/NNS to/TO ingolstadt/VB ,/, in/IN presuite/NN of/IN a/DT medical/JJ career/NN ./.
+after/IN a/DT while/IN his/PRP$ obsession/NN totally/RB overtakes/VBZ him/PRP as/IN he/PRP is/VBZ working/VBG day/NN and/CC night/NN ,/, creating/VBG life/NN from/IN death/NN ./.
+composing/VBG dead/JJ bodies/NNS ,/, frankenstein/NN wanted/VBD to/TO create/VB the/DT perfect/JJ man/NN -/: both/DT physically/RB and/CC mentally/RB ./.
+with/IN strong/JJ electrical/JJ impulses/NNS ,/, he/PRP managed/VBD to/TO breeth/JJ life/NN into/IN his/PRP$ creation/NN ./.
+the/DT result/NN was/VBD ugliness/NN ./.
+realizing/VBG what/WP he/PRP has/VBZ done/VBN ,/, frankenstein/NN tried/VBD to/TO undo/VB his/PRP$ work/NN ,/, but/CC it/PRP was/VBD to/TO late/RB ./.
+the/DT creature/NN has/VBZ escaped/VBN ./.
+because/IN of/IN the/DT epidemic/JJ ,/, frankenstein/NN hoped/VBD that/DT his/PRP$ creation/NN has/VBZ died/VBN and/CC returned/VBN to/TO his/PRP$ home/NN ,/, making/VBG plans/NNS for/IN the/DT wedding/NN ./.
+for/IN a/DT while/NN everything/NN is/VBZ as/IN it/PRP was/VBD before/IN his/PRP$ mother/NN 's/POS death/NN ./.
+but/CC then/RB one/CD by/IN one/CD his/PRP$ loved/VBN once/RB are/VBP dying/VBG mysteriously/RB ./. ./. ./.
+whale/NN 's/POS picture/NN ,/, although/IN powerful/JJ ,/, never/RB managed/VBD to/TO capture/VB the/DT total/JJ depth/NN of/IN the/DT novel/NN ./.
+brannagh/NN has/VBZ more/RBR or/CC less/RBR done/VBN that/DT ./.
+another/DT thing/NN is/VBZ characters/NNS and/CC actors/NNS ./.
+branagh/NN has/VBZ developed/VBN every/DT character/NN and/CC assembled/VBD a/DT magnificent/JJ cast/NN ./.
+the/DT greatest/JJS performances/NNS comes/VBZ from/IN de/NN niro/SYM -/: the/DT monster/NN ,/, that/WDT has/VBZ been/VBN played/VBN by/IN (/( among/IN others/NNS )/) charles/NNS ogle/VBP ,/, karloff/JJ ,/, lon/JJ chaney/NN ,/, bela/NN lugosi/NNS ,/, glenn/RBR strange/JJ ,/, christopher/NN lee/NN ,/, fred/JJ gwynne/NN (/( as/IN herman/NN munster/NN )/) ,/, and/CC now/RB ,/, robert/FW de/FW niro/FW ./.
+alone/RB ,/, hated/VBN and/CC feared/VBN ,/, he/PRP is/VBZ completely/RB aware/JJ of/IN his/PRP$ ugliness/NN ./.
+at/IN first/RB he/PRP is/VBZ like/IN a/DT helpless/JJ ,/, abandoned/JJ child/NN ,/, desperately/RB reaching/VBG out/RP for/IN love/NN ./.
+later/RB when/WRB he/PRP reads/VBZ frankenstein/NN 's/POS journal/NN ,/, and/CC learns/VBZ that/IN he/PRP is/VBZ composed/VBN of/IN dead/JJ bodies/NNS ,/, his/PRP$ love/NN turns/VBZ into/IN rage/NN as/IN he/PRP is/VBZ seeking/VBG revenge/NN ./.
+he/PRP is/VBZ capable/JJ of/IN killing/VBG without/IN regret/NN ./.
+``/`` i/NNS took/VBD him/PRP by/IN the/DT throughout/NN and/CC lifted/VBD him/PRP off/IN the/DT ground/NN ./. ./. ./. ./. and/CC
+then/RB i/NNS slowly/RB crushed/VBN his/PRP$ neck/NN ./. ./. ./. and/CC
+as/IN i/NNS killed/VBD him/PRP ,/, i/NNS saw/VBD your/PRP$ face/NN ./. ./. ``/``
+that/DT is/VBZ how/WRB he/PRP reveals/VBZ his/PRP$ savage/NN nature/NN to/TO his/PRP$ creator/NN ./.
+and/CC yet/RB ,/, he/PRP is/VBZ never/RB quite/RB evil/VB in/IN our/PRP$ eyes/NNS and/CC his/PRP$ vaulerbility/NN and/CC his/PRP$ loneliness/NN are/VBP palpable/JJ :/: ``/`` for/IN the/DT sympathy/NN of/IN one/CD living/NN being/VBG i/NNS would/MD make/VB peace/NN with/IN all/DT ./. ``/``
+rarely/RB has/VBZ a/DT cinematic/JJ interpretation/NN of/IN ``/`` the/DT daemon/NN ``/`` approached/VBD the/DT level/NN of/IN three-dimensionality/NN and/CC humanity/NN with/IN which/WDT it/PRP is/VBZ portrayed/VBN in/IN the/DT novel/NN ./.
+another/DT vital/JJ thing/NN is/VBZ the/DT character/NN of/IN victor/NN frankenstein/NN ./.
+in/IN most/JJS of/IN the/DT previous/JJ adaptions/NNS he/PRP was/VBD simply/RB a/DT mad/JJ scientist/NN that/WDT trolls/VBZ the/DT graveyards/NNS for/IN corpses/NNS and/CC then/RB creates/VBZ a/DT monster/NN (/( god/NN knows/VBZ why/WRB !/. )/) with/IN the/DT power/NN of/IN an/DT electrical/JJ storm/NN ./.
+almost/RB no/DT time/NN was/VBD granted/VBN on/IN his/PRP$ charecter/NN ,/, who/WP is/VBZ the/DT most/RBS important/JJ and/CC vital/JJ charecter/NN in/IN the/DT novel/NN ./.
+here/RB ,/, branagh/NN introduces/VBZ the/DT character/NN of/IN victor/NN frankenstein/NN ,/, establishes/VBZ his/PRP$ obsession/NN with/IN the/DT very/JJ nature/NN of/IN life/NN and/CC death/NN ,/, sets/VBZ up/RP the/DT intellectual/JJ and/CC ideological/JJ conflict/NN between/IN victor/NN and/CC the/DT academic/JJ establishment/NN ,/, and/CC somehow/RB manages/VBZ to/TO build/VB up/IN to/TO a/DT rousing/NN and/CC horrifying/VBG creation/NN scene/NN ./.
+branagh/NN plays/VBZ frankenstein/NN with/IN a/DT remarkable/JJ understanding/NN of/IN his/PRP$ character/NN ./.
+on/IN the/DT outside/NN he/PRP is/VBZ strong/JJ ,/, ambitious/JJ and/CC talented/JJ scientist/NN ,/, but/CC deep/RB down/IN he/PRP is/VBZ unsecure/JJ ,/, fragile/JJ and/CC vaulerble/JJ ,/, constantly/RB haunted/VBN by/IN the/DT ghosts/NNS from/IN his/PRP$ past/NN ./.
+helen/VBN boham/NN carter/NN is/VBZ equally/RB wonderful/JJ as/IN frankenstein/NN 's/POS surrogate/NN sister/NN ,/, who/WP at/IN the/DT end/NN becomes/VBZ his/PRP$ wife/NN for/IN a/DT little/JJ while/NN ,/, before/IN death/NN drives/VBZ them/PRP apart/RB ./.
+the/DT rest/NN of/IN the/DT cast/NN ,/, playing/VBG secondary/JJ characters/NNS ,/, is/VBZ solid/JJ and/CC nothing/NN less/JJR than/IN convincing/VBG ./.
+visually/RB the/DT film/NN is/VBZ stunning/JJ (/( especially/RB the/DT makeup/NN )/) ./.
+the/DT spinning/VBG camera/NN ,/, the/DT constantly/RB building-up/JJ musical/JJ acore/NN ,/, the/DT art/NN direction/NN ,/, the/DT production/NN design/NN ,/, the/DT costumes/NNS are/VBP all/DT magnificent/NN :/: from/IN the/DT arctic/JJ ocean/NN to/TO the/DT swiss/JJ alps/NNS and/CC dark/JJ forests/NNS ,/, to/TO the/DT plague-riddled/JJ streets/NNS of/IN ingolstadt/NN ,/, mary/JJ shelley/NN 's/POS frankenstein/NN is/VBZ a/DT wonder/NN to/TO behold/VB ./.
+kenneth/NN branagh/NN directs/VBZ his/PRP$ film/NN as/IN if/IN the/DT script/NN was/VBD written/VBN by/IN shakespeare/NN :/: ``/`` ./. ./. all/DT
+i/NNS once/RB loved/VBD lies/NNS in/IN a/DT shallow/JJ grave/NN ./. ./. ./. ./. by/IN
+my/PRP$ hand/NN ./. ./. ``/`` ./.
+and/CC the/DT film/NN ends/VBZ exacly/RB as/IN hamlet/NN ,/, when/WRB the/DT creature/NN sets/VBZ both/DT his/PRP$ and/CC his/PRP$ creator/NN 's/POS body/NN on/IN fire/NN ./.
+the/DT film/NN ends/VBZ with/IN frankenstein/NN and/CC his/PRP$ creation/NN burning/NN in/IN the/DT almost/RB hellish/JJ fire/NN in/IN the/DT darkness/NN ./.
+and/CC a/DT terrifying/JJ last/JJ close-up/NN on/IN the/DT creature/NN 's/POS smiling/VBG face/NN ./.
+can/MD a/DT man/NN create/NN life/NN ,/, then/RB abandon/IN his/PRP$ creation/NN because/IN its/PRP$ appearance/NN horrifies/VBZ him/PRP ?/.
+to/TO whom/WP are/VBP its/PRP$ actions/NNS then/RB attributable/JJ :/: the/DT creature/NN or/CC the/DT being/VBG who/WP brought/VBD about/RP its/PRP$ existence/NN ?/.
+shelley/NN did/VBD not/RB answer/VB these/DT questions/NNS ,/, but/CC she/PRP certainly/RB posed/VBD them/PRP ./.
+following/VBG her/PRP$ example/NN ,/, branagh/NN does/VBZ the/DT same/JJ ./.
+his/PRP$ film/NN is/VBZ a/DT tragic/JJ saga/NN about/IN playing/VBG god/NN ./.
+victor/NN frankenstein/NN is/VBZ not/RB an/DT evil/JJ man/NN ./.
+he/PRP wanted/VBD to/TO change/VB the/DT world/NN to/TO the/DT better/JJR ./.
+in/IN this/DT he/PRP represents/VBZ everything/NN science/NN stands/VBZ for/IN :/: acting/VBG without/IN doubts/NNS ,/, never/RB considering/VBG the/DT consequences/NNS of/IN his/PRP$ actions/NNS ./.
+produced/VBN by/IN francis/PRP$ ford/JJ coppola/NN ,/, frankenstein/NN resembles/NNS in/IN some/DT respects/NNS coppolas/VBP previous/JJ film/NN ``/`` dracula/NN ``/`` ./.
+in/IN comparison/NN ,/, i/NNS can/MD say/VB that/IN ``/`` dracula/NN ``/`` has/VBZ visuals/NNS that/WDT even/RB ``/`` frankenstein/NN ``/`` can/MD not/RB live/VB up/RP to/TO ./.
+but/CC when/WRB it/PRP comes/VBZ to/TO story/NN ,/, characters/NNS and/CC casting/NN ,/, ``/`` frankenstein/NN ``/`` is/VBZ stronger/JJR ./.
+but/CC stronger/JJR than/IN both/DT of/IN them/PRP ,/, on/IN every/DT aspect/NN ,/, is/VBZ neil/NN jordan/NN 's/POS ``/`` interview/NN with/IN the/DT vampire/NN ``/`` ./.
+although/IN the/DT film/NN is/VBZ not/RB perfect/JJ (/( the/DT camera/NN that/WDT simply/RB refuses/VBZ to/TO stay/VB still/RB and/CC the/DT occasionally/RB pushy/JJ score/NN are/VBP at/IN times/NNS more/JJR tiering/NN than/IN effective/JJ )/) ,/, these/DT minor/JJ faults/NNS are/VBP easily/RB forgivable/JJ ,/, as/IN the/DT picture/NN is/VBZ otherwise/RB captivating/JJ and/CC stimulating/JJ ./.
+branagh/NN has/VBZ probably/RB created/VBN one/CD of/IN the/DT best/JJS (/( if/IN not/RB the/DT best/JJS )/) adaptions/NNS of/IN shelly/NN 's/POS classic/JJ novel/NN ./.

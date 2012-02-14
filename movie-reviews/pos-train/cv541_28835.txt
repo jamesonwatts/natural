@@ -1,0 +1,51 @@
+capsule/NN :/: this/DT is/VBZ a/DT 1950s/CD or/CC 1960s/CD style/NN heist/NN film/NN ,/, set/VBN in/IN the/DT present/NN ./.
+robert/NN deniro/NN stars/NNS as/IN a/DT risk-adverse/JJ safecracker/NN who/WP wants/VBZ to/TO retire/VB form/JJ crime/NN but/CC takes/VBZ one/CD last/JJ job/NN at/IN the/DT request/NN of/IN a/DT personal/JJ friend/NN (/( played/VBN by/IN marlon/NN brando/NN )/) ./.
+edward/RB norton/RB plays/VBZ a/DT hotshot/JJ young/JJ sharpster/NN who/WP is/VBZ also/RB in/IN on/IN the/DT crime/NN ./.
+the/DT plot/NN is/VBZ mostly/RB straightforward/JJ suspense/NN with/IN little/JJ nonsense/NN ./.
+,/, +2/CD (/( -4/CD to/TO +4/CD )/)
+i/NNS am/VBP sure/JJ i/NNS must/MD have/VB seen/VBN almost/RB the/DT identical/JJ plot/NN before/RB ./.
+this/DT is/VBZ a/DT heist/JJ film/NN made/VBN for/IN an/DT adult/NN audience/NN who/WP probably/RB wanted/VBD a/DT crime/NN film/NN like/IN they/PRP had/VBD seen/VBN in/IN theaters/NNS when/WRB they/PRP were/VBD teens/NNS ./.
+there/EX are/VBP no/DT superhuman/JJ acrobats/NNS taking/VBG nosedives/NNS off/RP of/IN buildings/NNS like/IN in/IN entrapment/NN ./.
+there/EX is/VBZ no/DT rock/NN score/NN ./.
+there/EX are/VBP no/DT ballet-/NN like/IN martial/JJ arts/NNS ./.
+this/DT is/VBZ just/RB a/DT basic/JJ heist/NN film/NN with/IN a/DT decent/JJ and/CC distinctly/RB credible/JJ and/CC un-flashy/JJ script/NN ./.
+nick/NN (/( played/VBN by/IN robert/NN deniro/NN )/) is/VBZ a/DT safecracker/NN who/WP has/VBZ managed/VBN to/TO be/VB successful/JJ by/IN never/RB taking/VBG risks/NNS ./.
+if/IN a/DT job/NN is/VBZ not/RB a/DT safe/JJ bet/NN (/( pun/NN intended/VBD )/) ,/, he/PRP backs/VBZ out/RP ./.
+sometimes/RB even/RB the/DT safe/JJ bets/NNS turn/VBP out/RP not/RB to/TO be/VB so/RB safe/JJ ./.
+when/WRB one/CD job/NN very/RB nearly/RB goes/VBZ wrong/JJ nick/NN is/VBZ unnerved/JJ enough/RB to/TO decide/VB that/IN it/PRP is/VBZ nature/NN telling/VBG him/PRP that/IN it/PRP is/VBZ time/NN to/TO get/VB out/IN of/IN the/DT game/NN ./.
+he/PRP returns/VBZ to/TO his/PRP$ home/NN in/IN montreal/NN where/WRB he/PRP owns/VBZ a/DT jazz/NN club/NN ,/, and/CC decides/VBZ to/TO manage/VB it/PRP full/JJ time/NN ./.
+he/PRP proposes/VBZ to/TO his/PRP$ girl/NN friend/NN diane/NN (/( angela/DT bassett/NN )/) ./.
+she/PRP has/VBZ one/CD condition/NN ./.
+he/PRP must/MD stay/VB retired/VBN from/IN crime/NN ./.
+but/CC before/IN the/DT deal/NN can/MD be/VB cemented/VBN ,/, max/NN ,/, a/DT montreal/JJ kingpin/NN and/CC personal/JJ friend/NN ,/, has/VBZ one/CD last/JJ supposedly/RB easy/JJ job/NN for/IN nick/NN ./.
+nick/NN wants/VBZ no/DT part/NN particularly/RB because/IN the/DT heist/NN will/MD be/VB right/JJ in/IN his/PRP$ hometown/NN of/IN montreal/NN ./.
+more/JJR and/CC more/JJR details/NNS seem/VBP to/TO complicate/VB the/DT job/NN ./.
+nick/NN 's/POS partner/NN in/IN the/DT crime/NN is/VBZ to/TO be/VB a/DT smart/NN ,/, but/CC uncontrollable/JJ young/JJ crook/NN ,/, jack/NN (/( edward/JJ norton/NN )/) ./.
+jack/NN treats/VBZ a/DT locked/VBN front/JJ door/NN like/IN a/DT welcome/JJ mat/NN ,/, even/RB at/IN his/PRP$ associates/NNS '/POS homes/NNS ./.
+the/DT young/JJ crook/NN is/VBZ a/DT know-it-all/NN who/WP seems/VBZ good/JJ at/IN everything/NN he/PRP does/VBZ but/CC at/IN avoiding/VBG rubbing/VBG people/NNS the/DT wrong/JJ way/NN ./.
+together/RB they/PRP plan/VBP to/TO steal/VB a/DT priceless/JJ historic/JJ artifact/NN from/IN the/DT montreal/NN customs/NNS house/NN ./.
+the/DT script/NN by/IN kario/NN salem/NN ,/, lem/NN dobbs/NNS ,/, and/CC scott/NN marshall/NN smith/NN works/VBZ like/IN an/DT episode/NN of/IN the/DT old/JJ ``/`` mission/NN impossible/JJ ``/`` television/NN series/NN ./.
+we/PRP see/VBP pieces/NNS of/IN the/DT heist/NN being/VBG put/VBN together/RB ,/, last/JJ minute/NN changes/NNS ,/, and/CC things/NNS that/WDT go/VBP wrong/JJ ,/, much/JJ like/IN a/DT good/JJ episode/NN of/IN ``/`` mission/NN impossible/JJ ./. ``/``
+this/DT team/NN might/MD not/RB be/VB bad/JJ choices/NNS to/TO write/VB scripts/NNS for/IN the/DT tom/NN cruise/NN ``/`` mission/NN impossible/JJ ``/`` films/NNS ./.
+the/DT complications/NNS are/VBP ,/, however/RB no/RB more/JJR and/CC no/DT fewer/JJR than/IN are/VBP needed/VBN to/TO make/VB the/DT story/NN believable/JJ ./.
+the/DT telling/NN is/VBZ cold/JJ and/CC noirish/JJ ,/, which/WDT is/VBZ just/RB what/WP it/PRP is/VBZ supposed/VBN to/TO be/VB ./.
+director/NN frank/NN oz/NN ,/, the/DT voices/NNS of/IN yoda/NN and/CC miss/NN piggy/NN proves/VBZ surprisingly/RB good/JJ at/IN directing/VBG a/DT serious/JJ crime/NN film/NN ./.
+the/DT score/NN has/VBZ a/DT more/JJR than/IN adequate/JJ cast/NN with/IN little/JJ flashy/JJ or/CC scene-stealing/JJ acting/NN ./.
+edward/RB norton/RB probably/RB has/VBZ the/DT flashiest/JJS role/NN and/CC even/RB that/DT is/VBZ low-key/JJ by/IN today/NN 's/POS standards/NNS ./.
+he/PRP plays/VBZ what/WP is/VBZ nearly/RB a/DT double/JJ role/NN ./.
+jack/NN pretends/VBZ to/TO be/VB a/DT brain/NN damage/NN victim/NN to/TO be/VB hired/VBN for/IN a/DT job/NN in/IN the/DT customs/NNS house/NN ./.
+one/CD nice/NN (/( ?/. )/)
+character/NN i/NNS have/VBP not/RB mentioned/VBN is/VBZ stephen/JJ (/( jamie/NN harrold/NN )/) ./.
+stephen/NN is/VBZ a/DT master/NN hacker/NN who/WP lives/VBZ in/IN his/PRP$ mother/NN 's/POS basement/NN in/IN a/DT house/NN with/IN a/DT lot/NN of/IN screaming/VBG in/IN both/DT directions/NNS ./.
+he/PRP seems/VBZ like/IN the/DT last/JJ person/NN the/DT risk/NN adverse/JJ nick/NN would/MD want/VB to/TO depend/VB upon/IN ./.
+the/DT film/NN itself/PRP remains/VBZ low-key/JJ up/IN until/IN the/DT time/NN of/IN the/DT climactic/JJ heist/NN ./.
+then/RB the/DT pace/NN really/RB picks/VBZ up/RP ./.
+before/IN that/IN the/DT plot/NN even/RB stops/VBZ twice/RB for/IN jazz/NN interludes/NNS ./.
+though/IN oz/NN never/RB lets/VBZ the/DT music/NN steal/NN time/NN from/IN the/DT story/NN the/DT way/NN woody/JJ allen/NN does/VBZ in/IN sweet/JJ and/CC lowdown/JJ ./.
+on/IN the/DT subject/NN of/IN music/NN ,/, the/DT score/NN of/IN the/DT score/NN is/VBZ by/IN howard/JJ shore/NN ./.
+it/PRP adds/VBZ tension/NN to/TO the/DT suspense/NN scenes/NNS ,/, but/CC never/RB seems/VBZ to/TO have/VB much/JJ of/IN a/DT melody/NN ./.
+angela/NN bassett/NN is/VBZ the/DT one/CD misused/JJ celebrity/NN in/IN a/DT totally/RB minor/JJ role/NN that/WDT should/MD have/VB been/VBN played/VBN by/IN a/DT less/RBR famous/JJ actress/NN who/WP needed/VBD a/DT break/NN ./.
+she/PRP has/VBZ nothing/NN to/TO do/VB in/IN the/DT film/NN but/CC demand/NN that/WDT nick/VBP give/VB up/RP crime/NN and/CC to/TO look/VB like/IN an/DT attractive/JJ reward/NN if/IN he/PRP does/VBZ ./.
+speaking/VBG of/IN being/VBG attractive/JJ the/DT score/NN seems/VBZ to/TO be/VB attracting/VBG an/DT older/JJR audience/NN who/WP learned/VBD to/TO appreciate/VB much/RB the/DT same/JJ sort/NN of/IN film/NN in/IN the/DT 1950s/NNS and/CC 1960s/NNS ./.
+it/PRP does/VBZ the/DT job/NN ./.
+i/JJ rate/NN it/PRP a/DT 7/CD on/IN the/DT 0/CD to/TO 10/CD scale/NN and/CC a/DT +2/CD on/IN the/DT -4/CD to/TO +4/CD scale/NN ./.

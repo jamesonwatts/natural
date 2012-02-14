@@ -1,0 +1,11 @@
+beware/NN of/IN movies/NNS with/IN the/DT director/NN 's/POS name/NN in/IN the/DT title/NN ./.
+take/VB ``/`` john/NN carpenter/NN 's/POS ghosts/NNS of/IN mars/NNS ``/`` (/( please/VB )/) ./.
+if/IN the/DT carpenter/NN brand/NN name/NN was/VBD n't/RB superglued/VBN to/TO the/DT title/NN ,/, this/DT embarrassment/NN would/MD surely/RB have/VB bypassed/VBN theaters/NNS entirely/RB and/CC gone/VBN straight/RB to/TO its/PRP$ proper/JJ home/NN on/IN the/DT usa/NN network/NN ./.
+and/CC i/NNS would/MD have/VB been/VBN spared/VBN a/DT headache/NN ./.
+the/DT latest/JJS from/IN the/DT director/NN of/IN ``/`` starman/NN ,/, ``/`` ``/`` halloween/NN ``/`` and/CC ``/`` escape/NN from/IN new/JJ york/NN ``/`` is/VBZ a/DT lousy/JJ western/NN all/DT gussied/VBN up/RP to/TO look/VB like/IN a/DT futuristic/JJ horror/NN flick/NN ./.
+the/DT production/NN is/VBZ set/VBN on/IN mars/NNS in/IN 2176/CD ,/, where/WRB humanity/NN looks/VBZ for/IN relief/NN from/IN the/DT overpopulation/NN strangling/VBG their/PRP$ home/NN world/NN ./.
+six/CD hundred/CD and/CC forty/RB thousand/CD people/NNS in/IN a/DT matriarchal/JJ society/NN live/JJ and/CC work/NN at/IN outposts/NNS all/DT over/IN the/DT red/JJ planet/NN ,/, terra-forming/JJ to/TO make/VB it/PRP more/RBR hospitable/JJ for/IN future/JJ generations/NNS ./.
+a/DT matriarchal/JJ society/NN ./.
+terra-forming/JJ ./.
+sounds/NNS pretty/RB intriguing/JJ ,/, eh/NN ?/.
+well/RB ,/, do/VBP n't/RB get/VB your/PRP$ hopes/NNS up/RP ./.

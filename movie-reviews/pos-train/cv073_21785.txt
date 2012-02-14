@@ -1,0 +1,42 @@
+screen/NN story/NN by/IN kevin/NN yagher/JJR and/CC andrew/CC kevin/JJ walker/NN ./.
+screenplay/NN by/IN andrew/CC kevin/JJ walker/NN ./.
+inspired/VBN by/IN the/DT short/JJ story/NN the/DT legend/NN of/IN sleepy/JJ hollow/NN by/IN washington/NN irving/NN ./.
+directed/VBN by/IN tim/NN burton/NN ./.
+starring/VBG johnny/JJ depp/NN ,/, christina/NN ricci/NNS ,/, and/CC casper/NN van/NN dien/NN ./.
+special/JJ appearances/NNS by/IN christopher/NN lee/NN and/CC christopher/NN walken/NN ./.
+synopsis/NN :/: investigator/NN ichabod/NN crane/NN journeys/NNS to/TO 1799/CD sleepy/JJ hollow/NN to/TO investigate/VB a/DT series/NN of/IN murders/NNS involving/VBG decapitation/NN ./.
+townspeople/NNS believe/VBP the/DT spirit/NN of/IN a/DT dead/JJ german/NN mercenary/NN is/VBZ threatening/VBG them/PRP ./.
+cute/VB blonde/JJ katrina/NN and/CC a/DT listless/JJ orphan/NN help/NN crane/NN solve/VB the/DT mystery/NN ./.
+comments/NNS :/: tim/NN burton/NN has/VBZ directed/VBN a/DT number/NN of/IN entertaining/VBG and/CC groundbreaking/VBG films/NNS over/IN the/DT years/NNS ./.
+batman/NN ,/, of/IN course/NN ,/, is/VBZ perhaps/RB his/PRP$ best-known/JJ film/NN and/CC led/VBD to/TO a/DT string/NN of/IN less/JJR successful/JJ sequels/NNS ./.
+he/PRP 's/VBZ done/VBN biographical/JJ work/NN (/( on/IN the/DT director/NN ed/VBD wood/NN )/) ,/, children/NNS 's/POS movies/NNS (/( nightmare/NN before/IN christmas/NNS )/) ,/, and/CC a/DT homage/NN to/TO alien/VB invasion/NN movies/NNS (/( mars/NNS attacks/NNS !/. )/) ./.
+sleepy/JJ hollow/NN ,/, his/PRP$ newest/JJS feature/NN which/WDT fans/NNS have/VBP been/VBN anticipating/VBG for/IN a/DT while/NN ,/, shares/VBZ the/DT similar/JJ dark/JJ and/CC atmospheric/JJ style/NN of/IN his/PRP$ earlier/JJR work/NN and/CC counts/VBZ among/IN his/PRP$ better/JJR movies/NNS ./.
+sleepy/VB hollow/VB quite/RB obviously/RB draws/VBZ its/PRP$ inspiration/NN from/IN the/DT old/JJ period/NN horror/NN films/NNS of/IN the/DT 1950s/CD and/CC 1960s/CD ,/, especially/RB hammer/JJR studios/NNS '/POS reworkings/NNS of/IN dracula/NN and/CC frankenstein/NN ,/, and/CC american/JJ international/JJ 's/POS series/NN of/IN movies/NNS based/VBN on/IN the/DT works/NNS of/IN edgar/NN allan/NN poe/NN ./.
+christopher/NN lee/NN ,/, in/IN fact/NN ,/, star/NN of/IN many/JJ hammer/NN productions/NNS over/IN the/DT years/NNS ,/, appears/VBZ at/IN the/DT beginning/NN of/IN sleepy/JJ hollow/NN as/IN a/DT judge/NN who/WP sends/VBZ ichabod/NN crane/NN out/IN to/TO investigate/VB the/DT murders/NNS ./.
+the/DT movie/NN also/RB borrows/VBZ from/IN the/DT universal/JJ monster/NN movies/NNS of/IN the/DT 1930s/NNS ./.
+one/CD of/IN the/DT climatic/JJ scenes/NNS involves/VBZ a/DT windmill/NN and/CC obviously/RB takes/VBZ its/PRP$ cue/NN from/IN frankenstein/NN ./.
+i/NNS mention/VBP these/DT allusions/NNS for/IN a/DT reason/NN ./.
+seasoned/JJ horror/NN film/NN fans/NNS ,/, including/VBG myself/PRP ,/, will/MD smile/VB at/IN their/PRP$ inclusion/NN in/IN this/DT film/NN ./.
+with/IN the/DT recent/JJ disappointments/NNS in/IN theatrically/RB released/VBN horror/NN movies/NNS ,/, especially/RB the/DT blair/NN witch/NN project/NN (/( the/DT most/RBS overblown/JJ turkey/NN of/IN the/DT decade/NN )/) ,/, we/PRP needed/VBD a/DT film/NN like/IN this/DT ./.
+not/RB only/RB does/VBZ it/PRP have/VB a/DT sense/NN of/IN history/NN ,/, but/CC burton/NN 's/POS skillful/JJ use/NN of/IN setting/VBG and/CC mood/NN make/VBP this/DT an/DT entertaining/JJ exercise/NN in/IN horror/NN ./.
+the/DT film/NN 's/POS eerie/JJ landscapes/NNS and/CC foggy/JJ towns/NNS ,/, indeed/RB ,/, overshadow/VBP the/DT actors/NNS and/CC the/DT plot/NN as/IN the/DT most/RBS noteworthy/JJ aspect/NN of/IN the/DT movie/NN ./.
+johnny/JJ depp/NN ,/, a/DT veteran/JJ tim/NN burton/NN actor/NN who/WP has/VBZ appeared/VBN both/DT in/IN ed/JJ wood/NN and/CC edward/JJ scissorhands/NNS ,/, plays/VBZ ichabod/NN crane/NN ,/, who/WP has/VBZ apparently/RB changed/VBN occupations/NNS from/IN irving/VBG 's/POS original/JJ story/NN and/CC is/VBZ now/RB an/DT investigator/NN ./.
+depp/NN is/VBZ adequate/JJ in/IN his/PRP$ role/NN ./.
+no/DT more/RBR ;/: no/DT less/JJR ./.
+equally/RB adequate/JJ is/VBZ christina/NN ricci/NNS ,/, who/WP plays/VBZ the/DT love/NN interest/NN in/IN the/DT film/NN ./.
+she/PRP 's/VBZ a/DT good/JJ witch/NN too/RB ./.
+how/WRB cute/NN ./.
+one/CD of/IN the/DT few/JJ weak/JJ parts/NNS of/IN sleepy/JJ hollow/NN is/VBZ the/DT wooden/NN and/CC cliched/VBD dialogue/NN between/IN the/DT main/JJ characters/NNS ./.
+the/DT two/CD actors/NNS ,/, however/RB ,/, carry/VBP the/DT movie/NN well/RB enough/RB ,/, but/CC the/DT supporting/JJ cast/NN is/VBZ what/WP makes/VBZ this/DT movie/NN shine/NN ./.
+veteran/NN actors/NNS such/JJ as/IN jeffrey/NN jones/NNS and/CC michael/NN gough/NN (/( who/WP played/VBD the/DT butler/NN alfred/VBN in/IN all/DT four/CD recent/JJ batman/NN flicks/NNS )/) are/VBP terrific/JJ as/IN the/DT aging/VBG townsfolk/NN involved/VBN in/IN the/DT conspiracy/NN which/WDT depp/NN uncovers/VBZ ./.
+while/IN i/NNS do/VBP not/RB wish/VB to/TO reveal/VB crucial/JJ plot/NN points/NNS ,/, i/NNS can/MD say/VB that/IN the/DT storyline/NN becomes/VBZ quite/RB confusing/JJ ./.
+you/PRP have/VBP to/TO pay/VB attention/NN ./.
+andrew/CC kevin/NN walker/NN wrote/VBD the/DT screenplay/NN ./.
+he/PRP 's/VBZ the/DT one/NN who/WP also/RB wrote/VBD 8/CD mm/NN and/CC seven/CD ./.
+walker/NN is/VBZ quickly/RB becoming/VBG one/CD of/IN the/DT premiere/JJ suspense/NN writers/NNS in/IN hollywood/NN ,/, and/CC sleepy/JJ hollow/NN certainly/RB does/VBZ n't/RB hurt/VB his/PRP$ growing/VBG reputation/NN ./.
+as/IN one/PRP might/MD imagine/VB from/IN a/DT gentleman/NN like/IN walker/NN ,/, sleepy/JJ hollow/NN is/VBZ quite/RB graphic/JJ ./.
+there/EX 's/VBZ a/DT lot/NN of/IN blood/NN and/CC a/DT lot/NN of/IN beheadings/NNS ./.
+this/DT is/VBZ definately/RB not/RB a/DT flick/NN to/TO take/VB the/DT young/JJ kids/NNS to/TO ./.
+a/DT lady/NN in/IN front/NN of/IN us/PRP took/VBD her/PRP two/CD young/JJ sons/NNS to/TO see/VB it/PRP and/CC spent/VBD about/IN 25/CD -/: 30/CD minutes/NNS covering/VBG the/DT youngest/JJS 's/POS eyes/NNS with/IN her/PRP$ hand/NN ./.
+he/PRP was/VBD obviously/RB upset/VBN by/IN the/DT movie/NN 's/POS intense/JJ violence/NN ./.
+if/IN you/PRP 're/VBP looking/VBG for/IN a/DT good/JJ scare/NN ,/, however/RB ,/, sleepy/JJ hollow/NN is/VBZ definately/RB recommended/VBN ./.

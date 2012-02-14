@@ -1,0 +1,81 @@
+capsule/NN :/: the/DT much/JJ anticipated/JJ re-adaptation/NN of/IN the/DT pierre/NN boulle/NN novel/NN comes/VBZ to/TO the/DT screen/NN as/IN a/DT dark/NN and/CC a/DT little/JJ dreary/JJ film/NN with/IN lots/NNS of/IN chases/NNS and/CC fighting/VBG ,/, but/CC very/RB little/JJ intelligence/NN ./.
+visually/RB there/EX is/VBZ much/JJ to/TO like/VB about/IN this/DT version/NN ,/, but/CC the/DT approach/NN is/VBZ to/TO take/VB an/DT adventure/NN after/IN the/DT style/NN of/IN gulliver/NN 's/POS travels/NNS and/CC treat/VB it/PRP as/IN an/DT action/NN film/NN ./.
+that/DT makes/VBZ it/PRP a/DT film/NN without/IN much/JJ center/NN ./.
+,/, 0/CD (/( -4/CD to/TO +4/CD )/)
+pierre/NN boulle/NN ,/, author/NN of/IN the/DT bridge/NN on/IN the/DT river/NN kwai/NN ,/, wrote/VBD planet/NN of/IN the/DT apes/NNS (/( a/DT ./. k/NN ./. a/DT ./. monkey/NN planet/NN )/) ,/, the/DT novel/NN ,/, as/IN a/DT social/JJ satire/NN ./.
+it/PRP reads/VBZ a/DT lot/NN like/IN a/DT fifth/JJ book/NN of/IN gulliver/NN 's/POS travels/NNS ./.
+humans/NNS discover/VBP a/DT planet/NN in/IN which/WDT the/DT roles/NNS of/IN apes/NNS and/CC humans/NNS have/VBP been/VBN reversed/VBN ,/, not/RB unlike/IN the/DT roles/NNS of/IN horses/NNS and/CC humans/NNS on/IN jonathan/NN swift/NN 's/POS island/NN of/IN the/DT houyhnhnms/NNS ./.
+the/DT novel/NN moves/VBZ somewhat/RB slowly/RB to/TO create/VB some/DT suspense/NN in/IN revealing/VBG all/PDT the/DT things/NNS most/JJS film/NN fans/NNS know/VBP to/TO be/VB true/JJ about/IN the/DT nature/NN of/IN the/DT planet/NN ./.
+it/PRP seems/VBZ to/TO me/PRP there/EX is/VBZ also/RB a/DT statement/NN about/IN human/JJ cruelty/NN to/TO animals/NNS ,/, but/CC perhaps/RB i/NNS was/VBD just/RB looking/VBG for/IN that/DT ./.
+when/WRB rod/NN serling/NN adapted/VBD the/DT novel/NN into/IN a/DT film/NN released/VBN in/IN 1968/CD ,/, he/PRP added/VBD a/DT number/NN of/IN serling/NN touches/NNS ,/, familiar/JJ from/IN episodes/NNS of/IN the/DT twilight/JJ zone/NN and/CC changed/VBD the/DT ending/NN to/TO make/VB it/PRP more/RBR serling-ish/JJ ./.
+the/DT final/JJ irony/NN of/IN the/DT original/JJ version/NN has/VBZ become/VBN film/NN history/NN ./.
+without/IN it/PRP there/EX could/MD never/RB have/VB been/VBN a/DT ``/`` planet/NN of/IN the/DT apes/NNS ``/`` film/NN series/NN ./.
+i/NNS can/MD surmise/VB only/RB that/DT serling/NN ran/VBD into/IN serious/JJ script/JJ problems/NNS in/IN how/WRB to/TO handle/VB the/DT tricky/JJ question/NN of/IN language/NN ./.
+in/IN the/DT book/NN the/DT apes/NNS had/VBD their/PRP$ own/JJ language/NN and/CC the/DT human/NN eventually/RB learned/VBD that/DT language/NN ./.
+that/DT could/MD have/VB been/VBN done/VBN in/IN the/DT film/NN ,/, but/CC that/DT would/MD have/VB required/VBN the/DT entire/JJ film/NN to/TO be/VB subtitled/VBN for/IN the/DT non-ape-speaking/JJ ./.
+serling/NN avoided/VBD this/DT by/IN having/VBG the/DT apes/NNS speak/VBP english/JJ and/CC ,/, of/IN course/NN ,/, there/EX is/VBZ some/DT justification/NN for/IN that/DT by/IN the/DT end/NN of/IN the/DT film/NN ./.
+justifying/VBG why/WRB the/DT apes/NNS spoke/VBD english/JJ may/MD have/VB even/RB been/VBN the/DT inspiration/NN for/IN his/PRP$ surprise/NN ending/VBG ./.
+but/CC serling/NN never/RB tackles/VBZ the/DT all-important/JJ question/NN of/IN why/WRB a/DT supposedly/RB intelligent/JJ human/NN never/RB shows/VBZ any/DT curiosity/NN or/CC even/RB surprise/VB that/IN the/DT apes/NNS speak/VBP his/PRP$ own/JJ language/NN ,/, a/DT language/NN they/PRP had/VBD no/DT opportunity/NN to/TO ever/RB hear/VB ./.
+few/JJ viewers/NNS questioned/VBD this/DT serious/JJ plot/NN hole/NN ,/, however/RB ,/, and/CC the/DT film/NN has/VBZ become/VBN well/RB respected/VBN in/IN cinema/NN history/NN ./.
+partial/JJ credit/NN at/IN least/JJS should/MD go/VB to/TO jerry/VB goldsmith/NN whose/WP$ extremely/RB inventive/JJ score/NN is/VBZ one/CD of/IN goldsmith/NN 's/POS best/JJS if/IN not/RB his/PRP$ best/JJS ./.
+when/WRB the/DT film/NN 's/POS success/NN called/VBD for/IN sequels/NNS ,/, the/DT filmmakers/NNS turned/VBD up/RP the/DT violence/NN and/CC they/PRP added/VBD well-intentioned/JJ ,/, though/IN not/RB very/RB subtle/JJ ,/, political/JJ messages/NNS about/IN what/WP was/VBD happening/VBG in/IN the/DT united/JJ states/NNS of/IN the/DT 1960s/CD and/CC 1970s/CD ./.
+while/IN the/DT first/JJ film/NN had/VBD a/DT little/JJ shooting/NN of/IN guns/NNS and/CC what/WP was/VBD there/EX seemed/VBD a/DT little/JJ half-/NN hearted/VBD ,/, by/IN the/DT second/JJ film/NN ,/, beneath/IN the/DT planet/NN of/IN the/DT apes/NNS ,/, there/EX was/VBD a/DT good/JJ deal/NN more/JJR violence/NN and/CC from/IN that/DT point/NN on/IN the/DT series/NN had/VBD a/DT lot/NN of/IN violence/NN and/CC chases/NNS ./.
+the/DT series/NN concluded/VBD with/IN battle/NN for/IN the/DT planet/NN of/IN the/DT apes/NNS in/IN 1973/CD ./.
+now/RB director/NN tim/NN burton/NN tries/VBZ his/PRP$ hand/NN at/IN adapting/VBG the/DT original/JJ book/NN again/RB ./.
+for/IN those/DT who/WP thought/VBD that/IN the/DT 1968/CD version/NN was/VBD not/RB very/RB faithful/JJ to/TO the/DT book/NN ,/, burton/NN 's/POS new/JJ version/NN is/VBZ even/RB less/RBR faithful/JJ ./.
+first/RB ,/, he/PRP does/VBZ not/RB really/RB reverse/VB the/DT roles/NNS of/IN the/DT humans/NNS and/CC the/DT apes/NNS ./.
+he/PRP has/VBZ them/PRP both/DT be/VB intelligent/JJ ,/, articulate/JJ races/NNS battling/VBG for/IN a/DT dominance/NN of/IN the/DT planet/NN currently/RB in/IN the/DT hands/NNS ,/, uh/UH ,/, make/VBP that/IN paws/NNS ,/, of/IN the/DT apes/NNS ./.
+that/DT could/MD be/VB a/DT good/JJ story/NN too/RB ,/, but/CC it/PRP is/VBZ not/RB planet/NN of/IN the/DT apes/NNS ./.
+as/IN with/IN the/DT mission/NN impossible/JJ films/NNS and/CC so/RB many/JJ other/JJ cinematic/JJ homages/NNS to/TO the/DT third/JJ quarter/NN of/IN the/DT last/JJ century/NN ,/, the/DT title/NN makes/VBZ promises/NNS that/IN the/DT filmmakers/NNS have/VBP no/DT intention/NN of/IN honoring/VBG ./.
+in/IN 2029/CD leo/NN davidson/NN (/( mark/NN wahlberg/NN ,/, not/RB this/DT world/NN 's/VBZ most/RBS expressive/JJ actor/NN )/) works/VBZ on/IN a/DT space/NN station/NN increasing/VBG the/DT intelligence/NN and/CC usefulness/NN of/IN apes/NNS ./.
+then/RB a/DT convenient/JJ time/NN storm/NN sweeps/VBZ him/PRP up/RP wizard-of-oz-fashion/NN and/CC drops/VBZ him/PRP on/IN an/DT alien/JJ planet/NN ./.
+(/( yes/UH ,/, he/PRP survives/VBZ this/DT storm/NN ,/, but/CC then/RB no/DT storm/NN is/VBZ perfect/JJ ./. )/)
+he/PRP quickly/RB finds/VBZ ,/, not/RB greatly/RB to/TO any/DT surprise/NN he/PRP shows/VBZ ,/, that/IN on/IN this/DT planet/NN apes/VBZ rule/NN and/CC humans/NNS drool/NN ,/, but/CC everybody/NN talks/NNS ./.
+and/CC the/DT language/NN they/PRP talk/VBP is/VBZ earth-/JJ english/NN ./.
+apparently/RB it/PRP does/VBZ not/RB even/RB occur/VB to/TO leo/VB that/IN there/EX is/VBZ a/DT mystery/NN that/WDT needs/VBZ to/TO be/VB explained/VBN about/IN that/DT ./.
+the/DT fact/NN it/PRP does/VBZ not/RB occur/VB to/TO leo/VB and/CC apparently/RB did/VBD n't/RB occur/VB to/TO tim/VB burton/NN either/CC is/VBZ the/DT heart/NN of/IN the/DT real/JJ horror/NN of/IN this/DT film/NN ./.
+both/DT just/RB assumed/VBN that/IN if/IN apes/NNS were/VBD going/VBG to/TO talk/VB the/DT language/NN they/PRP would/MD speak/VB would/MD be/VB english/JJ ./.
+in/IN any/DT case/NN having/VBG one/CD talking/VBG race/NN dominating/VBG another/DT makes/VBZ this/DT not/RB a/DT look/NN at/IN human-animal/JJ relationships/NNS and/CC more/JJR one/CD of/IN the/DT master-slave/JJ relationships/NNS ./.
+outside/IN of/IN sudan/NN and/CC a/DT few/JJ other/JJ countries/NNS this/DT is/VBZ a/DT less/RBR relevant/JJ topic/NN ./.
+leo/NN is/VBZ captured/VBN to/TO be/VB used/VBN as/IN a/DT slave/NN but/CC also/RB is/VBZ discovered/VBN by/IN ari/NNS ,/, played/VBN by/IN helena/NN bonham/NN carter/NN ./.
+ari/NN is/VBZ an/DT attractive/JJ ape/NN with/IN close/JJ ties/NNS to/TO high/JJ political/JJ power/NN ./.
+she/PRP is/VBZ bent/JJ on/IN making/VBG the/DT world/NN a/DT better/JJR place/NN ./.
+perhaps/RB in/IN a/DT previous/JJ draft/NN of/IN the/DT script/NN she/PRP was/VBD called/VBN hil-ari/JJ ./.
+in/IN any/DT case/NN with/IN makeup/NN that/WDT stifles/VBZ her/PRP$ usual/JJ pout/NN ,/, carter/NN is/VBZ just/RB about/RB as/RB attractive/JJ as/IN she/PRP has/VBZ ever/RB been/VBN in/IN a/DT film/NN ./.
+she/PRP may/MD want/VB to/TO consider/VB this/DT to/TO become/VB her/PRP$ standard/JJ look/NN from/IN this/DT point/NN forward/RB ./.
+it/PRP is/VBZ not/RB long/JJ before/IN leo/NN escapes/NNS with/IN some/DT human/JJ and/CC only/RB a/DT couple/NN of/IN sympathetic/JJ apes/NNS ./.
+this/DT is/VBZ a/DT further/JJ abandonment/NN of/IN the/DT source/NN material/NN ./.
+the/DT chase/NN severely/RB limits/VBZ the/DT interplay/NN of/IN ape/NN and/CC human/NN and/CC the/DT examination/NN of/IN each/DT 's/POS place/NN in/IN this/DT reversed/JJ society/NN ,/, each/DT important/JJ in/IN the/DT book/NN ./.
+we/PRP can/MD not/RB see/VB how/WRB the/DT society/NN works/VBZ because/IN most/JJS of/IN the/DT screentime/NN society/NN has/VBZ broken/VBN down/IN ./.
+we/PRP see/VBP the/DT humans/NNS either/CC separated/VBN from/IN the/DT apes/NNS or/CC fighting/VBG them/PRP ./.
+burton/NN chooses/VBZ visceral/JJ thrills/NNS over/IN cerebral/JJ ones/NNS at/IN almost/RB every/DT turn/NN ./.
+this/DT is/VBZ a/DT miscalculation/NN ,/, as/IN characters/NNS so/RB lacking/VBG in/IN empathy/JJ value/NN are/VBP difficult/JJ ones/NNS to/TO place/VB much/JJ emotional/JJ investment/NN in/IN ./.
+they/PRP are/VBP basically/RB chess/NN pieces/NNS and/CC the/DT viewer/NN has/VBZ little/JJ reason/NN to/TO root/NN for/IN them/PRP to/TO win/VB ./.
+the/DT 1968/CD script/NN had/VBD little/JJ subtlety/NN ,/, with/IN lines/NNS like/IN ``/`` i/NNS never/RB met/VBN an/DT ape/NN i/NNS did/VBD n't/RB like/VB ,/, ``/`` but/CC at/IN least/JJS we/PRP cared/VBD for/IN what/WP happened/VBD to/TO taylor/VB ,/, the/DT main/JJ character/NN ./.
+most/JJS of/IN what/WP this/DT film/NN has/VBZ to/TO offer/VB is/VBZ in/IN the/DT visuals/NNS ./.
+the/DT visual/JJ work/NN is/VBZ spotty/JJ but/CC generally/RB nicely/RB done/VBN except/IN that/DT so/RB much/JJ of/IN the/DT film/NN takes/VBZ place/NN in/IN the/DT night/NN or/CC in/IN fog/NN ./.
+this/DT tends/VBZ to/TO limit/VB close/JJ looks/NNS at/IN the/DT makeup/NN ./.
+in/IN general/JJ it/PRP seems/VBZ much/RB improved/VBN from/IN 1968/CD ./.
+the/DT makeup/NN team/NN is/VBZ led/VBN by/IN rick/NN baker/NN instead/RB of/IN john/NN chambers/NNS ,/, who/WP did/VBD it/PRP for/IN the/DT 1968/CD version/NN ./.
+in/IN 1968/CD chambers/NNS makeup/NN was/VBD a/DT jaw-dropper/NN ./.
+it/PRP was/VBD realistic/JJ enough/RB to/TO almost/RB be/VB believable/JJ but/CC flexible/JJ enough/RB to/TO show/VB emotion/NN ./.
+chambers/NNS is/VBZ good/JJ ,/, but/CC if/IN anyone/NN had/VBD a/DT chance/NN to/TO best/VB him/PRP it/PRP would/MD have/VB to/TO be/VB baker/NN ./.
+today/NN audiences/NNS have/VBP higher/JJR expectations/NNS ;/: baker/NN 's/POS visualization/NN is/VBZ really/RB an/DT improvement/NN ./.
+these/DT visuals/NNS work/VBP nicely/RB ./.
+what/WP does/VBZ not/RB work/NN is/VBZ the/DT wire-/JJ assisted/VBN leaps/VBZ some/DT of/IN the/DT apes/NNS make/VBP ./.
+they/PRP look/VBP like/IN they/PRP were/VBD inspired/VBN by/IN the/DT physics-/NN defying/VBG leaps/NNS of/IN crouching/VBG tiger/NN ,/, hidden/JJ dragon/NN ./.
+apes/NNS spring/VBG incredible/JJ distances/NNS ./.
+some/DT of/IN the/DT best/JJS scenes/NNS are/VBP apes/NNS running/VBG into/IN battle/NN looking/VBG like/IN they/PRP have/VBP ape/NN posture/NN ,/, but/CC when/WRB they/PRP start/VBP flying/VBG through/IN the/DT air/NN the/DT effect/NN is/VBZ lost/VBN ./.
+one/CD final/JJ visual/JJ problem/NN is/VBZ that/IN the/DT film/NN frequently/RB shows/VBZ its/PRP$ budget/NN in/IN what/WP should/MD be/VB spectacular/JJ battle/NN scenes/VBZ the/DT camera/NN shows/VBZ us/PRP only/RB a/DT small/JJ group/NN of/IN people/NNS close-up/JJ ./.
+since/IN the/DT days/NNS of/IN lon/NN chaney/NN and/CC boris/NN karloff/IN few/JJ actors/NNS have/VBP crossed/VBN over/RP to/TO stardom/VB in/IN a/DT role/NN that/WDT required/VBD heavy/JJ make-up/NN ./.
+the/DT one/CD actor/NN who/WP has/VBZ a/DT shot/NN is/VBZ paul/NN giamatti/NNS ./.
+it/PRP is/VBZ not/RB that/IN his/PRP$ lines/NNS are/VBP so/RB good/JJ ,/, most/JJS are/VBP silly/JJ jokes/NNS ./.
+but/CC he/PRP delivers/VBZ them/PRP very/RB well/RB ./.
+he/PRP was/VBD always/RB a/DT watchable/JJ actor/NN ,/, but/CC has/VBZ not/RB yet/RB made/VBN stardom/NN ./.
+as/IN the/DT ape-trader/JJ limbo/NN he/PRP over-emotes/VBZ to/TO overcome/VB his/PRP$ ape/NN make-up/NN ,/, but/CC does/VBZ it/PRP very/RB well/RB ./.
+in/IN doing/VBG so/IN he/PRP makes/VBZ himself/PRP the/DT most/RBS interesting/JJ thing/NN on/IN the/DT screen/NN ./.
+he/PRP is/VBZ probably/RB the/DT best/JJS thing/NN in/IN the/DT film/NN and/CC conjures/VBZ up/RP memories/NNS of/IN peter/NN ustinov/NN 's/POS performance/NN in/IN spartacus/NN ./.
+as/IN an/DT in-joke/JJ there/EX are/VBP several/JJ lines/NNS in/IN the/DT script/NN borrowed/VBN from/IN the/DT 1968/CD film/NN and/CC an/DT old/JJ ape/NN played/VBN by/IN charleton/NN heston/NN becomes/VBZ an/DT allusion/NN to/TO the/DT first/JJ film/NN by/IN itself/PRP ./.
+danny/JJ elfman/NN 's/POS score/NN has/VBZ a/DT nice/JJ primitive/JJ feel/NN ,/, but/CC jerry/NN goldsmith/NN 's/POS 1968/CD tour/NN de/IN force/NN score/NN is/VBZ a/DT real/JJ classic/NN ./.
+that/DT score/NN and/CC the/DT whole/JJ film/NN will/MD be/VB remembered/VBN when/WRB the/DT 2001/CD film/NN is/VBZ forgotten/VBN ./.
+i/JJ rate/NN the/DT remake/NN 4/CD on/IN the/DT 0/CD to/TO 10/CD scale/NN and/CC a/DT 0/CD on/IN the/DT -4/CD to/TO +4/CD scale/NN ./.

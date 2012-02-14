@@ -1,0 +1,54 @@
+some/DT movies/NNS '/POS pre-release/JJ buzz/NN is/VBZ so/RB insistent/JJ on/IN their/PRP$ high/JJ oscar/NN potential/NN that/IN when/WRB they/PRP 're/VBP finally/RB released/VBN ,/, everyone/NN just/RB goes/VBZ along/IN with/IN it/PRP ./.
+thus/RB sometimes/RB ,/, films/NNS unworthy/JJ of/IN any/DT award/NN sans/VBZ the/DT razzie/NN become/VB oscar/NN hopefuls/NNS and/CC some/DT even/RB score/NN nominations/NNS ./.
+last/JJ year/NN it/PRP was/VBD the/DT thin/JJ red/JJ line/NN ./.
+this/DT year/NN 's/POS ``/`` winner/NN ``/`` is/VBZ the/DT hurricane/NN ,/, pure/JJ unadulterated/JJ tripe/NN that/WDT is/VBZ all/DT of/IN a/DT sudden/JJ being/NN received/VBN with/IN critical/JJ plaudits/NNS and/CC votes/NNS in/IN the/DT office/NN oscar/NN pool/NN ./.
+acclaimed/VBN director/NN norman/NN jewison/NN 's/POS biopic/NN retreads/VBZ all/PDT the/DT conventions/NNS of/IN courtroom/NN movies/NNS without/IN any/DT of/IN the/DT fun/NN ./.
+and/CC that/DT 's/VBZ supposed/VBN to/TO be/VB ok/JJ because/IN ,/, see/VB ,/, it/PRP 's/VBZ a/DT true/JJ story/NN ./.
+it/PRP 's/VBZ about/IN rubin/NN ``/`` hurricane/NN ``/`` carter/NN (/( denzel/NN washington/NN )/) ,/, a/DT legendary/JJ african/JJ american/JJ prizefighted/VBN who/WP is/VBZ unjustly/RB convicted/VBN of/IN triple/JJ homicide/NN with/IN the/DT help/NN of/IN a/DT ghastly/RB (/( racist/JJ !/. )/)
+detective/JJ (/( dan/JJ hedaya/NN )/) who/WP 's/VBZ had/VBD it/PRP in/IN for/IN the/DT ``/`` big-shot/JJ ``/`` hurricane/NN ever/RB since/IN he/PRP arrested/VBD him/PRP for/IN stabbing/VBG a/DT white/JJ man/NN with/IN a/DT knife/NN (/( in/IN self-defense/NN but/CC who/WP cares/VBZ ,/, right/RB ?/. )/)
+when/WRB rubin/NN was/VBD only/RB ten/JJ ./.
+he/PRP is/VBZ to/TO serve/VB three/CD life/NN sentences/NNS with/IN no/DT possibility/NN of/IN parole/NN ./.
+most/JJS of/IN the/DT film/NN takes/VBZ place/NN when/WRB he/PRP is/VBZ in/IN his/PRP$ 15th/JJ year/NN in/IN prison/NN ./.
+to/TO the/DT rescue/NN --/: lesra/NN martin/NN (/( vicellous/JJ reon/NN shannon/NN )/) and/CC his/PRP$ team/NN of/IN wanna-be/JJ detectives/NNS ./.
+lesra/NN is/VBZ an/DT african/JJ american/JJ teenager/NN taken/VBN in/RP by/IN three/CD well-off/JJ canadian/JJ white/JJ people/NNS (/( hanna/NN ,/, unger/NN ,/, schreiber/NN )/) to/TO get/VB an/DT education/NN ./.
+lesra/NN and/CC his/PRP$ buddies/NNS go/VBP to/TO a/DT book/NN sale/NN where/WRB lesra/NN picks/VBZ out/RP his/PRP$ very/RB first/JJ book/NN --/: ``/`` the/DT sixteenth/JJ round/NN ,/, ``/`` rubin/VB 's/POS autobiography/NN ./.
+immediately/RB thereafter/RB ,/, schreiber/NN 's/POS character/NN tells/VBZ lesra/NN ``/`` sometimes/RB we/PRP do/VBP n't/RB pick/VB the/DT books/NNS we/PRP read/VBP ,/, they/PRP pick/VBP us/PRP ./. ``/``
+hmmm/NN ./.
+after/IN a/DT few/JJ visits/NNS to/TO the/DT prison/NN ,/, they/PRP become/VBP convinced/JJ of/IN rubin/NN 's/POS innocence/NN and/CC launch/VB their/PRP$ own/JJ full-scale/JJ investigation/NN even/RB though/IN two/CD juries/NNS have/VBP convicted/VBN him/PRP ./.
+they/PRP meticulously/RB go/VBP through/IN all/PDT the/DT files/NNS and/CC revisit/VB all/PDT the/DT old/JJ witnesses/NNS (/( i/JJ wonder/NN if/IN any/DT of/IN them/PRP might/MD be/VB cranky/JJ old/JJ women/NNS who/WP slam/VBP the/DT door/NN in/IN their/PRP$ faces/NNS ?/. )/) and/CC in/IN the/DT course/NN of/IN their/PRP$ relentlessy/JJ tedious/JJ sleuthing/NN uncover/IN obvious/JJ evidence/NN confirming/VBG the/DT hurricane/NN 's/POS innocence/NN that/WDT was/VBD either/RB ignored/VBN or/CC never/RB seeked/VBD out/RP during/IN the/DT first/JJ two/CD proceedings/NNS ./.
+of/IN course/NN ,/, we/PRP 're/VBP already/RB told/VBN that/IN he/PRP 's/VBZ innocent/JJ ./.
+a/DT movie/NN like/IN this/DT is/VBZ especially/RB frustrating/JJ because/IN we/PRP 're/VBP not/RB being/VBG shown/VBN everything/NN significant/NN that/WDT happened/VBD to/TO carter/VB during/IN this/DT period/NN in/IN his/PRP$ life/NN ./.
+all/RB too/RB obviously/RB ,/, we/PRP 're/VBP getting/VBG the/DT hollywood/NN watered-/NN down/IN version/NN ./.
+that/DT would/MD be/VB ok/VBN except/IN that/IN the/DT parts/NNS we/PRP are/VBP getting/VBG is/VBZ milked/VBN for/IN every/DT single/JJ drop/NN of/IN melodrama/NN that/IN the/DT filmmakers/NNS could/MD possibly/RB squeeze/VB out/IN of/IN it/PRP ./.
+it/PRP 's/VBZ almost/RB cruel/JJ ./.
+the/DT melodrama/NN is/VBZ n't/RB of/IN the/DT entertaining/JJ kind/NN either/CC ;/: it/PRP 's/VBZ the/DT hokey/JJ ,/, rammed-down-your-throat/JJ variety/NN where/WRB every/DT emotion/NN is/VBZ exaggerated/VBN to/TO the/DT point/NN of/IN absurdity/NN ./.
+witness/NN the/DT villain/NN ferociously/RB grinding/VBG his/PRP$ teeth/NNS at/IN the/DT final/JJ trial/NN or/CC the/DT constant/JJ pseudo-saintliness/NN of/IN our/PRP$ four/CD protagonists/NNS ./.
+the/DT hurricane/NN is/VBZ your/PRP$ basic/JJ courtroom/NN movie/NN except/IN it/PRP 's/VBZ a/DT no-frills/JJ courtroom/NN movie/NN ./.
+it/PRP 's/VBZ formula/NN stripped/VBN to/TO the/DT bare/NN necessities/NNS ./.
+you/PRP have/VBP your/PRP$ wrongly/RB accused/VBN black/JJ man/NN ./.
+you/PRP have/VBP your/PRP$ melodramatic/JJ final/JJ courtroom/NN scene/NN ./.
+but/CC there/EX 's/VBZ nothing/NN else/RB ./.
+you/PRP 'd/MD expect/VB some/DT sort/NN of/IN involving/VBG investigation/NN ./.
+but/CC that/DT 's/VBZ not/RB necessary/JJ since/IN we/PRP 're/VBP implicitly/RB informed/VBN of/IN his/PRP$ innocence/NN ./.
+thus/RB the/DT whole/JJ middle/JJ portion/NN of/IN the/DT movie/NN is/VBZ reduced/VBN to/TO the/DT protagonist/NN brooding/NN ./.
+brooding/VBG to/TO himself/PRP ./.
+brooding/VBG to/TO other/JJ inmates/NNS ./.
+brooding/VBG to/TO lesra/NN ./.
+brooding/VBG to/TO lesra/NN 's/POS canadian/JJ friends/NNS ./.
+brooding/VBG in/IN letters/NNS ./.
+i/NNS do/VBP n't/RB think/VB i/NNS 'll/MD ever/RB look/VB at/IN brooding/VBG the/DT same/JJ way/NN again/RB ./.
+it/PRP was/VBD n't/RB long/RB before/IN i/NNS got/VBD tired/VBN of/IN hearing/VBG the/DT hurricane/NN 's/POS exceedingly/RB deep/JJ meditations/NNS on/IN his/PRP$ condition/NN ./.
+i/NNS wanted/VBD something/NN to/TO happen/VB ./.
+as/IN for/IN washington/NN 's/POS performance/NN in/IN the/DT title/NN role/NN --/: i/JJ figured/JJ i/NNS 'd/MD have/VB to/TO address/VB it/PRP sooner/RBR or/CC later/RB considering/VBG the/DT amount/NN of/IN attention/NN it/PRP 's/VBZ received/VBN --/: he/PRP is/VBZ top/JJ notch/NN ,/, though/IN still/RB boring/VBG ./.
+how/WRB is/VBZ that/IN possible/JJ ?/.
+well/RB ,/, he/PRP does/VBZ what/WDT jewison/NN wanted/VBD him/PRP to/TO do/VB perfectly/RB ./.
+unfortunately/RB what/WDT jewison/NN asked/VBD him/PRP to/TO do/VB is/VBZ a/DT load/NN of/IN crap/NN ./.
+what/WP a/DT waste/NN of/IN a/DT great/JJ performer/NN ./.
+speaking/VBG of/IN wastes/NNS ,/, why/WRB the/DT hell/NN did/VBD john/NN hannah/NN agree/VBP to/TO do/VB this/DT ?/.
+he/PRP 's/VBZ an/DT extremely/RB talented/VBN actor/NN and/CC i/NNS love/VBP him/PRP dearly/RB ,/, but/CC what/WP is/VBZ he/PRP doing/VBG here/RB ?/.
+to/TO call/VB his/PRP$ character/NN (/( along/IN with/IN schreiber/NN 's/POS and/CC unger/NN 's/POS )/) a/DT stick/NN figure/NN would/MD be/VB a/DT gross/JJ understatement/NN ./.
+all/DT three/CD of/IN them/PRP come/VB off/RP as/RB veritable/JJ mother/NN theresas/RB ,/, as/IN benevolent/NN as/IN do-gooders/NNS come/VBP ./.
+if/IN they/PRP 're/VBP to/TO play/VB a/DT major/JJ part/NN in/IN this/DT movie/NN ,/, why/WRB not/RB make/VB them/PRP real/JJ people/NNS ,/, with/IN real/JJ feelings/NNS and/CC emotions/NNS ?/.
+look/NN :/: if/IN you/PRP 're/VBP going/VBG to/TO make/VB a/DT formula/NN movie/NN ,/, do/VBP n't/RB undermine/VB the/DT formula/NN ./.
+courtroom/NN dramas/NNS can/MD be/VB fun/NN ,/, but/CC this/DT is/VBZ ridiculous/JJ ./.
+not/RB only/RB is/VBZ it/PRP trite/VB ,/, it/PRP 's/VBZ boring/JJ ./.

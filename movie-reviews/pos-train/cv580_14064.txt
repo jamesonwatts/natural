@@ -1,0 +1,41 @@
+this/DT movie/NN was/VBD one/CD of/IN the/DT first/JJ american/JJ films/NNS done/VBN by/IN director/NN paul/NN verhoeven/RB ./.
+he/PRP has/VBZ done/VBN films/NNS since/IN then/RB such/JJ as/IN basic/JJ instict/NN and/CC starship/NN troopers/NNS ./.
+all/DT of/IN his/PRP$ movies/NNS have/VBP one/CD main/JJ thing/NN in/IN common-/NN they/PRP do/VBP n't/RB skimp/VB on/IN the/DT violence/NN ./.
+in/IN a/DT verhoeven/JJ movie/NN a/DT guy/NN does/VBZ n't/RB get/VB shot/VBN once/RB in/IN the/DT chest-/NN he/PRP gets/VBZ shot/RB many/JJ times/NNS all/DT over/IN the/DT body/NN ./.
+robocop/NN takes/VBZ place/NN in/IN detroit/NN in/IN the/DT future/NN ./.
+things/NNS are/VBP pretty/RB bleak/JJ ./.
+the/DT company/NN ocp/NN rules/VBZ the/DT city/NN with/IN an/DT iron/NN fist/NN and/CC is/VBZ moving/VBG in/RP on/IN running/VBG the/DT police/NN force/NN ./.
+peter/NN weller/NN plays/VBZ a/DT cop/NN who/WP goes/VBZ on/IN a/DT mission/NN with/IN his/PRP$ partner/NN ,/, nancy/NN allen/VBN ./.
+peter/NN weller/NN goes/VBZ in/IN an/DT empty/JJ room/NN alone/RB and/CC gets/VBZ killed/VBN ./.
+meanwhile/RB ocp/NN has/VBZ a/DT failed/JJ demonstration/NN of/IN a/DT ed-209/JJ model/NN robot/NN crime/NN fighter/NN ./.
+someone/NN comes/VBZ up/RP with/IN the/DT idea/NN of/IN having/VBG a/DT cyborg/NN robocop/NN so/IN they/PRP use/VBP any/DT parts/NNS worth/JJ scalvaging/VBG from/IN peter/NN weller/NN and/CC make/VB him/PRP into/IN the/DT robocop/NN the/DT movie/NN is/VBZ titled/VBN after/IN ./.
+the/DT plot/NN of/IN this/DT movie/NN generally/RB runs/VBZ at/IN a/DT decent/JJ pace/NN ./.
+it/PRP drags/VBZ a/DT bit/NN towards/IN the/DT end/NN with/IN robocop/NN wanting/VBG to/TO finish/VB everybody/NN off/RB ,/, but/CC plot/NN twists/NNS keep/VBP it/PRP exciting/JJ ./.
+the/DT acting/VBG is/VBZ bad/JJ from/IN weller/NN when/WRB he/PRP is/VBZ human/JJ ,/, but/CC very/RB good/JJ when/WRB he/PRP is/VBZ robocop/NN ./.
+nancy/NN allen/NN does/VBZ a/DT decent/JJ job/NN ./.
+this/DT movie/NN does/VBZ n't/RB leave/VB itself/PRP open/JJ for/IN a/DT sequel/NN exactly/RB ./.
+but/CC they/PRP made/VBD one/CD anyway/RB ./.
+enter/NN ./. ./. ./.
+robocop/NN 2/CD starring/VBG :/: peter/NN weller/NN and/CC nancy/NN allen/VBN directed/VBN by/IN :/: irvin/NN kershner/NN
+detroit/NN is/VBZ in/IN a/DT more/RBR bleak/JJ state/NN than/IN it/PRP was/VBD in/IN the/DT first/JJ film/NN ./.
+ocp/NN is/VBZ trying/VBG to/TO develop/VB an/DT improved/VBN 'robocop/POS 2/CD '/'' that/WDT will/MD be/VB more/RBR than/IN a/DT match/NN for/IN criminals/NNS ./.
+most/JJS of/IN the/DT police/NN force/NN is/VBZ on/IN strike/NN due/JJ to/TO ocp/VB taking/VBG it/PRP over/RP ,/, leaving/VBG robocop/NN to/TO be/VB the/DT police/NN force/NN in/IN the/DT city/NN ./.
+this/DT film/NN is/VBZ pretty/JJ bizaare/NN ./.
+it/PRP has/VBZ a/DT 13/CD year-old/JJ drug-lord/NN who/WP curses/VBZ as/RB much/JJ as/IN eddie/NN murphy/NN ,/, even/RB more/JJR violence/NN than/IN the/DT original/JJ ,/, and/CC some/DT more/JJR humor/NN ./.
+the/DT plot/NN of/IN this/DT movie/NN is/VBZ pretty/RB large/JJ ,/, almost/RB too/RB much/RB so/RB ./.
+there/EX are/VBP three/CD or/CC four/CD plot/NN lines/NNS weaving/VBG around/IN that/WDT do/VBP n't/RB really/RB match/VB up/RP ./.
+the/DT effects/NNS are/VBP still/RB decent/JJ though/IN ./.
+this/DT sequel/NN is/VBZ n't/RB more/JJR of/IN the/DT same/JJ really/RB ,/, just/RB a/DT darker/JJR version/NN robocop/NN dealing/VBG more/RBR with/IN drugs/NNS than/IN with/IN armed/JJ criminals/NNS ./.
+if/IN you/PRP liked/VBD the/DT first/JJ one/NN ,/, watch/VB this/DT ./.
+but/CC be/VB dissapointed/VBN ./.
+so/RB later/RB comes/VBZ ./. ./. ./.
+robocop/NN 3/CD starring/VBG nancy/NN allen/NN and/CC robert/NN john/NN burke/NN
+ocp/NN is/VBZ now/RB owned/VBN by/IN a/DT large/JJ japanese/JJ company/NN ./.
+robocop/NN joins/VBZ a/DT band/NN of/IN rebels/NNS to/TO counter-attack/VB the/DT evil/JJ empire/NN ,/, i/VBP mean/JJ ocp/NN ./.
+the/DT japanese/JJ send/NN a/DT cyborg-ninja/NN to/TO deal/VB with/IN robocop/NN ./.
+among/IN other/JJ things/NNS ./. ./. ./.
+this/DT movie/NN is/VBZ easier/JJR to/TO follow/VB than/IN the/DT last/JJ one/CD ./.
+which/WDT means/VBZ the/DT plot/NN is/VBZ n't/RB quite/RB as/IN crowded/VBN ./.
+this/DT movie/NN is/VBZ n't/RB anything/NN special/JJ though/IN ./.
+just/RB more/JJR of/IN robocop/NN blasting/VBG things/NNS up/RP in/IN a/DT more/RBR kid-friendly/JJ way/NN ./.
+really/RB not/RB reccomended/VBN ./.

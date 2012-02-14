@@ -1,0 +1,11 @@
+a/DT big/JJ ,/, busy/JJ boxing/VBG satire/NN with/IN a/DT surprisingly/RB paltry/JJ punch/NN ,/, the/DT great/JJ white/JJ hype/NN stars/NNS samuel/NN l/NN ./. jackson/NN as/IN a/DT shameless/JJ boxing/NN promoter/NN whose/WP$ plan/NN to/TO boost/VB sagging/VBG pay-per-view/JJ revenues/NNS is/VBZ to/TO ``/`` invent/VB ``/`` a/DT white/JJ contender/NN (/( peter/NN berg/NN )/) to/TO challenge/VB his/PRP$ black/JJ heavyweight/NN ``/`` champ/NN ``/`` (/( damon/JJ wayans/NNS )/) ./.
+(/( the/DT logic/NN is/VBZ that/IN people/NNS will/MD pay/VB more/JJR to/TO see/VB black/JJ vs/NNS ./. white/JJ than/IN black/JJ vs/NNS ./. black/JJ ./. )/)
+he/PRP may/MD be/VB right/JJ ,/, in/IN an/DT absurdly/RB accurate/JJ way/NN ,/, but/CC the/DT film/NN does/VBZ n't/RB give/VB us/PRP a/DT reason/NN to/TO care/VB ./.
+as/IN a/DT scathing/NN sports/NNS spoof/NN ,/, hype/NN is/VBZ just/RB that/DT :/: unfunny/JJ ,/, unfocused/JJ ,/, and/CC ,/, at/IN times/NNS ,/, just/RB plain/VBP pointless/JJ ./.
+as/IN a/DT commentary/NN on/IN race/NN relations/NNS ,/, it/PRP 's/VBZ even/RB */VB less/RBR */VB effective/JJ ./.
+the/DT dialogue/NN is/VBZ the/DT best/JJS of/IN this/DT mess/NN ,/, lines/NNS like/IN jon/NN lovitz/NN exclaiming/VBG ``/`` i/NNS can/MD not/RB make/VB caviar/NN out/IN of/IN fish/NN eggs/NNS !/. ``/``
+writers/NNS tony/VBP hendra/NN and/CC ron/NN shelton/NN also/RB do/VBP good/JJ on/IN the/DT street/NN slang/NN ,/, though/IN we/PRP never/RB hear/VBP enough/RB of/IN it/PRP ./.
+the/DT script/NN is/VBZ n't/RB strong/JJ enough/RB ,/, though/RB ,/, to/TO support/VB the/DT aggressive/JJ camera/NN work/NN of/IN director/NN reginald/NN hudlin/NN (/( house/NN party/NN )/) ./.
+he/PRP comes/VBZ across/IN as/IN absolute/JJ overkill/NN ./.
+the/DT great/JJ white/JJ hype/NN */NN almost/RB */RB turns/VBZ around/RB at/IN the/DT end/NN ,/, at/IN the/DT big/JJ match/NN ,/, when/WRB hudlin/NN attempts/VBZ an/DT extended/JJ gag/NN of/IN rock-concert/JJ proportions/NNS ./.
+with/IN costumed/VBN dwarfs/NNS ,/, gangsta/NN rappers/NNS ,/, and/CC the/DT ``/`` champ/NN ``/`` dressed/VBD as/IN death/NN ,/, only/RB then/RB do/VBP we/PRP get/VBP a/DT glimpse/NN of/IN the/DT spoof/NN that/WDT should/MD 've/VB been/VBN ./.

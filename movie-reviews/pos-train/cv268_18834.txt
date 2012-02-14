@@ -1,0 +1,22 @@
+the/DT happy/JJ bastard/NN 's/POS quick/JJ movie/NN review/NN
+analyze/VB this/DT
+how/WRB does/VBZ one/CD do/VB a/DT comedy/NN focused/VBD on/IN the/DT mob/NN ?/.
+well/RB ,/, a/DT few/JJ years/NNS ago/RB ,/, there/EX was/VBD a/DT sly/RB little/JJ comedy/NN called/VBD the/DT freshman/NN ,/, which/WDT had/VBD marlon/NN brando/NN doing/VBG a/DT romp/NN of/IN a/DT send-up/NN of/IN his/PRP$ famous/JJ don/NN corleone/NN character/NN and/CC ,/, recently/RB ,/, the/DT utterly/RB stupid/JJ (/( in/IN a/DT bad/JJ way/NN )/) movie/NN mafia/NN !/.
+failed/VBD to/TO really/RB get/VB the/DT joke/NN ./.
+this/DT time/NN around/RP ,/, however/RB ,/, warner/NN bros/NNS ./. may/MD have/VB gotten/VBN it/PRP right/RB with/IN analyze/NN this/DT ,/, a/DT movie/NN that/WDT hits/VBZ its/PRP$ targets/NNS more/JJR than/IN it/PRP misses/VBZ ./. ./. ./. and/CC
+for/IN plenty/NN of/IN reasons/NNS ./.
+the/DT story/NN goes/VBZ like/IN this/DT ./.
+a/DT mobster/NN (/( robert/NN deniro/NN )/) finds/VBZ himself/PRP receiving/VBG several/JJ panic/NN attacks/NNS as/IN of/IN late/RB ,/, fueled/VBN by/IN the/DT stress/NN of/IN an/DT upcoming/JJ mobster/NN meeting/NN and/CC a/DT near-death/NN following/VBG a/DT drive-by/JJ shooting/NN ./.
+it/PRP 's/VBZ these/DT attacks/NNS that/WDT prompt/VBP him/PRP to/TO hire/VB a/DT psychiatrist/NN (/( billy/JJ crystal/NN )/) who/WP 's/VBZ mostly/RB reluctant/JJ to/TO take/VB the/DT mobster/NN 's/POS case/NN for/IN two/CD reasons/NNS ./.
+first/RB ,/, of/IN course/NN ,/, he/PRP 's/VBZ a/DT mobster/NN ,/, but/CC secondly/RB ,/, he/PRP 's/VBZ trying/VBG to/TO get/VB married/VBN and/CC enjoy/VB a/DT quiet/JJ honeymoon/NN with/IN his/PRP$ wife/NN (/( lisa/NN kudrow/NN )/) and/CC kid/NN ./.
+and/CC ,/, of/IN course/NN ,/, he/PRP ca/MD n't/RB rest/VB worth/JJ for/IN a/DT moment/NN because/IN the/DT mobster/NN 's/POS goons/NNS are/VBP always/RB needing/VBG the/DT shrink/NN for/IN something/NN ,/, be/VB it/PRP a/DT quick/JJ consultation/NN or/CC dream/NN analyzation/NN ./.
+fortunately/RB ,/, the/DT movie/NN is/VBZ played/VBN out/RP for/IN plenty/NN of/IN laughs/NNS ./.
+director/NN harold/NN ramis/VBZ (/( who/WP also/RB helmed/VBD the/DT comedy/NN multiplicity/NN ,/, which/WDT was/VBD n't/RB half/NN bad/JJ )/) keeps/VBZ the/DT tone/NN peppy/JJ and/CC light/NN ,/, even/RB if/IN it/PRP 's/VBZ sometimes/RB sprinkled/VBN by/IN slight/JJ dramatic/JJ moments/NNS (/( shootings/NNS ca/MD n't/RB always/RB be/VB taken/VBN for/IN laughs/NNS ,/, you/PRP know/VBP )/) ./.
+deniro/NN does/VBZ some/DT of/IN his/PRP$ finest/JJS comic/JJ work/NN since/IN the/DT king/NN of/IN comedy/NN ,/, giving/VBG off/RP a/DT somewhat/RB similar/JJ performance/NN to/TO his/PRP$ role/NN in/IN goodfellas/NNS ,/, but/CC with/IN a/DT bit/NN of/IN a/DT lighter/JJR heart/NN ./.
+(/( a/DT scene/NN where/WRB he/PRP tries/VBZ to/TO display/VB his/PRP$ anger/NN over/IN the/DT phone/NN and/CC fails/VBZ miserably/RB is/VBZ hilarious/JJ ./. )/)
+crystal/NN plays/VBZ an/DT excellent/JJ straight/JJ man/NN to/TO deniro/NN 's/POS character/NN ,/, uplifting/VBG him/PRP from/IN such/JJ bombs/NNS as/IN father/NN 's/POS day/NN and/CC my/PRP$ giant/NN ./.
+kudrow/NN is/VBZ also/RB a/DT hoot/NN as/IN crystal/NN 's/POS wife-to-be/NN ,/, who/WP 's/VBZ on/IN the/DT verge/NN of/IN a/DT breakdown/NN thanks/NNS to/TO deniro/VB 's/POS presence/NN ./.
+is/VBZ the/DT movie/NN perfect/VB ?/.
+not/RB really/RB ,/, thanks/NNS to/TO a/DT simplistic/JJ ending/NN and/CC some/DT slightly/RB wasted/VBN moments/NNS with/IN a/DT character/NN portrayed/VBN by/IN chazz/NN palminteri/NN (/( he/PRP 's/VBZ a/DT comic/JJ actor/NN ,/, too/RB ,/, come/VB on/IN ,/, give/VB him/PRP some/DT more/JJR !/. )/) ,/, but/CC it/PRP is/VBZ an/DT enjoyable/JJ romp/NN that/WDT lets/VBZ deniro/NN do/VB something/NN different/JJ but/CC same/JJ for/IN a/DT change/NN ,/, taking/VBG his/PRP$ dramatic/JJ act/NN to/TO a/DT new/JJ field/NN of/IN comedy/NN ./.
+kudos/NNS to/TO crystal/VB and/CC kudrow/VB for/IN not/RB just/RB making/VBG it/PRP his/PRP$ show/NN ,/, either/RB ./.
+line/NN of/IN the/DT movie/NN :/: crystal/NN :/: ``/`` when/WRB you/PRP said/VBD you/PRP needed/VBD family/NN therapy/NN ,/, this/DT is/VBZ not/RB the/DT family/NN i/NNS had/VBD in/IN mind/NN !/. ``/``

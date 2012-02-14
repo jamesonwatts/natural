@@ -1,0 +1,42 @@
+jonathan/NN demme/NN 's/POS _beloved_/NN ,/, based/VBN on/IN the/DT book/NN toni/NN morrison/NN ,/, is/VBZ a/DT study/NN in/IN skillful/JJ literary/JJ adaptation/NN ./.
+on/IN the/DT one/CD hand/NN ,/, the/DT film/NN manages/VBZ to/TO recreate/VB key/JJ moments/NNS from/IN the/DT novel/NN ,/, evoking/VBG morrison/NN 's/POS pragmatic/JJ narrative/JJ style/NN without/IN using/VBG her/PRP$ authorial/JJ voice/NN ./.
+on/IN the/DT other/JJ hand/NN ,/, beloved/VBD omits/VBZ the/DT some/DT of/IN the/DT finer/NN details/NNS of/IN the/DT book/NN ,/, favoring/VBG an/DT ambiguously/RB defined/VBN back/RB story/NN upon/IN which/WDT to/TO build/VB the/DT story/NN 's/POS main/JJ events/NNS ./.
+this/DT choice/NN is/VBZ a/DT smartly/RB made/VBN one/CD ,/, for/IN it/PRP creates/VBZ an/DT open/JJ space/NN in/IN which/WDT the/DT story/NN 's/POS wide/JJ range/NN of/IN emotions/NNS can/MD gestate/VB and/CC grow/VB ./.
+indeed/RB ,/, the/DT impact/NN of/IN the/DT film/NN is/VBZ so/RB protracted/JJ that/IN much/JJ of/IN it/PRP can/MD not/RB be/VB felt/VBN until/IN long/RB after/IN the/DT end/NN credits/NNS have/VBP rolled/VBN ./.
+_beloved_/NN takes/VBZ place/NN in/IN the/DT second/JJ half/NN of/IN the/DT 19th/JJ century/NN ,/, during/IN the/DT so-called/JJ reconstruction/NN era/NN after/IN the/DT civil/JJ war/NN ./.
+for/IN newly-freed/JJ slaves/NNS ,/, it/PRP is/VBZ a/DT time/NN of/IN confusion/NN and/CC turmoil/NN ./.
+oprah/NN winfrey/NN is/VBZ sethe/DT ,/, a/DT slave/NN who/WP escaped/VBD a/DT kentucky/JJ plantation/NN and/CC took/VBD her/PRP$ children/NNS to/TO an/DT ohio/NN farmhouse/NN ,/, where/WRB she/PRP hoped/VBD the/DT terror/NN would/MD end/VB ./.
+what/WP she/PRP did/VBD not/RB know/VB was/VBD that/IN it/PRP would/MD follow/VB her/PRP there/RB ,/, and/CC remain/VBP with/IN her/PRP$ long/JJ after/IN the/DT physical/JJ threat/NN had/VBD vanished/VBN ./.
+_beloved_/LS ultimately/RB tells/VBZ the/DT story/NN of/IN sethe/NN 's/POS search/NN for/IN forgiveness/NN ,/, one/CD long-hampered/JJ by/IN an/DT unforgettable/JJ sin/NN ./.
+the/DT film/NN starts/VBZ off/RP on/IN a/DT dreary/JJ day/NN ten/NN years/NNS after/IN sethe/NN 's/POS escape/NN ,/, as/IN a/DT violent/JJ ,/, unseen/JJ energy/NN rocks/VBZ her/PRP$ dilapidated/JJ farmhouse/NN ./.
+invisible/JJ hands/NNS terrorize/VB her/PRP$ family/NN ,/, flinging/VBG objects/NNS across/IN rooms/NNS ,/, shaking/VBG tables/NNS ,/, rattling/VBG floorboards/NNS ./.
+sethe/DT 's/POS sons/NNS run/VBP away/RB ,/, perhaps/RB for/IN good/JJ ,/, leaving/VBG sethe/NN and/CC her/PRP$ daughter/NN denver/NN to/TO fend/VB for/IN themselves/PRP ./.
+demme/NN 's/POS matter-of-fact/JJ handling/NN of/IN this/DT supernatural/JJ element/NN is/VBZ just/RB one/CD of/IN _beloved_/NN 's/POS intriguing/JJ aspects/NNS ./.
+all/DT of/IN the/DT characters/NNS take/VBP for/IN granted/VBN that/IN ghosts/NNS are/VBP real/JJ ./.
+when/WRB paul/NN d/NN (/( danny/JJ glover/NN )/) --/: a/DT former/JJ slave/NN who/WP escaped/VBD kentucky/JJ along/IN with/IN sethe/DT --/: arrives/VBZ at/IN the/DT house/NN eight/CD years/NNS later/RB and/CC is/VBZ confronted/VBN with/IN the/DT ghost/NN 's/POS hellish/JJ visions/NNS ,/, he/PRP does/VBZ n't/RB run/VB in/IN terror/NN ./.
+instead/RB ,/, he/PRP asks/VBZ who/WP the/DT ghost/NN is/VBZ ./.
+as/IN in/IN morrison/NN 's/POS novel/NN ,/, demme/NN quickly/RB establishes/VBZ that/IN the/DT horror/NN of/IN the/DT story/NN will/MD not/RB come/VB from/IN the/DT fact/NN of/IN the/DT ghost/NN itself/PRP ,/, but/CC from/IN the/DT terrifying/JJ past/NN in/IN which/WDT the/DT ghost/NN was/VBD created/VBN ./.
+sethe/DT is/VBZ the/DT one/CD being/VBG haunted/VBN ,/, but/CC the/DT ghost/NN in/IN the/DT house/NN is/VBZ the/DT least/JJS of/IN her/PRP$ fears/NNS ./.
+in/IN fact/NN ,/, the/DT ghost/NN is/VBZ one/CD of/IN the/DT reasons/NNS she/PRP chooses/VBZ to/TO stay/VB ./.
+the/DT story/NN takes/VBZ an/DT bizarre/JJ turn/NN with/IN the/DT appearance/NN of/IN beloved/VBN (/( thandie/IN newton/NN )/) ,/, a/DT young/JJ black-clad/JJ woman/NN who/WP appears/VBZ on/IN sethe/NN 's/POS front/NN lawn/NN ,/, leaned/VBD christ-like/JJ against/IN a/DT tree/NN stump/NN ./.
+sethe/NN and/CC denver/NN immediately/RB take/VB to/TO the/DT rasping/NN woman/NN and/CC try/VB to/TO nurse/VB her/PRP to/TO health/NN ./.
+they/PRP know/VBP not/RB who/WP she/PRP is/VBZ ,/, but/CC that/DT does/VBZ n't/RB matter/VB ./.
+only/RB paul/NN d/NN is/VBZ suspicious/JJ of/IN the/DT stranger/NN ./.
+little/RB does/VBZ the/DT family/NN know/NN that/WDT beloved/VBD will/MD bring/VB about/IN many/JJ changes/NNS ,/, and/CC force/VB sethe/DT to/TO release/VB a/DT guilt/NN she/PRP has/VBZ held/VBN onto/IN so/RB urgently/RB for/IN eighteen/CD years/NNS ./.
+winfrey/NN is/VBZ arguably/RB beloved/VBN 's/POS greatest/JJS asset/NN ./.
+she/PRP inhabits/VBZ the/DT role/NN of/IN sethe/NN so/RB convincingly/RB it/PRP is/VBZ hard/JJ to/TO believe/VB this/DT is/VBZ the/DT same/JJ woman/NN who/WP shines/VBZ brightly/RB on/IN a/DT tv/NN talk/NN show/NN ./.
+lisa/NN gay/JJ hamilton/NN does/VBZ an/DT impressive/JJ job/NN in/IN the/DT emotionally/RB demanding/VBG role/NN as/IN the/DT younger/JJR sethe/NN ,/, whose/WP$ appalling/JJ actions/NNS make/VBP her/PRP the/DT disturbed/JJ woman/NN we/PRP see/VBP eighteen/CD years/NNS later/RB ./.
+danny/JJ glover/NN is/VBZ affable/JJ as/IN the/DT sympathetic/JJ paul/NN d/NN ,/, as/IN is/VBZ kimberly/RB elise/RB as/IN denver/NN ,/, sethe/NN 's/POS wanderlusting/VBG daughter/NN ./.
+as/IN sethe/NN 's/POS sage-like/JJ mother-in-law/NN old/JJ baby/NN suggs/NNS ,/, beah/NN richards/NNS authoritatively/RB commands/VBZ every/DT scene/NN in/IN which/WDT she/PRP appears/VBZ ./.
+the/DT film/NN 's/POS least/JJS palatable/JJ choice/NN of/IN casting/NN is/VBZ unfortunately/RB that/DT of/IN the/DT role/NN of/IN beloved/VBN herself/PRP ./.
+thandie/IN newton/NN plays/VBZ the/DT glassy-eyed/JJ girl/NN with/IN a/DT demented/JJ fervor/NN which/WDT is/VBZ endearing/VBG at/IN first/JJ ,/, but/CC which/WDT becomes/VBZ off-putting/JJ and/CC unintentionally/RB laughable/JJ by/IN the/DT end/NN ./.
+departing/VBG from/IN the/DT honed/VBN aesthetic/JJ he/PRP used/VBD in/IN such/JJ films/NNS as/IN _the/DT silence/NN of/IN the/DT lambs_/NN and/CC _melvin/NN &/CC howard_/NN ,/, director/NN demme/NN has/VBZ used/VBN a/DT bit/NN of/IN dramatic/JJ overstatement/NN to/TO get/VB across/IN the/DT vivid/JJ descriptions/NNS in/IN morrison/NN 's/POS novel/NN ./.
+totemic/JJ camera/NN shots/NNS and/CC color-saturated/JJ scenery/NN are/VBP decidedly/RB uncommon/JJ in/IN demme/NN 's/POS films/NNS ,/, but/CC the/DT few/JJ he/PRP uses/VBZ here/RB work/NN to/TO the/DT film/NN 's/POS benefit/NN ./.
+_beloved_/LS 's/POS most/JJS memorable/JJ scenes/NNS are/VBP those/DT of/IN baby/NN suggs/NNS '/POS gatherings/NNS in/IN a/DT forest/NN clearing/NN ,/, where/WRB the/DT bright/JJ yellow-greens/NNS of/IN nature/NN entrance/NN the/DT viewer/NN as/RB much/RB as/IN suggs/NNS '/POS words/NNS do/VBP ./.
+for/IN the/DT most/JJS part/NN ,/, though/RB ,/, demme/NN maintains/VBZ his/PRP$ trademark/NN directorial/NN neutrality/NN ./.
+this/DT ,/, combined/VBN with/IN morrison/NN 's/POS equally/RB frugal/JJ method/NN of/IN storytelling/NN ,/, may/MD make/VB _beloved_/NN somewhat/RB of/IN a/DT challenge/NN to/TO watch/VB ,/, even/RB to/TO those/DT familiar/JJ with/IN the/DT book/NN ./.
+though/IN the/DT film/NN compliments/VBZ the/DT book/NN extraordinarily/RB well/RB ,/, it/PRP falls/VBZ short/JJ in/IN allowing/VBG the/DT sort/NN of/IN accessibility/NN one/CD usually/RB expects/VBZ from/IN a/DT film/NN ./.
+nothing/NN is/VBZ spoon-fed/JJ to/TO the/DT viewer/NN ./.
+morrison/NN 's/POS novel/NN is/VBZ just/RB as/RB enigmatic/JJ ,/, but/CC unlike/IN a/DT movie/NN ,/, a/DT book/NN can/MD be/VB put/VBN down/RP to/TO allow/VB the/DT various/JJ undercurrents/NNS and/CC themes/NNS to/TO churn/VB and/CC absorb/VB ./.
+the/DT movie/NN begins/VBZ like/IN _poltergeist_/NN ,/, and/CC ends/VBZ like/IN _the/DT color/NN purple_/NN ,/, with/IN shades/NNS of/IN _the/DT scarlet/NN letter_/NN and/CC _little/JJ women_/NN somewhere/RB in/IN the/DT middle/NN ./.
+taken/VBN as/IN a/DT whole/NN ,/, beloved/VBD is/VBZ a/DT disquieting/JJ ,/, one-of-a-kind/JJ experience/NN ,/, one/CD to/TO be/VB viewed/VBN with/IN guards/NNS down/IN and/CC spirits/NNS in/IN abeyance/NN ./.

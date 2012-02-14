@@ -1,0 +1,27 @@
+capsule/NN :/: the/DT verma/NN family/NN is/VBZ having/VBG a/DT wedding/NN and/CC all/PDT the/DT relatives/NNS will/MD come/VB for/IN the/DT multi-day/JJ festivities/NNS ./.
+mira/NN nair/NN 's/POS film/NN is/VBZ pleasant/JJ enough/RB with/IN a/DT little/JJ human/JJ drama/NN ,/, a/DT few/JJ family/NN secrets/NNS ,/, some/DT sadness/NN and/CC some/DT happiness/NN ./.
+you/PRP have/VBP seen/VBN it/PRP all/DT before/RB ,/, but/CC perhaps/RB not/RB from/IN india/NN ./.
+the/DT photography/NN is/VBZ colorful/JJ and/CC the/DT music/NN is/VBZ very/RB agreeable/JJ ./.
+,/, low/JJ +2/CD (/( -4/CD to/TO +4/CD )/)
+mira/NN nair/NN previously/RB directed/VBD salaam/NN bombay/NN and/CC mississippi/NN masala/NN ./.
+her/PRP$ newest/JJS film/NN ,/, written/VBN by/IN sabrina/NN dhawan/NN ,/, is/VBZ very/RB similar/JJ to/TO previous/JJ films/NNS like/IN betsy/NN 's/POS wedding/NN but/CC it/PRP is/VBZ set/VBN in/IN new/JJ delhi/NNS ./.
+a/DT wealthy/JJ family/NN is/VBZ having/VBG a/DT wedding/NN ./.
+an/DT indian/JJ wedding/NN is/VBZ a/DT multi-day/JJ affair/NN as/RB much/RB a/DT family/NN reunion/NN as/IN a/DT nuptial/JJ ./.
+even/RB more/RBR than/IN in/IN the/DT us/PRP ,/, it/PRP is/VBZ an/DT excuse/NN for/IN a/DT lavish/JJ and/CC extravagant/JJ family/NN get-together/RB ./.
+the/DT film/NN shows/VBZ us/PRP what/WP the/DT family/NN does/VBZ together/RB and/CC at/IN the/DT same/JJ time/NN follows/VBZ several/JJ family/NN members/NNS '/POS individual/JJ story/NN lines/NNS ./.
+aditi/NN verma/NN is/VBZ marrying/VBG hemant/NN ,/, an/DT indian/JJ engineer/NN working/VBG in/IN the/DT us/PRP ./.
+she/PRP had/VBD previously/RB had/VBN a/DT relationship/NN with/IN vikram/NN ,/, her/PRP$ supervisor/NN ./.
+latit/RB ,/, her/PRP$ father/NN (/( played/VBN by/IN naseeruddin/NN shah/NN )/) ,/, is/VBZ juggling/VBG many/JJ problems/NNS ,/, not/RB the/DT least/JJS of/IN which/WDT is/VBZ worrying/VBG about/IN the/DT caterer/NN has/VBZ hired/VBN pk/NN dubey/NN ./.
+dubey/NN is/VBZ a/DT rather/RB eccentric/JJ man/NN with/IN a/DT taste/NN for/IN eating/VBG the/DT marigolds/NNS he/PRP uses/VBZ for/IN decoration/NN ./.
+even/RB dubey/NN will/MD soon/RB be/VB romantically/RB entangled/VBN when/WRB he/PRP becomes/VBZ interested/JJ in/IN alice/NN ,/, one/CD of/IN the/DT family/NN servants/NNS ./.
+several/JJ family/NN members/NNS arrive/VBP giving/VBG rise/NN to/TO several/JJ plotlines/NNS involving/VBG sex/NN ,/, family/NN secrets/NNS ,/, or/CC both/DT ./.
+there/EX are/VBP heartbreaks/NNS and/CC there/EX are/VBP people/NNS falling/VBG in/IN love/NN ./.
+some/DT of/IN the/DT subjects/NNS covered/VBN are/VBP probably/RB near/IN taboo/NN for/IN indian/JJ films/NNS ./.
+western/JJ audiences/NNS will/MD appreciate/VB a/DT look/NN at/IN unfamiliar/JJ indian/JJ customs/NNS like/IN women/NNS painting/VBG their/PRP$ hands/NNS with/IN henna/NN ./.
+on/IN the/DT other/JJ hand/NN it/PRP was/VBD not/RB clear/JJ (/( to/TO me/PRP at/IN least/JJS )/) if/IN scenes/NNS like/IN the/DT family/NN singing/NN together/RB are/VBP typical/JJ of/IN indian/JJ culture/NN or/CC if/IN they/PRP are/VBP a/DT convention/NN of/IN indian/JJ musical/JJ films/NNS ./.
+this/DT seems/VBZ a/DT particularly/RB westernized/VBN family/NN with/IN the/DT father/NN wearing/VBG american/JJ designer/NN sweaters/NNS and/CC the/DT family/NN speaking/VBG mostly/RB english/JJ ./.
+the/DT latter/NN will/MD ,/, however/RB ,/, help/VBP with/IN an/DT international/JJ release/NN ./.
+sabrina/NN dhawan/NN 's/POS screenplay/NN is/VBZ vibrant/JJ with/IN witty/JJ dialog/NN ./.
+we/PRP have/VBP seen/VBN films/NNS with/IN plotting/VBG very/RB much/RB like/IN this/DT ,/, but/CC the/DT indian/JJ setting/NN makes/VBZ a/DT great/JJ deal/NN of/IN difference/NN ./.
+director/NN mira/NN nair/NN calls/VBZ the/DT film/NN an/DT affirmation/NN of/IN life/NN ./.
+i/JJ rate/NN it/PRP a/DT 7/CD on/IN the/DT 0/CD to/TO 10/CD scale/NN and/CC a/DT low/JJ +2/CD on/IN the/DT -4/CD to/TO +4/CD scale/NN ./.

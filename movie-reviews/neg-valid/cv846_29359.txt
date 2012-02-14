@@ -1,0 +1,50 @@
+capsule/NN :/: the/DT running/VBG gag/NN pair/NN of/IN characters/NNS from/IN all/DT of/IN kevin/NN smith/NN 's/POS films/NNS gets/VBZ their/PRP$ own/JJ movie/NN ./.
+the/DT gags/NNS are/VBP sporadically/RB funny/JJ ./.
+it/PRP is/VBZ more/JJR than/IN occasionally/RB funny/JJ for/IN teens/NNS who/WP are/VBP fond/NN of/IN scatological/JJ humor/NN and/CC anti-gay/JJ jokes/NNS ./.
+the/DT plot/NN is/VBZ weak/JJ and/CC the/DT leads/NNS are/VBP not/RB a/DT particularly/RB funny/JJ comic/JJ team/NN ./.
+the/DT little/JJ inside/JJ jokes/NNS and/CC digs/NNS at/IN other/JJ entertainment/NN and/CC particularly/RB at/IN kevin/JJ smith/JJ films/NNS are/VBP the/DT best/JJS features/NNS of/IN the/DT film/NN ./.
+sadly/RB for/IN me/PRP they/PRP were/VBD just/RB not/RB funny/VB enough/RB to/TO make/VB the/DT film/NN worth/JJ watching/NN ./.
+this/DT feels/NNS like/IN the/DT high/JJ school/NN skit/NN that/IN that/IN the/DT principal/NN would/MD not/RB let/VB the/DT kids/NNS do/VBP on/IN talent/NN night/NN ./.
+(/( and/CC it/PRP turns/VBZ out/RP he/PRP had/VBD very/RB good/JJ reasons/NNS ./. )/)
+,/, low/JJ 0/CD (/( -4/CD to/TO +4/CD )/)
+a/DT film/NN needs/VBZ a/DT plot/NN ./.
+it/PRP needs/VBZ characters/NNS for/IN empathy/JJ value/NN ./.
+it/PRP needs/VBZ a/DT story/NN and/CC an/DT emotional/JJ center/NN ./.
+if/IN a/DT film/NN is/VBZ just/RB a/DT chain/NN of/IN jokes/NNS it/PRP can/MD only/RB be/VB so/RB good/JJ and/CC any/DT entertainment/NN value/NN will/MD succeed/VB or/CC fail/VB based/VBN on/IN how/WRB funny/JJ the/DT jokes/NNS are/VBP ./.
+kevin/NN smith/NN has/VBZ now/RB made/VBN two/CD satisfying/JJ films/NNS ,/, clerks/NNS and/CC chasing/VBG amy/NN ./.
+with/IN dogma/NN he/PRP tried/VBD to/TO make/VB a/DT philosophical/JJ religious/JJ comedy/NN and/CC mixed/VBD with/IN a/DT madcap/NN romp/NN ./.
+peter/NN cook/NN and/CC dudley/NN moore/NN did/VBD that/IN very/RB successfully/RB with/IN their/PRP$ bedazzled/VBN ./.
+but/CC getting/VBG the/DT combination/NN to/TO work/NN is/VBZ very/RB hard/JJ to/TO do/VB right/JJ and/CC kevin/JJ smith/NN 's/POS fecal/JJ monsters/NNS in/IN dogma/NN were/VBD not/RB the/DT way/NN to/TO do/VB it/PRP ./.
+his/PRP$ remaining/VBG two/CD films/NNS ,/, mallrats/NNS and/CC his/PRP$ new/JJ jay/NN and/CC silent/JJ bob/NN strike/NN back/RB are/VBP aimed/VBN squarely/RB at/IN a/DT teenage/JJ audience/NN ./.
+jay/NN and/CC silent/JJ bob/NN strike/NN back/RB is/VBZ a/DT compendium/NN of/IN gay/JJ jokes/NNS ,/, penis/NN jokes/NNS ,/, flatulence/NN jokes/NNS ,/, film/NN pastiches/NNS ,/, and/CC in-jokes/NNS ./.
+how/WRB funny/JJ the/DT jokes/NNS are/VBP will/MD be/VB a/DT subjective/JJ call/NN ./.
+for/IN me/PRP ,/, the/DT vast/JJ majority/NN of/IN the/DT jokes/NNS were/VBD just/RB not/RB very/RB funny/JJ ./.
+there/EX was/VBD not/RB enough/JJ cleverness/NN or/CC variety/NN ./.
+it/PRP is/VBZ funny/JJ at/IN most/RBS once/RB or/CC twice/RB to/TO accuse/VB someone/NN of/IN being/VBG gay/JJ ./.
+penis/NN jokes/NNS work/VBP only/RB so/RB many/JJ times/NNS ./.
+showing/VBG up/RP as/IN minor/JJ characters/NNS in/IN every/DT kevin/NN smith/NN film/NN jay/NN and/CC silent/JJ bob/NN were/VBD a/DT clever/JJ pair/NN of/IN human/JJ running/VBG gags/NNS ./.
+they/PRP were/VBD sort/NN of/IN the/DT modern/JJ equivalents/NNS of/IN naunton/NN wayne/NN and/CC basil/NN radford/NN ,/, the/DT comic/JJ duo/NN who/WP showed/VBD up/RP satirizing/VBG the/DT english/JJ middle/JJ class/NN in/IN several/JJ good/JJ british/JJ post-war/JJ films/NNS including/VBG dead/JJ of/IN night/NN ,/, the/DT lady/JJ vanishes/NNS ,/, and/CC passport/NN to/TO pimlico/VB ./.
+jay/NN and/CC silent/JJ bob/NN were/VBD originally/RB supposedly/RB typical/JJ generation/NN x/NN stoners/NNS ./.
+as/IN the/DT series/NN wore/VBD on/IN they/PRP had/VBD larger/JJR and/CC larger/JJR parts/NNS ./.
+in/IN jay/NN and/CC silent/JJ bob/NN strike/NN back/RB they/PRP are/VBP the/DT leads/NNS ./.
+jay/NN and/CC silent/JJ bob/NN (/( played/VBN by/IN jason/NN mewes/NNS and/CC kevin/VB smith/NN )/) are/VBP chased/VBN away/RB from/IN the/DT front/NN of/IN the/DT convenience/NN store/NN where/WRB they/PRP were/VBD dealing/VBG drugs/NNS in/IN clerks/NNS ./.
+this/DT leaves/VBZ them/PRP at/IN loose/JJ ends/NNS ./.
+they/PRP are/VBP not/RB sure/JJ what/WP would/MD be/VB worthwhile/JJ to/TO do/VB with/IN their/PRP$ lives/NNS when/WRB they/PRP hear/VBP that/IN a/DT comic/JJ book/NN with/IN characters/NNS visually/RB modeled/VBN on/IN them/PRP will/MD be/VB adapted/VBN into/IN a/DT movie/NN ./.
+they/PRP decide/VBP to/TO devote/VB their/PRP$ lives/NNS to/TO wrecking/VBG the/DT movie/NN or/CC getting/VBG some/DT of/IN that/DT big/JJ movie/NN industry/NN cash/NN ./.
+so/IN it/PRP is/VBZ off/RP to/TO hollywood/VB to/TO shake/VB down/RP the/DT movie/NN company/NN and/CC having/VBG adventures/NNS along/IN the/DT way/NN ./.
+the/DT film/NN is/VBZ mostly/RB about/IN their/PRP$ adventures/NNS on/IN the/DT road/NN and/CC when/WRB they/PRP get/VBP to/TO hollywood/VB
+the/DT problem/NN with/IN this/DT comedy/NN team/NN is/VBZ that/IN neither/DT really/RB pulls/VBZ his/PRP$ weight/NN to/TO make/VB the/DT film/NN funny/NN ./.
+silent/JJ bob/NN ,/, being/VBG silent/JJ ,/, can/MD only/RB contribute/VB to/TO the/DT comedy/NN by/IN reacting/VBG with/IN that/DT very/RB expressive/JJ face/NN of/IN his/PRP$ ./.
+this/DT makes/VBZ his/PRP$ piece/NN of/IN the/DT comedy/NN even/RB less/JJR than/IN a/DT straight/JJ man/NN like/IN a/DT dean/JJ martin/NN or/CC bud/NN abbott/NN would/MD have/VB ./.
+jay/NN has/VBZ to/TO be/VB the/DT comic/JJ ./.
+he/PRP could/MD carry/VB the/DT load/NN for/IN both/DT if/IN he/PRP were/VBD extremely/RB inventive/JJ ./.
+the/DT problem/NN is/VBZ that/IN he/PRP is/VBZ not/RB sufficiently/RB funny/JJ ./.
+he/PRP is/VBZ too/RB bland/JJ to/TO be/VB the/DT comic/JJ half/NN and/CC his/PRP$ lines/NNS just/RB do/VBP not/RB show/VB any/DT comic/JJ flair/NN ./.
+so/RB jay/JJ and/CC silent/JJ bob/NN are/VBP a/DT long/JJ way/NN from/IN being/VBG a/DT successful/JJ comic/JJ team/NN ./.
+their/PRP$ starring/VBG roles/NNS and/CC the/DT low/JJ humor/NN make/VBP this/DT a/DT comedy/NN for/IN those/DT young/JJ at/IN mind/NN and/CC for/IN people/NNS who/WP can/MD laugh/VB at/IN gags/NNS they/PRP have/VBP seen/VBN before/RB --/: sometimes/RB just/RB minutes/NNS before/RB ./.
+like/IN dogma/NN before/IN it/PRP ,/, but/CC definitely/RB not/RB like/IN chasing/VBG amy/NN ,/, this/DT film/NN feels/NNS more/JJR like/IN an/DT amateurish/JJ skit/NN than/IN a/DT real/JJ movie/NN ./.
+certainly/RB neither/CC the/DT plot/NN nor/CC the/DT characters/NNS are/VBP at/IN all/DT involving/VBG ./.
+they/PRP are/VBP excuses/NNS for/IN gags/NNS ,/, many/JJ of/IN which/WDT still/RB fall/VBP flat/JJ ./.
+it/PRP is/VBZ dogma/NN without/IN any/DT of/IN the/DT humorous/JJ theological/JJ content/NN ./.
+the/DT film/NN does/VBZ not/RB offer/VB much/RB to/TO an/DT adult/NN audience/NN ./.
+i/JJ rate/NN it/PRP 4/CD on/IN the/DT 0/CD to/TO 10/CD scale/NN and/CC a/DT low/JJ 0/CD on/IN the/DT -4/CD to/TO +4/CD scale/NN ./.

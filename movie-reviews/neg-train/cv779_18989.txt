@@ -1,0 +1,10 @@
+9/CD :/: its/PRP$ pathetic/JJ attempt/NN at/IN ``/`` improving/VBG ``/`` on/IN a/DT shakespeare/JJ classic/NN ./.
+8/CD :/: its/PRP$ just/RB another/DT piece/NN of/IN teen/JJ fluff/NN ./.
+7/CD :/: kids/NNS in/IN high/JJ school/NN are/VBP not/RB that/DT witty/NN ./.
+6/CD :/: the/DT wittiness/NN is/VBZ not/RB witty/JJ enough/RB ./.
+5/CD :/: the/DT comedy/NN is/VBZ not/RB funny/JJ ./.
+4/CD :/: the/DT acting/NN is/VBZ poor/JJ ./.
+3/CD :/: the/DT music/NN ./.
+2/CD :/: the/DT poster/NN ./.
+1/CD :/: its/PRP$ worse/JJR than/IN she/PRP 's/VBZ all/PDT that/DT !/.
+10=a/CD classic/JJ 9=borderline/CD classic/JJ 8=excellent/JJ 7=good/JJ 6=better/NN than/IN average/JJ 5=average/JJ 4=disappointing/JJ 3=poor/CD 2=awful/JJ 1=a/CD crap/NN classic/NN

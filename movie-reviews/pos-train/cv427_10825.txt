@@ -1,0 +1,44 @@
+it/PRP 's/VBZ wednesday/NN ,/, march/NN 27/CD ,/, and/CC a/DT murder/NN investigation/NN is/VBZ underway/RB in/IN charlotte/NN ,/, south/JJ carolina/NN ./.
+the/DT crime/NN :/: a/DT young/JJ prostitute/NN ,/, elizabeth/NN (/( renee/VB zellweger/NN )/) ,/, has/VBZ been/VBN brutally/RB slain/RB ./.
+one/CD half/NN of/IN her/PRP$ severed/JJ body/NN was/VBD found/VBN in/IN a/DT bag/NN at/IN the/DT train/NN station/NN ./.
+the/DT other/JJ half/NN was/VBD discovered/VBN in/IN a/DT trunk/NN at/IN the/DT harbor/NN authority/NN ,/, miles/NNS away/RB ./.
+the/DT police/NN duo/NN of/IN braxton/NN (/( chris/NN penn/NN )/) and/CC kennesaw/VB (/( michael/NN rooker/NN )/) are/VBP strapped/VBN for/IN leads/NNS ./.
+at/IN the/DT moment/NN ,/, they/PRP have/VBP only/RB one/CD possible/JJ suspect/NN :/: wayland/NN (/( tim/NN roth/NN )/) ,/, a/DT wealthy/JJ ,/, unemployed/JJ genius/NN who/WP graduated/VBD summa/NN cum/NN laude/NN from/IN princeton/NN and/CC appears/VBZ to/TO be/VB the/DT least/JJS likely/JJ character/NN to/TO commit/VB such/JJ a/DT heinous/JJ act/NN ./.
+that/DT 's/VBZ the/DT premise/NN for/IN deceiver/NN ,/, a/DT new/JJ thriller/NN from/IN the/DT pate/NN brothers/NNS ,/, jonas/NNS and/CC josh/NN ,/, who/WP made/VBD their/PRP$ mark/NN on/IN the/DT film/NN world/NN two/CD years/NNS ago/RB at/IN sundance/NN with/IN the/DT movie/NN the/DT grave/NN ./.
+deceiver/NN plays/VBZ out/RP like/IN a/DT mind/NN game/NN between/IN the/DT intellectually/RB superior/JJ wayland/NN and/CC the/DT two/CD not-/JJ so-bright/JJ cops/NNS (/( captions/NNS early/RB in/IN the/DT proceedings/NNS let/VBP us/PRP know/VBP that/DT wayland/NN 's/POS iq/NN is/VBZ 151/CD ;/: by/IN contrast/NN ,/, kennesaw/NN 's/POS is/VBZ 122/CD and/CC braxton/NN 's/POS is/VBZ 102/CD )/) ./.
+the/DT setting/VBG is/VBZ a/DT police/NN interrogation/NN room/NN where/WRB a/DT lie/NN detector/NN test/NN is/VBZ about/IN to/TO be/VB administered/VBN ./.
+over/IN three/CD days/NNS ,/, as/IN wayland/NN returns/NNS to/TO answer/VB more/JJR questions/NNS ,/, the/DT drama/NN and/CC tension/NN among/IN these/DT three/CD characters/NNS gradually/RB escalates/VBZ until/IN ,/, inevitably/RB ,/, it/PRP boils/VBZ over/RP ./.
+other/JJ plot/NN elements/NNS are/VBP thrown/VBN in/IN for/IN good/JJ measure/NN ./.
+wayland/NN suffers/NNS from/IN a/DT peculiar/JJ kind/NN of/IN epilepsy/NN that/WDT can/MD ,/, in/IN stressful/JJ situations/NNS ,/, render/VB him/PRP virtually/RB catatonic/JJ or/CC extremely/RB violent/JJ ./.
+braxton/NN ,/, a/DT compulsive/JJ gambler/NN ,/, is/VBZ deep/JJ in/IN debt/NN to/TO a/DT local/JJ syndicate/NN ./.
+and/CC kennesaw/NN is/VBZ haunted/VBN by/IN a/DT dark/JJ ,/, abusive/JJ side/NN that/WDT delights/VBZ in/IN terrorizing/VBG women/NNS ,/, especially/RB his/PRP$ wife/NN (/( rosanna/NN arquette/NN )/) ,/, whom/WP he/PRP suspects/VBZ of/IN being/VBG unfaithful/JJ ./.
+the/DT foibles/NNS and/CC failings/NNS of/IN these/DT three/CD are/VBP brought/VBN into/IN the/DT open/NN as/IN the/DT mystery/NN around/IN elizabeth/NN 's/POS death/NN deepens/VBZ and/CC it/PRP becomes/VBZ unclear/JJ who/WP has/VBZ the/DT upper/JJ hand/NN :/: the/DT suspect/NN or/CC his/PRP$ questioners/NNS ./.
+deceiver/NN ,/, which/WDT mostly/RB transpires/VBZ in/IN a/DT dimly-lit/JJ room/NN and/CC involves/VBZ a/DT lot/NN of/IN smart/JJ dialogue/NN ,/, has/VBZ the/DT feel/NN of/IN a/DT david/JJ mamet/NN play/NN :/: edgy/JJ ,/, claustrophobic/JJ ,/, and/CC tense/NN ./.
+the/DT atmosphere/NN is/VBZ explosive/JJ ,/, and/CC some/DT of/IN pivotal/JJ moments/NNS of/IN confrontation/NN are/VBP riveting/VBG ./.
+deceiver/NN has/VBZ the/DT power/NN to/TO grab/VB an/DT audience/NN ./.
+unfortunately/RB ,/, in/IN the/DT end/NN ,/, it/PRP succumbs/VBZ to/TO the/DT need/NN to/TO throw/VB in/RP one/CD last/JJ ,/, unexpected/JJ twist/NN ,/, and/CC this/DT is/VBZ its/PRP$ undoing/NN ./.
+for/IN ,/, while/IN this/DT surprise/NN will/MD certainly/RB shock/VB most/JJS viewers/NNS ,/, it/PRP also/RB stretches/VBZ our/PRP$ credulity/NN too/RB much/RB ,/, and/CC raises/VBZ more/JJR questions/NNS than/IN it/PRP answers/NNS ./.
+it/PRP 's/VBZ only/RB an/DT effective/JJ wrap-up/NN if/IN you/PRP do/VBP n't/RB think/VB too/RB carefully/RB about/IN its/PRP$ full/JJ implications/NNS ./.
+of/IN course/NN ,/, the/DT film/NN as/IN a/DT whole/JJ plays/NNS fast/RB and/CC loose/RB with/IN reality/NN and/CC logic/NN ./.
+police/NN procedure/NN is/VBZ totally/RB ignored/VBN and/CC it/PRP 's/VBZ almost/RB impossible/JJ to/TO accept/VB that/IN any/DT criminal/JJ investigation/NN would/MD or/CC could/MD proceed/VB in/IN this/DT manner/NN ./.
+but/CC the/DT real/JJ focus/NN in/IN deceiver/NN is/VBZ on/IN character/NN interaction/NN ,/, not/RB plot/NN details/NNS ./.
+deceiver/RBR only/RB occasionally/RB gets/VBZ out/IN of/IN the/DT police/NN station/NN ,/, and/CC those/DT instances/NNS occur/VBP primarily/RB during/IN flashbacks/NNS featuring/VBG the/DT prostitute/NN ./.
+the/DT pates/NNS employ/VBP a/DT number/NN of/IN interesting/JJ techniques/NNS to/TO present/VB vignettes/NNS from/IN elizabeth/NN 's/POS final/JJ days/NNS and/CC hours/NNS ./.
+the/DT most/RBS intriguing/JJ of/IN these/DT is/VBZ to/TO use/VB an/DT unreliable/JJ narrator/NN while/IN underlining/VBG the/DT discrepancies/NNS in/IN his/PRP$ voice-over/NN by/IN visually/RB showing/VBG what/WP really/RB happened/VBD ./.
+moments/NNS like/IN this/DT are/VBP too/RB effective/JJ to/TO be/VB dismissed/VBN as/IN gimmicks/NNS ./.
+the/DT movie/NN ,/, obviously/RB fashioned/VBN in/IN the/DT manner/NN of/IN classic/JJ film/NN noir/NN ,/, drips/VBZ atmosphere/NN ./.
+there/EX are/VBP some/DT fascinating/JJ stylistic/JJ touches/NNS ;/: for/IN example/NN ,/, although/IN the/DT setting/NN is/VBZ contemporary/JJ ,/, all/DT of/IN the/DT telephones/NNS are/VBP old-fashioned/JJ ,/, rotary/JJ models/NNS ./.
+cinematographer/NN bill/NN butler/NN is/VBZ given/VBN an/DT opportunity/NN to/TO use/VB unconventional/JJ camera/NN work/NN to/TO liven/VBN up/RP deceiver/NN 's/POS look/NN ./.
+some/DT of/IN the/DT things/NNS he/PRP tries/VBZ (/( mostly/RB those/DT that/WDT involve/VBP the/DT contrast/NN between/IN light/NN and/CC shadow/NN )/) work/NN exceptionally/RB well/RB ,/, while/IN others/NNS (/( like/IN any/DT of/IN several/JJ lazy/JJ susan/NN shots/NNS )/) seem/VBP more/RBR like/IN unnecessary/JJ visual/JJ tricks/NNS ./.
+as/IN wayland/NN ,/, tim/NN roth/NN gives/VBZ the/DT film/NN 's/POS top/JJ performance/NN ,/, despite/IN occasionally/RB treading/VBG the/DT tightrope/NN between/IN acting/VBG and/CC overacting/VBG ./.
+roth/NN makes/VBZ us/PRP believe/VB that/DT wayland/NN is/VBZ both/DT as/IN brilliant/NN and/CC as/IN troubled/VBN as/IN he/PRP 's/VBZ supposed/VBN to/TO be/VB ./.
+the/DT other/JJ two/CD leads/NNS ,/, chris/NN penn/NN and/CC michael/NN rooker/NN ,/, are/VBP n't/RB as/RB effective/JJ ./.
+both/DT play/VBP their/PRP$ characters/NNS like/IN familiar/JJ types/NNS ./.
+penn/NN 's/POS performance/NN is/VBZ uninspired/JJ ;/: rooker/NN 's/POS lacks/NNS subtlety/NN ./.
+some/DT of/IN the/DT best/JJS work/NN is/VBZ turned/VBN in/RP by/IN the/DT supporting/VBG actors/NNS ./.
+renee/NN zellweger/NN ,/, in/IN a/DT role/NN that/WDT 's/POS miles/NNS away/RB from/IN her/PRP$ star-making/JJ turn/NN in/IN jerry/NN maguire/NN ,/, brings/VBZ a/DT note/NN of/IN vulnerability/NN and/CC humanity/NN to/TO a/DT part/NN that/WDT could/MD easily/RB have/VB become/VBN a/DT caricature/NN ./.
+rosanna/NN arquette/NN is/VBZ solid/JJ as/IN kennesaw/NN 's/POS wife/NN ,/, and/CC michael/NN parks/NNS delivers/VBZ several/JJ wonderful/JJ scenes/NNS as/IN a/DT psychiatrist/NN who/WP 's/VBZ entrusted/VBN with/IN evaluating/VBG wayland/NN 's/POS condition/NN ./.
+one/CD of/IN the/DT best/JJS things/NNS about/IN deceiver/NN is/VBZ that/IN it/PRP never/RB talks/VBZ down/RP to/TO the/DT audience/NN ./.
+plot/NN points/NNS are/VBP n't/RB hammered/VBN home/NN ,/, and/CC ,/, although/IN the/DT ending/NN has/VBZ its/PRP$ weaknesses/NNS ,/, everything/NN is/VBZ n't/RB spelled/VBN out/RP in/IN bold/JJ letters/NNS ./.
+the/DT pates/NNS give/VBP audience/NN members/NNS credit/NN for/IN having/VBG brains/NNS ,/, which/WDT is/VBZ an/DT increasingly/RB rare/JJ characteristic/NN for/IN film/NN makers/NNS ./.
+occasionally/RB gripping/VBG and/CC never/RB uninteresting/JJ ,/, deceiver/NN is/VBZ a/DT fine/JJ noir/NN effort/NN ./.

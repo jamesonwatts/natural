@@ -1,0 +1,25 @@
+capsule/NN :/: a/DT science/NN fiction/NN allegory/NN ./.
+at/IN the/DT millennium/NN a/DT lethal/JJ contagious/JJ virus/NN has/VBZ hit/VBN taiwan/NN ./.
+officials/NNS have/VBP cut/VBN off/RP water/NN and/CC other/JJ services/NNS to/TO the/DT center/NN of/IN contagion/NN ./.
+life/NN there/EX devolves/VBZ and/CC degenerates/VBZ ./.
+a/DT man/NN in/IN an/DT apartment/NN has/VBZ a/DT hole/NN in/IN his/PRP$ floor/NN and/CC with/IN it/PRP harasses/VBZ his/PRP$ downstairs/NNS neighbor/NN ./.
+a/DT slow/JJ but/CC harrowing/VBG film/NN to/TO be/VB missed/VBN if/IN possible/JJ ./.
+,/, low/JJ -1/CD (/( -4/CD to/TO +4/CD )/)
+-/: the/DT taiwan/NN virus/NN is/VBZ ravaging/VBG taiwan/NN and/CC the/DT part/NN of/IN the/DT city/NN that/WDT is/VBZ the/DT center/NN of/IN the/DT contagion/NN has/VBZ been/VBN evacuated/VBN of/IN anyone/NN who/WP will/MD go/VB ./.
+one/CD apartment/NN building/NN still/RB houses/VBZ people/NNS ./.
+a/DT woman/NN ,/, formerly/RB an/DT office/NN worker/NN ,/, (/( yang/JJ kuei-mei/NN )/) is/VBZ tormented/VBN by/IN her/PRP$ upstairs/NN neighbor/NN (/( lee/NN kang-sheng/NN )/) who/WP has/VBZ a/DT hole/NN cut/VBN by/IN a/DT plumber/NN in/IN the/DT floor/NN and/CC is/VBZ using/VBG it/PRP as/IN a/DT drain/NN ./.
+neighbor/NN runs/VBZ a/DT small/JJ failing/VBG grocery/NN store/NN ./.
+-/: to/TO make/VB things/NNS more/RBR depressing/JJ ,/, it/PRP is/VBZ constantly/RB raining/VBG hard/RB ./.
+-/: upstairs/NN neighbor/NN vomits/NNS through/IN ,/, pours/NNS water/NN ,/, etc/FW ./. a/DT small/JJ and/CC almost/RB entirely/RB one-sided/JJ war/NN starts/NNS ./.
+allegory/NN about/IN callousness/NN and/CC selfishness/NN ./.
+-/: woman/NN is/VBZ living/VBG on/IN a/DT pile/NN of/IN rolls/NNS of/IN toilet/NN tissue/NN ./.
+-/: incongruous/JJ songs/NNS added/VBD to/TO show/VB downstairs/NNS neighbors/NNS dreams/NNS ./.
+these/DT are/VBP the/DT songs/NNS of/IN popular/JJ taiwanese/JJ singer/NN grace/NN chang/NN ./.
+-/: apartment/NN is/VBZ falling/VBG apart/RB ./.
+wallpaper/NN is/VBZ separating/VBG from/IN walls/NNS ./.
+plumbing/NN is/VBZ failing/VBG ./.
+-/: boredom/NN shown/VBN by/IN long/JJ cuts/NNS in/IN which/WDT nothing/NN happens/VBZ ./.
+a/DT lot/NN of/IN film/NN seems/VBZ to/TO be/VB used/VBN up/RP ./.
+-/: this/DT story/NN might/MD have/VB been/VBN done/VBN much/RB better/RBR as/IN a/DT ten-minute/JJ animated/VBN film/NN ./.
+-/: stars/NNS are/VBP considered/VBN to/TO be/VB great/JJ dramatic/JJ actors/NNS by/IN one/CD reviewer/NN ./.
+-/: this/DT film/NN seems/VBZ longer/RBR at/IN 95/CD minutes/NNS most/RBS two-hour/JJ films/NNS ./.

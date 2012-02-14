@@ -1,0 +1,25 @@
+attention/NN moviegoers/NNS :/: you/PRP are/VBP about/IN to/TO enter/VB a/DT meaning-free/JJ zone/NN ./.
+should/MD the/DT sound/JJ system/NN malfunction/NN during/IN your/PRP$ viewing/NN of/IN 200/CD cigarettes/NNS ,/, do/VBP not/RB panic/JJ ./.
+the/DT film/NN will/MD work/VB just/RB as/RB well/RB as/IN a/DT silent/JJ movie/NN ./.
+chronicling/VBG the/DT meaningless/JJ lives/NNS of/IN vain/NN ,/, yuppie/NN types/NNS ,/, the/DT movie/NN covers/VBZ the/DT same/JJ ground/NN as/IN the/DT wilt/JJ stillman/NN films/NNS (/( last/JJ days/NNS of/IN disco/NN ,/, barcelona/NN and/CC metropolitan/NN )/) but/CC without/IN any/DT of/IN his/PRP$ acerbic/JJ wit/NN and/CC the/DT inviting/VBG style/NN of/IN his/PRP$ writing/NN ./.
+first-time/JJ writer/NN shana/NN larsen/NN makes/VBZ the/DT mistake/NN of/IN creating/VBG a/DT couple/NN of/IN dozen/NN characters/NNS and/CC not/RB giving/VBG any/DT of/IN them/PRP any/DT depth/NN ./.
+there/EX is/VBZ n't/RB one/CD of/IN these/DT characters/NNS worth/JJ caring/VBG about/IN ./.
+the/DT movie/NN features/NNS such/PDT a/DT cornucopia/NN of/IN hot/JJ young/JJ stars/NNS that/IN it/PRP looks/VBZ like/IN a/DT celluloid/JJ version/NN of/IN ``/`` people/NNS magazine/NN ./. ``/``
+among/IN others/NNS ,/, the/DT movie/NN features/NNS :/: ben/JJ affleck/NN ,/, casey/NN affleck/NN ,/, david/JJ chappelle/NN ,/, janeane/NN garofalo/NN ,/, gaby/NN hoffmann/NN ,/, catherine/NN kellner/NN ,/, courtney/NN love/NN ,/, jay/NN mohr/NN ,/, martha/NN plimpton/NN ,/, christina/NN ricci/NNS and/CC paul/NN rudd/NN ./.
+and/CC unlike/IN people/NNS magazine/NN ,/, the/DT people/NNS speak/VBP ,/, not/RB that/IN they/PRP have/VBP anything/NN interesting/JJ to/TO say/VB ./.
+it/PRP 's/VBZ new/JJ year/NN 's/POS eve/NN in/IN 1981/CD ,/, and/CC monica/NN (/( martha/NN plimpton/NN )/) is/VBZ preparing/VBG her/PRP$ big/JJ party/NN ./.
+structured/VBN as/IN a/DT series/NN of/IN relatively/RB unrelated/JJ stories/NNS about/IN her/PRP$ guests/NNS on/IN the/DT way/NN to/TO the/DT party/NN ,/, director/NN risa/NN bramon/NN garcia/NN flits/VBZ back/RB and/CC forth/RB among/IN her/PRP$ stars/NNS ./.
+monica/NN 's/POS apartment/NN is/VBZ in/IN ``/`` noho/RB ,/, ``/`` an/DT area/NN that/IN one/CD of/IN the/DT guests/NNS describes/VBZ as/IN ``/`` so/RB cool/JJ ,/, all/DT of/IN the/DT poor/JJ people/NNS live/VBP there/RB ./. ``/``
+typical/JJ of/IN the/DT shallow/JJ couples/NNS in/IN the/DT movie/NN are/VBP kevin/NN (/( paul/NN rudd/NN )/) and/CC his/PRP$ friend/NN and/CC would-be/JJ sexual/JJ partner/NN lucy/NN (/( courtney/NN love/NN )/) ./.
+they/PRP argue/VBP about/IN whether/IN lucy/NN is/VBZ a/DT slut/NN or/CC not/RB since/IN she/PRP sleeps/VBZ with/IN everyone/NN ,/, except/IN him/PRP ,/, of/IN course/NN ./.
+she/PRP dares/VBZ him/PRP to/TO go/VB immediately/RB to/TO a/DT bathroom/NN stall/NN and/CC have/VBP sex/NN with/IN her/PRP ,/, which/WDT turns/VBZ out/RP to/TO be/VB neither/DT erotic/JJ ,/, funny/JJ or/CC successful/JJ --/: rather/RB like/IN the/DT rest/NN of/IN the/DT story/NN ./.
+the/DT movie/NN gets/VBZ its/PRP$ title/NN from/IN the/DT carton/NN of/IN cigarettes/NNS that/IN lucy/NN gives/VBZ kevin/NN for/IN his/PRP$ new/JJ year/NN 's/POS eve/NN birthday/NN ./.
+``/`` cigarettes/NNS are/VBP a/DT shield/NN against/IN emotional/JJ interaction/NN with/IN other/JJ people/NNS ,/, ``/`` kevin/NN later/RB tells/VBZ lucy/NN in/IN a/DT snippet/NN of/IN dialog/NN that/WDT sounds/VBZ profound/JJ only/RB outside/IN the/DT context/NN of/IN the/DT movie/NN ./.
+another/DT character/NN ,/, played/VBN by/IN jay/NN mohr/NN ,/, has/VBZ a/DT problem/NN with/IN his/PRP$ sexual/JJ triumphs/NNS ./.
+every/DT woman/NN he/PRP beds/VBZ falls/VBZ deeply/RB in/IN love/NN with/IN him/PRP by/IN the/DT next/JJ morning/NN ./.
+when/WRB his/PRP$ latest/JJS conquest/NN tells/VBZ him/PRP of/IN her/PRP$ affection/NN for/IN him/PRP ,/, his/PRP$ response/NN is/VBZ ``/`` i/NNS like/IN a/DT lot/NN of/IN people/NNS ./. ``/``
+as/IN the/DT movie/NN finally/RB draws/VBZ to/TO a/DT close/NN ,/, the/DT characters/NNS awaken/VBN from/IN their/PRP$ post-party/JJ game/NN of/IN musical/JJ beds/NNS ./.
+some/DT have/VBP passed/VBN out/RP early/RB from/IN alcohol/NN abuse/NN and/CC remember/NN little/RB ,/, while/IN others/NNS actually/RB have/VBP some/DT clue/NN as/IN to/TO what/WP happened/VBD ./.
+the/DT movie/NN itself/PRP is/VBZ so/RB forgettable/JJ that/IN by/IN the/DT time/NN you/PRP reach/VBP your/PRP$ car/NN in/IN the/DT parking/NN lot/NN ,/, all/DT trace/NN of/IN the/DT film/NN will/MD have/VB vanished/VBN from/IN your/PRP$ mind/NN ,/, which/WDT is/VBZ probably/RB the/DT best/JJS thing/NN that/WDT can/MD be/VB said/VBD about/IN the/DT movie/NN ./.
+200/CD cigarettes/NNS runs/VBZ 1/CD :/: 40/CD ./.
+it/PRP is/VBZ rated/VBN r/NN for/IN profanity/NN ,/, sex/NN and/CC one/CD dope/NN smoking/NN scene/NN and/CC would/MD be/VB acceptable/JJ for/IN older/JJR teenagers/NNS ./.
