@@ -1,6 +1,7 @@
 require 'rubygems'
 base = "/Users/jameson/Projects/natural"
 dir = "#{base}/movie-reviews"
+doc = "#{base}/doc/assn2/"
 Dir.chdir(dir)
 
 #functions
@@ -47,6 +48,52 @@ def ngrams(words)
   }
 end
 
+def get_features(words, features)
+  u = []
+  b = []
+  p = []
+  a = []
+  t = []
+  o = []
+  for word in words
+    if features[:u].include?(word[0])
+      ui = features[:u].index(word[0])+1
+      u << ui unless u.include?(ui)
+    end
+    if features[:p].include?("#{word[0]}/#{word[1]}")
+      pi = features[:p].index("#{word[0]}/#{word[1]}")+1
+      p << pi unless p.include?(pi)
+    end
+    if features[:a].include?("#{word[0]}/#{word[1]}")
+      ai = features[:a].index("#{word[0]}/#{word[1]}")+1
+      a << ai unless a.include?(ai)
+    end
+    if features[:t].include?(word[0])
+      ti = features[:t].index(word[0])+1
+      t << ti unless t.include?(ti)
+    end
+  end
+  for j in 0..words.size-2
+    gram = "#{words[j][0]} #{words[j+1][0]}"
+    if features[:b].include?(gram)
+      bi = features[:b].index(gram)+1
+      b << bi unless b.include?(bi)
+    end
+  end
+  u.sort!
+  u.map!{|c| "#{c}:1.0"}
+  b.sort!
+  b.map!{|d| "#{d}:1.0"}
+  p.sort!
+  p.map!{|e| "#{e}:1.0"}
+  a.sort!
+  a.map!{|f| "#{f}:1.0"}
+  t.sort!
+  t.map!{|g| "#{g}:1.0"}
+
+  return {:u=>u,:b=>b,:p=>p,:a=>a,:t=>t,:o=>o}
+end
+
 ##########################################################################
 #read in files to massive gram array
 tsize = ARGV[0].to_i
@@ -87,7 +134,7 @@ n = unigrams.size
 biarr = grams[:bi].sort_by{|key, value| value}
 bigrams = []
 n.times do
-  bigrams << biarr.shift[0]
+  bigrams << biarr.pop[0]
 end
 
 #create adjectives and pos unigrams
@@ -96,7 +143,7 @@ unigrams_pos = []
 
 grams[:pos].each {|key, value|
   word = get_word(key)
-  adjectives << word[0] if key.include?("/JJ") and value > 3
+  adjectives << key if key.include?("/JJ") and value > 3
   unigrams_pos << key if unigrams.include?(word[0])
 }
 m = adjectives.size
@@ -105,24 +152,31 @@ m = adjectives.size
 unigrams_top = []
 tu = grams[:uni].sort_by{|key, value| value}
 m.times do
-  unigrams_top << tu.shift[0]
+  unigrams_top << tu.pop[0]
 end
-puts "Created Features"
+
+tokens = {:u=>unigrams,:b=>bigrams,:p=>unigrams_pos,:a=>adjectives,:t=>unigrams_top}
+tokens.each{|key, value|
+  puts "#{key}-size: #{value.size}"
+  tmp = []
+  for k in 1..value.size
+    tmp << "#{k}-#{value[k-1]}"
+  end
+  File.open("#{doc}/#{key}.txt", 'w') {|f| f.write(tmp.join("\n")) }
+}
 
 ##########################################################################
-#create feature files
+#create training files
 
-features = {
-  :unigram => [],
-  :bigram => [],
-  :unigram_pos => [],
-  :adjectives => [],
-  :unigram_top => []
-}
+File.open("#{doc}/unigram_train.txt", 'w') {|f| f.write("#unigram\n") }
+File.open("#{doc}/bigram_train.txt", 'w') {|f| f.write("#bigram\n") }
+File.open("#{doc}/unigram_pos_train.txt", 'w') {|f| f.write("#unigram pos\n") }
+File.open("#{doc}/adjectives_train.txt", 'w') {|f| f.write("#adjectives\n") }
+File.open("#{doc}/unigram_top_train.txt", 'w') {|f| f.write("#unigram top\n") }
 
 darr.each_index{|i|
   tsize = ARGV[0].to_i
-  target = (i==1) ? 1 : -1
+  target = (i==1) ? "+1" : "-1"
   Dir.foreach(darr[i]){|x|
     unless x == "." or x == ".."
       test = []
@@ -130,49 +184,72 @@ darr.each_index{|i|
       f.each_line do |line|
         test << line
       end
-      words = get_words(test.join(" "))
 
-      u = []
-      p = []
-      t = []
-      for word in words
-        if unigrams.include?(word[0])
-          ui = unigrams.index(word[0])+1
-          u << ui unless u.include?(ui)
-        end
-        if unigrams_pos.include?("#{word[0]}/#{word[1]}")
-          pi = unigrams_pos.index("#{word[0]}/#{word[1]}")+1
-          p << pi unless p.include?(pi)
-        end
-        if unigrams_top.include?(word[0])
-          ti = unigrams_top.index(word[0])+1
-          t << ti unless t.include?(ti)
-        end
-      end
-      u.sort!
-      u.map!{|x| "#{x}:1.0"}
-      p.sort!
-      p.map!{|y| "#{y}:1.0"}
-      t.sort!
-      t.map!{|z| "#{z}:1.0"}
+      features = get_features(get_words(test.join(" ")),tokens)
 
-      features[:unigram] << "#{target} #{u.join(" ")}"
-      features[:unigram_pos] << "#{target} #{p.join(" ")}"
-      features[:unigram_top] << "#{target} #{t.join(" ")}"
+      File.open("#{doc}/unigram_train.txt", 'a+') {|f| f.write("#{target} #{features[:u].join(" ")}\n") }
+      File.open("#{doc}/bigram_train.txt", 'a+') {|f| f.write("#{target} #{features[:b].join(" ")}\n") }
+      File.open("#{doc}/unigram_pos_train.txt", 'a+') {|f| f.write("#{target} #{features[:p].join(" ")}\n") }
+      File.open("#{doc}/adjectives_train.txt", 'a+') {|f| f.write("#{target} #{features[:a].join(" ")}\n") }
+      File.open("#{doc}/unigram_top_train.txt", 'a+') {|f| f.write("#{target} #{features[:t].join(" ")}\n") }
 
+      puts tsize
       break unless (tsize -= 1) > 0
-    end 
+    end
   }
 }
-puts "Created feature files"
+puts "Created training files"
 
-doc = "#{base}/doc/assn2/"
-File.open("#{doc}/unigram_train.txt", 'w') {|f| f.write(features[:unigram].join("\n")) }
-File.open("#{doc}/unigram_pos_train.txt", 'w') {|f| f.write(features[:unigram_pos].join("\n")) }
-File.open("#{doc}/unigram_top_train.txt", 'w') {|f| f.write(features[:unigram_top].join("\n")) }
+##########################################################################
+#create testing files
 
+File.open("#{doc}/unigram_test.txt", 'w') {|f| f.write("#unigram\n") }
+File.open("#{doc}/bigram_test.txt", 'w') {|f| f.write("#bigram\n") }
+File.open("#{doc}/unigram_pos_test.txt", 'w') {|f| f.write("#unigram pos\n") }
+File.open("#{doc}/adjectives_test.txt", 'w') {|f| f.write("#adjectives\n") }
+File.open("#{doc}/unigram_top_test.txt", 'w') {|f| f.write("#unigram top\n") }
+
+varr = ["neg-valid","pos-valid"]
+varr.each_index{|i|
+  tsize = ARGV[0].to_i
+  target = (i==1) ? "+1" : "-1"
+  Dir.foreach(varr[i]){|x|
+    unless x == "." or x == ".."
+      test = []
+      f = File.open("#{dir}/#{varr[i]}/#{x}", "r")
+      f.each_line do |line|
+        test << line
+      end
+
+      features = get_features(get_words(test.join(" ")),tokens)
+
+      File.open("#{doc}/unigram_test.txt", 'a+') {|f| f.write("#{target} #{features[:u].join(" ")}\n") }
+      File.open("#{doc}/bigram_test.txt", 'a+') {|f| f.write("#{target} #{features[:b].join(" ")}\n") }
+      File.open("#{doc}/unigram_pos_test.txt", 'a+') {|f| f.write("#{target} #{features[:p].join(" ")}\n") }
+      File.open("#{doc}/adjectives_test.txt", 'a+') {|f| f.write("#{target} #{features[:a].join(" ")}\n") }
+      File.open("#{doc}/unigram_top_test.txt", 'a+') {|f| f.write("#{target} #{features[:t].join(" ")}\n") }
+
+      puts tsize
+      break unless (tsize -= 1) > 0
+    end
+  }
+}
+puts "Created testing files"
+
+##########################################################################
+#run svm
 system "#{base}/svm_light/svm_learn #{doc}/unigram_train.txt #{doc}/unigram_model.txt"
+system "#{base}/svm_light/svm_learn #{doc}/bigram_train.txt #{doc}/bigram_model.txt"
 system "#{base}/svm_light/svm_learn #{doc}/unigram_pos_train.txt #{doc}/unigram_pos_model.txt"
+system "#{base}/svm_light/svm_learn #{doc}/adjectives_train.txt #{doc}/adjectives_model.txt"
 system "#{base}/svm_light/svm_learn #{doc}/unigram_top_train.txt #{doc}/unigram_top_model.txt"
+
+puts "Running Models"
+
+system "#{base}/svm_light/svm_classify #{doc}/unigram_test.txt #{doc}/unigram_model.txt #{doc}/unigram_predictions.txt"
+system "#{base}/svm_light/svm_classify #{doc}/bigram_test.txt #{doc}/bigram_model.txt #{doc}/bigram_predictions.txt"
+system "#{base}/svm_light/svm_classify #{doc}/unigram_pos_test.txt #{doc}/unigram_pos_model.txt #{doc}/unigram_pos_predictions.txt"
+system "#{base}/svm_light/svm_classify #{doc}/adjectives_test.txt #{doc}/adjectives_model.txt #{doc}/adjectives_predictions.txt"
+system "#{base}/svm_light/svm_classify #{doc}/unigram_top_test.txt #{doc}/unigram_top_model.txt #{doc}/unigram_top_predictions.txt"
 
 puts "All Done!"
