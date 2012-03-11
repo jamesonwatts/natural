@@ -1,0 +1,18 @@
+capsule/NN :/: john/VB the/DT baptist/NN is/VBZ sent/VBN from/IN heaven/VBN to/TO see/VB is/VBZ the/DT world/NN is/VBZ worth/JJ saving/NN ./.
+he/PRP must/MD find/VB some/DT sign/NN of/IN hope/NN in/IN the/DT people/NNS of/IN newfoundland/NN ./.
+this/DT is/VBZ little/RB more/JJR than/IN a/DT tv/NN skit/NN in/IN movie/NN form/NN ./.
+it/PRP is/VBZ watchable/JJ and/CC apparently/RB will/MD be/VB released/VBN to/TO theaters/NNS in/IN canada/NN ,/, but/CC it/PRP is/VBZ unlikely/JJ to/TO be/VB seen/VBN on/IN the/DT international/JJ market/NN ./.
+it/PRP is/VBZ diverting/VBG but/CC hardly/RB a/DT serious/JJ piece/NN of/IN cinema/NN ./.
+,/, 0/CD (/( -4/CD to/TO +4/CD )/) minor/JJ spoilers/NNS in/IN this/DT review/NN ./.
+-/: written/VBN and/CC directed/VBN by/IN john/NN w/NN ./. doyle/NN ./.
+-/: john/NN the/DT baptist/NN sent/VBN to/TO st/VB ./. john/NN ,/, newfoundland/NN ./.
+gets/VBZ an/DT invitation/NN to/TO live/VB with/IN a/DT family/NN ./.
+that/DT extraordinary/JJ hospitality/NN for/IN some/DT reason/NN does/VBZ not/RB count/VB as/IN a/DT reason/NN for/IN hope/NN ./.
+-/: script/NN has/VBZ a/DT lot/NN of/IN holes/NNS ./.
+-/: friend/NN who/WP adopts/VBZ john/NN is/VBZ surprisingly/RB militant/JJ and/CC is/VBZ planning/VBG actions/NNS to/TO destabilize/VB wall/NN street/NN ./.
+-/: john/NN does/VBZ look/VB middle/JJ eastern/JJ ,/, but/CC somehow/RB one/CD expects/VBZ john/NN the/DT baptist/NN to/TO be/VB more/RBR dramatic/JJ ./.
+-/: there/EX is/VBZ a/DT conspiracy/NN in/IN the/DT vatican/JJ riding/NN on/IN the/DT result/NN of/IN the/DT visit/NN ,/, though/IN that/DT result/NN seems/VBZ small/JJ compared/VBN to/TO the/DT end/NN of/IN the/DT world/NN ./.
+-/: big/JJ yucks/NNS like/IN seeing/VBG a/DT nun/NN give/VBP the/DT pope/NN a/DT pedicure/NN and/CC evil/JJ pope/NN 's/POS aid/NN praying/VBG to/TO a/DT mendes/NNS goat/VBP ./.
+-/: in/IN large/JJ part/NN a/DT satire/NN of/IN life/NN in/IN newfoundland/NN taking/VBG licks/NNS at/IN things/NNS like/IN the/DT poor/JJ produce/NN ./.
+the/DT one/CD good/JJ tomato/NN in/IN grocery/NN (/( by/IN virtue/NN of/IN a/DT miracle/NN )/) ``/`` must/MD have/VB fallen/VBN off/IN the/DT truck/NN to/TO toronto/VB ./. ``/``
+-/: based/VBN on/IN a/DT 20-minute/JJ short/JJ film/NN ./.

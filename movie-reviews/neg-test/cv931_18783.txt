@@ -1,0 +1,18 @@
+it/PRP 's/VBZ a/DT sad/JJ state/NN of/IN affairs/NNS when/WRB the/DT back/JJ box/NN blurb/NN is/VBZ more/RBR exciting/JJ than/IN the/DT movie/NN contained/VBN within/IN it/PRP ./.
+such/JJ is/VBZ the/DT case/NN for/IN the/DT 1990/CD paul/NN mayersberg/NN film/NN _the/DT last/JJ samurai_/NN ./.
+though/IN the/DT blurb/NN alludes/VBZ to/TO ``/`` a/DT jungle/NN filled/VBN with/IN political/JJ intrigue/JJ ,/, uneasy/JJ alliances/NNS ,/, and/CC murderous/JJ enemies/NNS at/IN every/DT turn/NN ,/, ``/`` the/DT story/NN of/IN the/DT movie/NN is/VBZ actually/RB quite/RB simple/JJ (/( and/CC prosaic/JJ )/) :/: a/DT middle-aged/JJ japanese/JJ businessman/NN named/VBN endo/NN (/( played/VBN by/IN john/NN fujioka/NN )/) and/CC his/PRP$ assistant/NN ,/, both/DT of/IN whom/WP have/VBP samurai/VBN aspirations/NNS ,/, travel/NN to/TO africa/VB in/IN search/NN of/IN his/PRP$ ancestor/NN ,/, who/WP went/VBD to/TO bring/VB buddhism/NN to/TO africa/NN ./.
+he/PRP hires/VBZ the/DT services/NNS of/IN down-at-the-heels/JJ vietnam/NN veteran/NN pilot/NN johnny/NN congo/NN (/( the/DT redoubtable/JJ lance/NN henriksen/VBN )/) and/CC his/PRP$ girlfriend/NN (/( arabella/NN holzbog/NN )/) ,/, and/CC travels/NNS to/TO the/DT camp/NN of/IN an/DT arms-merchant-cum-safari-host-/NN cum-islamic-missionary/JJ (/( john/NN saxon/NN )/) and/CC his/PRP$ wife/NN (/( lisa/NN eilbacher/NN )/) ./.
+they/PRP are/VBP all/DT kidnapped/VBN by/IN an/DT african/JJ revolutionary/JJ guerilla/NN with/IN witch-doctor/NN aspirations/NNS to/TO conceal/VB a/DT pre-arranged/JJ arms/NNS deal/NN ,/, which/WDT subsequently/RB falls/VBZ through/IN ./.
+congo/NN escapes/NNS ,/, finds/VBZ endo/NN 's/POS ancestor/NN 's/POS sword/NN ,/, and/CC comes/VBZ back/RB ,/, guns/NNS blazing/JJ ,/, to/TO free/VB the/DT rest/NN of/IN them/PRP ,/, and/CC endo/VB kills/VBZ the/DT revolutionary/NN with/IN the/DT sword/NN ./.
+the/DT end/NN ./.
+_the/DT last/JJ samurai_/NN is/VBZ one/CD of/IN those/DT movies/NNS that/WDT is/VBZ neither/RB bad/JJ enough/RB nor/CC good/JJ enough/RB to/TO be/VB enjoyable/JJ ./.
+it/PRP is/VBZ merely/RB _there_/JJ ./.
+the/DT murky/JJ plot/NN is/VBZ filled/VBN with/IN subtexts/NNS that/WDT are/VBP never/RB elaborated/VBN ,/, subplots/NNS that/WDT are/VBP never/RB explained/VBN ,/, and/CC many/JJ scenes/NNS that/WDT make/VBP very/RB little/JJ sense/NN at/IN all/DT ./.
+the/DT film/NN is/VBZ shot/VBN through/RP with/IN all/PDT the/DT tired/VBN old/JJ ``/`` inscrutable/JJ japanese/JJ samurai/NNS ``/`` and/CC zen/JJ stereotypes/NNS that/WDT are/VBP to/TO be/VB expected/VBN from/IN an/DT american/JJ movie/NN ./.
+it/PRP is/VBZ quite/RB slow-paced/JJ ,/, with/IN only/RB a/DT bit/NN of/IN action/NN near/IN the/DT end/NN ,/, and/CC the/DT final/JJ duel/NN between/IN endo/NN and/CC the/DT terrorist/NN is/VBZ quite/RB anticlimactic/JJ ./.
+most/JJS of/IN the/DT acting/NN is/VBZ fair/JJ ,/, with/IN the/DT possible/JJ exception/NN of/IN congo/NN 's/POS girlfriend/NN ./.
+lance/NN henriksen/NN is/VBZ his/PRP$ usual/JJ scene-chewing/JJ self/NN ,/, and/CC is/VBZ one/CD of/IN few/JJ possible/JJ reasons/NNS anyone/NN might/MD conceivably/RB have/VB for/IN seeing/VBG this/DT movie/NN ./.
+the/DT only/JJ other/JJ bright/JJ spot/NN is/VBZ the/DT sweeping/JJ african/JJ scenery/NN ./.
+i/NNS paid/VBD $/$ 3/CD for/IN this/DT film/NN ,/, from/IN the/DT discount/NN rack/NN at/IN best/JJS buy/NN ,/, and/CC halfway/NN suspect/NN i/NNS overpaid/VBN for/IN it/PRP ./.
+if/IN you/PRP are/VBP in/IN the/DT mood/NN for/IN samurai/NNS ,/, read/VBD a/DT clavell/NN novel/NN or/CC watch/VB a/DT kurusawa/NN movie/NN ./.
+skip/VB _the/DT last/JJ samurai_/NN unless/IN you/PRP are/VBP a/DT die-hard/JJ henriksen/JJ fan/NN ./.

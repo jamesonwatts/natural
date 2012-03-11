@@ -1,0 +1,34 @@
+ingredients/NNS :/: james/NNS bond/NN ,/, scuba/NN scene/NN ,/, car/NN controlled/VBN by/IN cellular/JJ telephone/NN
+synopsis/NN :/: warped/VBD media/NNS tycoon/NN elliot/NN carver/NN (/( jonathan/JJ pryce/NN )/) plots/NNS to/TO start/VB a/DT war/NN between/IN britain/NN and/CC china/NN in/IN order/NN to/TO boost/VB ratings/NNS by/IN using/VBG a/DT 'stealth/JJ ship/NN '/'' to/TO fire/VB a/DT captured/JJ british/JJ missile/NN at/IN the/DT city/NN of/IN beijing/VBG ./.
+super-agent/JJ james/NNS bond/NN (/( pierce/JJ brosnan/NN )/) uses/VBZ trick/NN gadgets/NNS ,/, pluck/NN ,/, and/CC charm/NN in/IN order/NN to/TO foil/VB carver/NN 's/POS scheme/NN ./.
+this/DT time/NN bond/NN teams/VBZ up/RP with/IN top/JJ female/NN agent/NN wai/NN lin/NN from/IN china/NN (/( michelle/JJ yeoh/NN )/) ./.
+the/DT film/NN contains/VBZ fights/NNS ,/, chases/NNS ,/, gadgets/NNS ,/, and/CC comedic/JJ moments/NNS ./.
+opinion/NN :/: it/PRP does/VBZ not/RB have/VB a/DT casino/NN scene/NN or/CC a/DT ski/JJ scene/NN ,/, but/CC tomorrow/NN never/RB dies/VBZ is/VBZ nevertheless/RB a/DT solid/JJ ,/, enjoyable/JJ bond/NN movie/NN ./.
+it/PRP neither/DT stands/VBZ out/RP nor/CC disappoints/NNS ./.
+in/IN old/JJ bond/NN movies/NNS bond/NN sometimes/RB teamed/VBD up/RP with/IN american/JJ cia/NN agent/NN felix/NN leiter/NN ./.
+tomorrow/NN never/RB dies/VBZ introduces/VBZ a/DT new/JJ character/NN in/IN the/DT form/NN of/IN chinese/JJ agent/NN wai/NN lin/NN ./.
+like/IN leiter/NN 's/POS character/NN ,/, wai/NN lin/NN would/MD be/VB a/DT sure/JJ bet/NN for/IN a/DT cameo/NN in/IN a/DT later/JJ bond/NN movie/NN ./.
+stars/NNS :/: michelle/JJ yeoh/NN was/VBD born/VBN a/DT leo/NN in/IN the/DT western/JJ zodiac/NN in/IN the/DT year/NN of/IN the/DT tiger/NN on/IN the/DT asian/JJ astrology/NN calendar/NN ./.
+i/JJ dont/NN believe/VBP in/IN horoscopes/NNS ./.
+but/CC at/IN an/DT airport/NN i/NN once/RB browsed/VBD an/DT astrology/NN book/NN with/IN a/DT section/NN on/IN leo/NN tigers/NNS (/( lts/NNS )/) ./.
+``/`` leo/NN tigers/NNS prefer/VBP enough/JJ solitude/NN to/TO grow/VB at/IN their/PRP$ own/JJ pace/NN ./.
+lts/NNS are/VBP unbelievably/RB courageous/JJ when/WRB facing/VBG adversity/NN ./.
+the/DT lt/NN is/VBZ also/RB classy/JJ ,/, and/CC has/VBZ an/DT excellent/JJ sense/NN of/IN refinement/NN ,/, but/CC she/PRP sees/VBZ herself/PRP as/IN an/DT adventurer/NN ,/, and/CC prefers/VBZ freedom/NN of/IN movement/NN rather/RB than/IN flashy/JJ status/NN symbols/NNS ./.
+this/DT person/NN loves/VBZ family/NN and/CC friends/NNS with/IN a/DT fierce/JJ loyalty/NN ./.
+she/PRP delights/VBZ in/IN siblings/NNS ,/, nephews/NNS ,/, nieces/NNS and/CC extended/JJ family/NN -/: -/: but/CC she/PRP must/MD have/VB her/PRP$ personal/JJ freedom/NN to/TO come/VB and/CC go/VB as/IN she/PRP pleases/VBZ ./.
+sometimes/RB annoyance/NN at/IN injustice/NN drives/VBZ her/PRP to/TO take/VB up/RP one/CD or/CC two/CD causes/NNS ./.
+in/IN love/NN life/NN ,/, the/DT lt/NN has/VBZ an/DT unfortunate/JJ mental/JJ block/NN against/IN committing/VBG to/TO any/DT partner/NN who/WP is/VBZ less/RBR powerful/JJ than/IN she/PRP ./. ``/``
+in/IN real/JJ life/NN ,/, michelle/NN yeoh/NN is/VBZ asia/NN 's/POS top/JJ female/NN star/NN ./.
+like/IN jackie/NN chan/NN ,/, she/PRP does/VBZ her/PRP$ own/JJ stunts/NNS ./.
+she/PRP was/VBD born/VBN in/IN malaysia/NN -/: -/: a/DT country/NN of/IN many/JJ languages/NNS -/: -/: and/CC her/PRP$ primary/JJ language/NN (/( the/DT language/NN she/PRP speaks/VBZ in/IN her/PRP$ sleep/NN )/) is/VBZ english/JJ ./.
+she/PRP was/VBD taught/VBN malay/NN in/IN school/NN ,/, and/CC learned/VBD cantonese/NN from/IN bilingual/JJ parents/NNS ./.
+as/IN an/DT athlete/JJ michelle/NN represented/VBD malaysia/NN internationally/RB ./.
+she/PRP enjoyed/VBD squash/NN ,/, diving/NN ,/, swimming/NN ,/, and/CC rugby/NN ./.
+she/PRP studied/VBD ballet/NN at/IN the/DT royal/JJ academy/NN of/IN dance/NN in/IN london/NN ,/, but/CC switched/VBD to/TO drama/VB after/IN a/DT spinal/JJ injury/NN ./.
+in/IN 1983/CD she/PRP won/VBD the/DT miss/JJ malaysia/NN pageant/NN -/: -/: without/IN really/RB intending/VBG to/TO ,/, since/IN a/DT family/NN member/NN had/VBD entered/VBN her/PRP in/IN the/DT contest/NN without/IN her/PRP$ knowledge/NN ./.
+notoriety/NN from/IN the/DT contest/NN led/VBD eventually/RB to/TO a/DT movie/NN career/NN as/IN an/DT action/NN heroine/NN ./.
+michelle/NN has/VBZ survived/VBN a/DT divorce/NN with/IN asian/JJ retail/JJ tycoon/NN dickson/NN poon/NN ;/: a/DT nearly/RB fatal/JJ stunt/NN accident/NN falling/VBG from/IN a/DT freeway/NN overpass/NN which/WDT put/VBD her/PRP in/IN the/DT hospital/NN for/IN three/CD months/NNS ,/, and/CC ;/: a/DT retirement/NN from/IN the/DT movies/NNS ./.
+her/PRP$ comeback/NN from/IN retirement/NN ,/, supercop/NN (/( 1992/CD )/) became/VBD the/DT top/JJ grossing/VBG film/NN in/IN asia/NN that/DT year/NN ./.
+it/PRP is/VBZ not/RB clear/JJ what/WP michelles/NNS martial/JJ arts/NNS style/NN is/VBZ ,/, but/CC it/PRP may/MD be/VB a/DT theatrical/JJ version/NN of/IN wing/VBG chun/NN ./.
+of/IN her/PRP$ character/NN wai/NN lin/NN in/IN tomorrow/NN never/RB dies/VBZ ,/, michelle/NN says/VBZ ,/, ``/`` wai/NN lin/NN is/VBZ the/DT first/JJ bond/NN girl/NN who/WP is/VBZ on/IN a/DT par/NN with/IN bond/NN ,/, someone/NN who/WP can/MD match/VB up/RP with/IN him/PRP mentally/RB and/CC physically/RB ./. ``/``
+my/PRP$ own/JJ opinion/NN is/VBZ that/IN casting/VBG michelle/JJ yeoh/NN as/IN agent/NN wai/NN lin/NN was/VBD an/DT excellent/JJ choice/NN ./.

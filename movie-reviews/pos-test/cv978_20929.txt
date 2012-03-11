@@ -1,0 +1,44 @@
+``/`` when/WRB you/PRP get/VBP out/IN of/IN jail/NN ,/, you/PRP can/MD kill/VB him/PRP ./. ``/``
+starring/VBG ashley/NN judd/NN ,/, tommy/JJ lee/NN jones/NNS ,/, bruce/NN greenwood/NN ./.
+rated/VBN r/NN ./.
+double/JJ jeopardy/NN is/VBZ a/DT lurid/JJ ,/, prepostrous/JJ thriller/NN that/WDT 's/VBZ also/RB one/CD of/IN the/DT year/NN 's/VBZ most/RBS enjoyable/JJ ./.
+it/PRP 's/VBZ an/DT uncompromisingly/RB brutal/JJ ,/, cheerfully/RB anarchic/JJ ,/, hyperactive/JJ actioner/NN that/WDT has/VBZ a/DT mission/NN and/CC never/RB diverts/NNS from/IN it/PRP ./.
+there/EX is/VBZ not/RB a/DT moment/NN here/RB when/WRB the/DT events/NNS on/IN screen/NN do/VBP n't/RB have/VB a/DT direct/JJ bearing/NN on/IN the/DT plot/NN ;/: once/RB the/DT film/NN gets/VBZ going/VBG it/PRP never/RB stops/VBZ ./.
+it/PRP has/VBZ been/VBN branded/VBN as/IN the/DT female/JJ version/NN of/IN the/DT fugitive/JJ and/CC that/DT 's/VBZ probably/RB a/DT correct/JJ assessment/NN of/IN the/DT plot/NN ,/, but/CC the/DT film/NN itself/PRP has/VBZ little/RB in/IN common/JJ with/IN the/DT 1993/CD andrew/CC davis/harrison/NN ford/JJ collaboration/NN besides/IN the/DT presence/NN of/IN star/NN tommy/NN lee/NN jones/NNS ./.
+not/RB even/RB bothering/VBG with/IN character/NN introduction/NN ,/, director/NN bruce/NN beresford/NN floors/VBZ the/DT gas/NN pedal/NN from/IN the/DT get-go/JJ and/CC never/RB finds/VBZ the/DT brake/NN ./.
+we/PRP meet/VBP ,/, rather/RB hastily/RB ,/, libby/NN and/CC nick/NN parsons/NNS (/( ashley/JJ judd/NN and/CC bruce/NN greenwood/NN ,/, respectively/RB )/) a/DT seemingly/RB happy/JJ married/JJ couple/NN ,/, with/IN a/DT son/NN matty/NN ,/, age/NN 4/CD ./. they/PRP go/VBP out/RB on/IN a/DT sailboat/NN one/CD night/NN ,/, and/CC after/IN a/DT period/NN of/IN some/DT rockin/NN '/POS sex/NN ,/, they/PRP go/VBP to/TO sleep/VB ./.
+libby/NN hears/VBZ a/DT strange/JJ noise/NN ,/, wakes/VBZ up/RP and/CC discovers/VBZ that/IN she/PRP is/VBZ covered/VBN with/IN blood/NN ./.
+she/PRP follows/VBZ a/DT red/JJ trail/NN to/TO the/DT upper/JJ deck/NN ,/, where/WRB she/PRP finds/VBZ a/DT knife/NN and/CC ,/, out/IN of/IN astonishment/NN ,/, picks/VBZ it/PRP up/RP ./.
+at/IN that/DT convenient/JJ moment/NN ,/, the/DT coast/NN guard/NN shows/VBZ up/RP and/CC libby/NN is/VBZ arrested/VBN ./.
+her/PRP$ lawyer/NN ,/, a/DT friend/NN ,/, puts/VBZ up/RP a/DT defense/NN in/IN court/NN ,/, but/CC though/IN we/PRP know/VBP she/PRP is/VBZ innocent/JJ ,/, the/DT evidence/NN against/IN her/PRP is/VBZ too/RB compelling/JJ ./.
+her/PRP$ friend/NN adopts/VBZ her/PRP$ son/NN and/CC she/PRP goes/VBZ to/TO prison/NN ./.
+once/RB in/IN prison/NN ,/, she/PRP makes/VBZ a/DT phone/NN call/NN to/TO her/PRP$ friend/NN ./.
+her/PRP$ friend/NN gives/VBZ her/PRP$ son/NN the/DT phone/NN ./.
+nick/NN walks/VBZ in/IN the/DT room/NN ./.
+little/JJ matty/JJ screams/NNS ``/`` daddy/JJ !/. ``/``
+the/DT phone/NN goes/VBZ dead/JJ ./.
+libby/NN realizes/VBZ that/IN the/DT man/NN she/PRP is/VBZ imprisoned/VBN for/IN killing/NN is/VBZ n't/RB even/RB dead/JJ ./.
+she/PRP gets/VBZ some/DT advice/NN from/IN a/DT prisoner/former/JJ lawyer/NN ,/, who/WP tells/VBZ her/PRP that/IN since/IN the/DT state/NN already/RB convicted/VBD her/PRP of/IN killing/VBG her/PRP$ husband/NN ,/, they/PRP ca/MD n't/RB convict/VB her/PRP of/IN the/DT same/JJ crime/NN again/RB ,/, meaning/VBG that/IN when/WRB she/PRP gets/VBZ paroled/VBN she/PRP can/MD kill/VB him/PRP and/CC they/PRP ca/MD n't/RB touch/VB her/PRP ./.
+after/IN a/DT weirdly/RB short/JJ amount/NN of/IN time/NN ,/, she/PRP gets/VBZ out/IN of/IN parole/NN ./.
+she/PRP is/VBZ sent/VBN to/TO live/VB at/IN a/DT house/NN with/IN other/JJ recent/JJ parolees/NNS ,/, under/IN the/DT command/NN of/IN parole/NN officer/NN travis/NN lehman/NN (/( tommy/JJ lee/NN jones/NNS )/) ./.
+she/PRP sets/VBZ out/RP on/IN a/DT mission/NN to/TO find/VB her/PRP$ husband/NN and/CC get/VB her/PRP$ son/NN back/RB ,/, which/WDT turns/VBZ out/RP to/TO be/VB much/RB more/RBR difficult/JJ than/IN anticipated/VBN ./.
+she/PRP winds/VBZ up/RP tracking/VBG him/PRP all/PDT the/DT way/NN to/TO new/JJ orleans/NNS where/WRB she/PRP finds/VBZ out/RP that/IN he/PRP has/VBZ long/RB killed/VBN his/PRP$ girlfriend/NN and/CC her/PRP$ son/NN 's/POS ``/`` adopter/NN ``/`` ./.
+double/JJ jeopardy/NN is/VBZ based/VBN on/IN an/DT assumption/NN that/WDT is/VBZ legally/RB false/JJ ./.
+the/DT law/NN stating/VBG that/IN nobody/NN can/MD be/VB convicted/VBN twice/RB for/IN the/DT same/JJ crime/NN assumes/VBZ that/IN it/PRP is/VBZ the/DT same/JJ crime/NN :/: same/JJ time/NN ,/, same/JJ place/NN ,/, same/JJ circumstances/NNS ./.
+it/PRP 's/VBZ not/RB like/IN it/PRP matters/VBZ ./.
+this/DT is/VBZ a/DT rollickingly/RB good/JJ thriller/NN ;/: intense/JJ ,/, exciting/JJ ,/, fast/JJ and/CC furious/JJ ./.
+it/PRP 's/VBZ silly/RB alright/RB ,/, but/CC this/DT is/VBZ the/DT kind/NN of/IN film/NN you/PRP just/RB do/VBP n't/RB question/VB ./.
+in/IN some/DT films/NNS ,/, plausibility/NN is/VBZ everything/NN ./.
+double/JJ jeopardy/NN ,/, however/RB ,/, is/VBZ not/RB concerned/VBN with/IN making/VBG sense/NN :/: its/PRP$ sole/JJ purpose/NN is/VBZ to/TO entertain/VB ,/, and/CC it/PRP does/VBZ ./.
+judd/NN helps/VBZ the/DT film/NN tremendously/RB in/IN a/DT difficult/JJ role/NN ./.
+this/DT is/VBZ her/PRP$ breakout/NN box-office/NN performance/NN ,/, and/CC she/PRP is/VBZ terrific/JJ ./.
+she/PRP brings/VBZ some/DT emotion/NN to/TO what/WP could/MD have/VB been/VBN a/DT one-dimensional/JJ role/NN ,/, giving/VBG the/DT movie/NN a/DT little/JJ soul/NN to/TO go/VB along/RP with/IN its/PRP$ effective/JJ chase/NN scenes/NNS and/CC action/NN set/NN pieces/NNS ./.
+tommy/NN lee/NN jones/NNS basically/RB just/RB reprises/VBZ the/DT role/NN for/IN which/WDT he/PRP won/VBD an/DT oscar/NN in/IN the/DT fugitive/JJ ,/, but/CC the/DT movie/NN makes/VBZ good/JJ use/NN of/IN his/PRP$ stone-faced/JJ wit/NN ./.
+thankfully/RB ,/, too/RB ,/, double/JJ jeopardy/NN refrains/NNS from/IN developing/VBG a/DT romance/NN between/IN libby/NN and/CC travis/NN ;/: a/DT subplot/NN which/WDT doubtlessly/RB would/MD have/VB interfered/VBN with/IN the/DT film/NN 's/POS story/NN ./.
+this/DT is/VBZ one/CD of/IN those/DT movies/NNS where/WRB cops/NNS are/VBP the/DT bad/JJ guys/NNS ,/, and/CC i/NNS took/VBD a/DT sort/NN of/IN sick/JJ pleasure/NN in/IN that/DT ./.
+the/DT sheer/JJ anarchy/NN of/IN the/DT proceedings/NNS was/VBD nothing/NN short/JJ of/IN wonderful/JJ ,/, as/IN ashley/NN judd/NN kicks/VBZ the/DT crap/NN out/IN of/IN every/DT authority/NN figure/NN in/IN the/DT book/NN ./.
+after/IN all/PDT the/DT idealistic/JJ hollywood/NN features/NNS featuring/VBG hero/NN cops/NNS ,/, deft/VBD fbi/JJ agents/NNS and/CC the/DT virtues/NNS of/IN the/DT american/JJ legal/JJ system/NN ,/, it/PRP 's/VBZ great/JJ to/TO see/VB a/DT movie/NN that/WDT does/VBZ n't/RB so/RB much/JJ demonstrate/VB their/PRP$ fallacy/NN as/IN it/PRP delights/VBZ in/IN their/PRP$ failure/NN ./.
+double/JJ jeopardy/NN is/VBZ really/RB good/JJ ,/, but/CC it/PRP is/VBZ n't/RB the/DT kind/NN of/IN good/JJ that/WDT is/VBZ remembered/VBN or/CC recognized/VBN with/IN awards/NNS ./.
+it/PRP 's/VBZ one/CD of/IN those/DT movies/NNS better/RBR viewed/VBN with/IN the/DT brain/NN turned/VBD off/RP ,/, otherwise/RB ,/, your/PRP$ brain/NN will/MD be/VB busy/JJ ruining/VBG your/PRP$ experience/NN ./.
+this/DT is/VBZ a/DT thriller/NN that/WDT is/VBZ n't/RB concerned/VBN with/IN being/VBG smart/JJ or/CC plausible/JJ ./.
+instead/RB it/PRP diverts/VBZ all/DT attention/NN to/TO the/DT action/NN ,/, which/WDT ,/, this/DT year/NN ,/, is/VBZ second/JJ to/TO none/NN ./.

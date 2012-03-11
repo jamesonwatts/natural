@@ -1,0 +1,58 @@
+martin/NN scorsese/NN 's/POS films/NNS used/VBD to/TO intimidate/VB me/PRP ./.
+because/IN of/IN his/PRP$ reputation/NN ,/, i/NNS felt/VBD obligated/VBN to/TO appreciate/VB them/PRP as/IN deep/JJ film/NN art/NN rather/RB than/IN as/RB great/JJ flicks/NNS ./.
+as/RB much/RB as/IN i/NNS enjoyed/VBD them/PRP ,/, i/NNS usually/RB felt/VBD like/IN i/NNS missed/VBD something/NN ./.
+i/NNS learned/VBD from/IN scorsese/NN 's/POS casino/NN that/IN whatever/WDT techniques/NNS he/PRP uses/VBZ are/VBP merely/RB there/RB to/TO enhance/VB the/DT story/NN ./.
+no/DT mystical/JJ interpretation/NN is/VBZ required/VBN to/TO appreciate/VB his/PRP$ movies/NNS ./.
+for/IN example/NN ,/, in/IN casino/NN he/PRP uses/VBZ subtitles/NNS when/WRB robert/NN deniro/NN and/CC joe/NN pesci/NNS are/VBP using/VBG code/NN words/NNS with/IN each/DT other/JJ ./.
+there/EX was/VBD no/DT meaning/NN more/RBR exotic/JJ than/IN that/IN subtitles/NNS were/VBD the/DT most/RBS succinct/JJ way/NN for/IN him/PRP to/TO tell/VB the/DT audience/NN what/WP was/VBD really/RB going/VBG on/RP ./.
+or/CC toward/IN the/DT end/NN ,/, when/WRB he/PRP uses/VBZ three/CD quick/JJ dissolves/NNS to/TO compress/VB a/DT scene/NN of/IN a/DT car/NN backing/VBG away/RB from/IN a/DT building/NN ./.
+again/RB ,/, the/DT simple/JJ ,/, mundane/JJ explanation/NN is/VBZ that/IN it/PRP helped/VBD the/DT pacing/NN ./.
+i/NNS do/VBP n't/RB mean/VB to/TO say/VB that/IN his/PRP$ techniques/NNS are/VBP not/RB creative/JJ or/CC good-looking/JJ ./.
+but/CC he/PRP simply/RB uses/VBZ the/DT best/JJS tool/NN for/IN the/DT job/NN ./.
+it/PRP should/MD n't/RB have/VB surprised/VBN me/PRP ,/, then/RB ,/, that/DT kundun/NN ,/, a/DT film/NN about/IN a/DT mystical/JJ religion/NN ,/, actually/RB turned/VBD out/RP to/TO be/VB quite/RB straightforward/JJ ./.
+the/DT movie/NN follows/VBZ the/DT life/NN of/IN the/DT 14th/JJ dalai/NN lama/NN ,/, the/DT spiritual/JJ and/CC political/JJ leader/NN of/IN tibet/NN ./.
+the/DT movie/NN 's/POS title/NN is/VBZ another/DT name/NN for/IN the/DT dalai/NN lama/NN which/WDT means/VBZ ``/`` ocean/NN of/IN wisdom/NN ./. ``/``
+his/PRP$ story/NN is/VBZ told/VBN in/IN strict/JJ chronological/JJ order/NN and/CC there/EX are/VBP only/RB a/DT few/JJ cinematic/JJ visions/NNS to/TO embellish/VB the/DT literal/JJ story/NN ./.
+(/( one/CD of/IN which/WDT makes/VBZ an/DT interesting/JJ statement/NN :/: pay/VB attention/NN to/TO the/DT film/NN 's/POS opening/VBG shot/NN and/CC watch/VB where/WRB it/PRP is/VBZ repeated/VBN ./. )/)
+we/PRP first/RB glimpse/VBP the/DT dalai/JJ lama/NN when/WRB he/PRP is/VBZ two/CD years/NNS old/JJ ./.
+his/PRP$ curiosity/NN and/CC self-assuredness/NN capture/NN the/DT attention/NN of/IN a/DT monk/NN wandering/VBG in/IN search/NN of/IN the/DT new/JJ lama/NN ./.
+a/DT test/NN is/VBZ arranged/VBN to/TO see/VB if/IN this/DT boy/NN really/RB is/VBZ the/DT reincarnation/NN of/IN the/DT 13/CD dalai/NN lamas/NNS who/WP have/VBP gone/VBN before/RB ./.
+several/JJ items/NNS belonging/VBG to/TO the/DT previous/JJ dalai/NN lama/NN are/VBP laid/VBN before/IN the/DT boy/NN alongside/IN some/DT other/JJ items/NNS ./.
+the/DT child/NN is/VBZ asked/VBN if/IN he/PRP recognizes/VBZ any/DT of/IN the/DT items/NNS as/IN his/PRP$ own/JJ ./.
+the/DT boy/NN picks/VBZ correctly/RB ,/, proving/VBG that/IN he/PRP is/VBZ the/DT new/JJ ,/, and/CC the/DT old/JJ ,/, dalai/JJ lama/NN ./.
+scorsese/NN and/CC long-time/JJ editor/NN thelma/NN schoonmaker/NN were/VBD kind/RB enough/RB to/TO allow/VB the/DT possibility/NN that/IN the/DT child/NN was/VBD taking/VBG his/PRP$ cues/NNS from/IN the/DT monk/NN ./.
+before/IN selecting/VBG an/DT item/NN ,/, he/PRP would/MD look/VB at/IN the/DT monk/NN ,/, perhaps/RB for/IN some/DT sort/NN of/IN confirmation/NN ./.
+sometimes/RB he/PRP picked/VBD right/RB the/DT first/JJ time/NN ,/, and/CC sometimes/RB he/PRP made/VBD a/DT second/JJ choice/NN ./.
+either/DT way/NN ,/, whether/IN through/IN reincarnation/NN or/CC quick/JJ human/JJ perception/NN ,/, the/DT tibetans/NNS were/VBD assured/VBN of/IN choosing/VBG a/DT boy/NN who/WP could/MD be/VB a/DT wise/JJ ,/, perceptive/JJ leader/NN ./.
+>/LS from/IN this/DT point/NN on/IN ,/, the/DT boy/NN is/VBZ raised/VBN as/IN the/DT reincarnation/NN of/IN the/DT lama/NN 's/POS spirit/NN and/CC the/DT future/JJ leader/NN of/IN a/DT nation/NN ./.
+it/PRP is/VBZ a/DT great/JJ weight/NN to/TO put/VB on/IN the/DT mind/NN of/IN a/DT child/NN ./.
+in/IN the/DT u/NN ./. s/NNS ./. it/PRP might/MD be/VB grounds/NNS for/IN a/DT call/NN to/TO social/JJ services/NNS ./.
+but/CC the/DT young/JJ lama/NN accepts/VBZ his/PRP$ destiny/NN without/IN any/DT apparent/JJ emotional/JJ damage/NN ./.
+neither/CC the/DT great/JJ power/NN nor/CC the/DT awesome/JJ responsibility/NN keeps/VBZ him/PRP from/IN becoming/VBG a/DT genuinely/RB likeable/JJ ,/, well-rounded/JJ person/NN ./.
+certain/JJ patterns/NNS take/VBP shape/NN over/IN the/DT years/NNS ./.
+for/IN example/NN ,/, the/DT dalai/NN lama/NN is/VBZ fascinated/VBN by/IN technology/NN ./.
+radios/NNS ,/, clocks/NNS ,/, and/CC telescopes/NNS are/VBP some/DT of/IN his/PRP$ favorite/JJ toys/NNS ./.
+when/WRB he/PRP is/VBZ old/JJ enough/RB to/TO accept/VB his/PRP$ leadership/NN ,/, he/PRP makes/VBZ plans/NNS to/TO modernize/VB isolated/JJ tibet/NN ./.
+he/PRP also/RB has/VBZ a/DT soft/JJ spot/NN for/IN creatures/NNS who/WP are/VBP suffering/VBG or/CC in/IN pain/NN ,/, including/VBG herd/JJ animals/NNS ./.
+it/PRP 's/VBZ nearly/RB a/DT running/VBG gag/NN that/IN he/PRP will/MD buy/VB sheep/NN to/TO keep/VB them/PRP from/IN being/VBG herded/VBN to/TO slaughter/VB ./.
+but/CC the/DT most/RBS ominous/JJ constant/NN throughout/IN his/PRP$ life/NN is/VBZ the/DT presence/NN and/CC threat/NN of/IN tibet/NN 's/POS gigantic/JJ neighbor/NN ,/, china/NN ./.
+tibet/NN and/CC its/PRP$ leaders/NNS prove/VBP correct/JJ in/IN fearing/VBG china/NN ,/, as/IN ,/, first/RB the/DT propaganda/NN ,/, then/RB the/DT political/JJ pressure/NN ,/, and/CC finally/RB the/DT armies/NNS ,/, come/VBN across/IN their/PRP$ common/JJ border/NN ./.
+the/DT chinese/JJ invasion/NN is/VBZ so/RB successful/JJ that/IN the/DT lama/NN 's/POS life/NN is/VBZ in/IN danger/NN if/IN he/PRP stays/VBZ ./.
+the/DT movie/NN ends/VBZ when/WRB ,/, after/IN much/JJ agonizing/VBG ,/, the/DT dalai/NN lama/NN leaves/VBZ tibet/NN for/IN india/NN ./.
+the/DT story/NN does/VBZ n't/RB lead/VB up/RP to/TO a/DT cinematic/JJ climax/NN as/RB strongly/RB as/IN most/JJS feature/JJ films/NNS do/VBP ./.
+it/PRP just/RB does/VBZ n't/RB fit/VB that/DT mold/NN ./.
+if/IN it/PRP were/VBD forced/VBN into/IN such/PDT a/DT shape/NN it/PRP would/MD have/VB been/VBN a/DT completely/RB different/JJ movie/NN (/( perhaps/RB more/JJR like/IN seven/CD years/NNS in/IN tibet/NN ,/, which/WDT is/VBZ good/JJ in/IN its/PRP$ own/JJ right/NN )/) ./.
+the/DT pacing/NN of/IN kundun/NN is/VBZ more/RBR calm/JJ and/CC level/JJ than/IN that/DT ./.
+the/DT structure/NN of/IN the/DT film/NN is/VBZ made/VBN to/TO fit/VB the/DT characters/NNS and/CC events/NNS ,/, not/RB vice-versa/NN ./.
+perhaps/RB because/IN the/DT pace/NN is/VBZ slower/JJR ,/, we/PRP have/VBP more/JJR time/NN to/TO notice/VB the/DT beautiful/JJ art/NN ,/, vestments/NNS ,/, and/CC architecture/NN of/IN tibet/NN ./.
+a/DT mandala/NN ,/, (/( tibetan/JJ sand/NN painting/NN )/) with/IN beautiful/JJ ,/, vibrant/JJ colors/NNS is/VBZ shown/VBN throughout/IN the/DT movie/NN ./.
+the/DT robes/NNS and/CC hats/NNS of/IN state/NN are/VBP bright/JJ red/NN and/CC gold/NN ./.
+the/DT bricks/NNS are/VBP a/DT rich/JJ reddish/JJ brown/NN ,/, not/RB unlike/IN the/DT skin/NN tone/NN of/IN the/DT tibetans/NNS ./.
+even/RB the/DT touchstone/NN pictures/VBZ logo/NN before/IN the/DT movie/NN (/( which/WDT is/VBZ usually/RB light/JJ blue/NN )/) is/VBZ the/DT red/JJ and/CC gold/NN of/IN tibet/NN ./.
+philip/NN glass/NN composed/VBD the/DT music/NN for/IN kundun/NN ,/, and/CC he/PRP was/VBD the/DT perfect/JJ choice/NN ./.
+for/IN those/DT who/WP do/VBP n't/RB know/VB of/IN glass/NN ,/, his/PRP$ music/NN is/VBZ like/IN a/DT tibetan/JJ mandala/NN ./.
+his/PRP$ building/NN blocks/NNS are/VBP lots/NNS of/IN small/JJ notes/NNS ,/, tiny/JJ grains/NNS of/IN music/NN ,/, which/WDT are/VBP first/JJ grouped/VBN ,/, then/RB repeated/VBN in/IN patterns/NNS ./.
+these/DT patterns/NNS create/VBP interesting/JJ textures/NNS which/WDT are/VBP themselves/PRP part/NN of/IN a/DT larger/JJR composition/NN ./.
+people/NNS wo/MD n't/RB be/VB flocking/VBG to/TO kundun/VB for/IN it/PRP 's/VBZ great/JJ ending/NN ,/, or/CC talking/VBG about/IN its/PRP$ outstanding/JJ plot/NN ,/, but/CC it/PRP does/VBZ have/VB a/DT lot/NN to/TO offer/VB :/: an/DT interesting/JJ lifetime/NN ,/, exotic/JJ sights/NNS ,/, rich/JJ cinematography/NN ,/, and/CC innovative/JJ music/NN ./.
+it/PRP gives/VBZ interesting/JJ insight/NN into/IN tibetan/JJ buddhism/NN and/CC takes/VBZ a/DT warm/JJ look/NN at/IN the/DT dalai/JJ lama/NN as/IN a/DT person/NN ./.
+on/IN top/NN of/IN it/PRP all/DT is/VBZ the/DT cinematic/JJ mastery/NN of/IN martin/NN scorsese/NNS ,/, who/WP gives/VBZ the/DT film/NN a/DT strong/JJ ,/, beautiful/JJ ,/, consistent/JJ look/NN ./.
