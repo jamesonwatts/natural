@@ -1,0 +1,25 @@
+
+#
+# Features
+#
+# Data format by column is:
+# word  prevWord    nextWord	POS	prevPOS nextPOS 
+#
+useClassFeature=true
+1.realValued=true
+2.realValued=true
+3.realValued=true
+4.realValued=true
+5.realValued=true
+6.realValued=true
+7.realValued=true
+8.realValued=true
+9.realValued=true
+
+printClassifier=AllWeights
+
+#
+# Training input
+#
+trainFile=/Users/jameson/Projects/natural/doc/assn4/features_train.txt
+testFile=/Users/jameson/Projects/natural/doc/assn4/features_test.txt

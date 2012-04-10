@@ -1,0 +1,32 @@
+Part 1
+
+Code is attached--it was written in Ruby. I grabbed text from xml using Hpricot then got sentences and words from a Ruby wrapper of the Stanford parser. Then rolled my own uni-grams and bi-grams. Then output the top results, to a comma delimited file.
+
+Part 2
+
+I define proper nouns as those nouns which are capitalized and name a one-of-a kind item, including abbreviations. For proper nouns that consist of two words--like Alfa Romeo or New York, I picked the second word to signify frequency since a capitalized "New" is somewhat ambiguous. I'm not sure how RRB and LRB are used in the corpus but they might be considered the top two proper nouns. Otherwise I find:
+
+Most frequent: U.S.
+2nd most frequent: York (second half of New York)
+
+For my verbs, I find that "is", "said" and "are" are the top three and can function as either aux or non-aux verbs.
+
+Part 3
+
+Spreadsheet is attached. I treated Bristol-Myers as one word. I would tend to think that "Bristol-Myers and Sun agreed to merge" would have higher probability because "and" occurs more than "with", but I really don't know.
+
+my function using bi-gram approximation is as follows:
+
+p(w1w2w3w4w5w6w7w8w9) = p(w1)p(w2|w1)p(w3|w2)p(w4|w3)p(w5|w4)p(w6|w5)p(w7|w6)p(w8|w7)p(w9|w8)
+
+For "Bristol-Myers agreed to merge with Sun", the probability is: 3.19376E-14
+For "Bristol-Myers and Sun agreed to merge", the probability is: 5.20559E-15
+
+I used p(w1) = f(w1)/(total words in corpus) …is that right? Of course it doesn't make a difference in the ratio since "<s/>" is always the first word.
+
+Thus the first sentence is about 6.14 times more likely than the second.
+
+Part 4
+
+
+
