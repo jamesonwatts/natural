@@ -5,18 +5,41 @@
 # Data format by column is:
 # word  prevWord    nextWord	POS	prevPOS nextPOS 
 #
-useClassFeature=true
-1.realValued=true
-2.realValued=true
-3.realValued=true
-4.realValued=true
-5.realValued=true
-6.realValued=true
-7.realValued=true
-8.realValued=true
-9.realValued=true
+#useClassFeature=true
+1.useString=true
+2.useString=true
+3.useString=true
+4.useString=true
+5.useString=true
+6.useString=true
+7.useString=true
+8.useString=true
+9.useString=true
+10.realValued=true
+11.realValued=true
+12.realValued=true
+13.useString=true
+14.realValued=true
+15.useString=true
+16.useString=true
+17.useString=true
+18.realValued=true
+19.realValued=true
+20.realValued=true
+21.realValued=true
+22.realValued=true
+23.realValued=true
+24.realValued=true
+25.realValued=true
+26.realValued=true
+27.realValued=true
+28.realValued=true
+29.realValued=true
+30.realValued=true
+31.realValued=true
+32.realValued=true
 
-printClassifier=AllWeights
+#printClassifier=AllWeights
 
 #
 # Training input

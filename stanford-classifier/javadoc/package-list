@@ -1,0 +1,12 @@
+edu.stanford.nlp.classify
+edu.stanford.nlp.io
+edu.stanford.nlp.ling
+edu.stanford.nlp.math
+edu.stanford.nlp.objectbank
+edu.stanford.nlp.optimization
+edu.stanford.nlp.process
+edu.stanford.nlp.sequences
+edu.stanford.nlp.stats
+edu.stanford.nlp.util
+edu.stanford.nlp.util.concurrent
+edu.stanford.nlp.util.logging
